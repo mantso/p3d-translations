@@ -98,14 +98,14 @@
 			"title": "WITHDRAW ANYTIME",
 			"content": [
 				"That Smart contract <i>(your new robo accounting buddy)</i> holds all ethereum ever put into purchasing these tokens, and <b> will gleefully give you all ethereum you are owed</b> whenever you want to withdraw , or dump your tokens. You weak handed fool.",
-				"The robot is also indifferent to the plight of man, cannot be stopped, shut down, or ended without the death of the ethereum network itself"
+				"The robot is also indifferent to the plight of man, cannot be stopped, shut down, or ended without the death of the ethereum network itself."
 			]
 		},
 		{
 			"title": "<b>SPARKNOTES</b>",
 			"list": [{
 					"header": "Managed by a smart contract entirely",
-					"content": "no human involvement in managing the ethereum, at all. Period."
+					"content": "No human involvement in managing the ethereum, at all. Period."
 				},
 				{
 					"header": "Automatic pricing",
@@ -124,7 +124,7 @@
 					"content": "Each token has intrinsic value, as every token is backed by the eth already in the contract <i>(try to find another crypto that does this).</i>"
 				},
 				{
-					"header": "Serious in all the wrong ways.",
+					"header": "Serious in all the wrong ways",
 					"content": "See cute snek mascot representing your financial future."
 				}
 
@@ -166,7 +166,7 @@
 			},
 			{
 				"title": "Relax",
-				"content": "That's it, you already win.<br><br>With continuous volume you'll recieve a steady flow of ETH for as long as you come to collect"
+				"content": "That's it, you already win.<br><br>With continuous volume you'll recieve a steady flow of ETH for as long as you come to collect."
 			},
 			{
 				"title": "Strong Hands",
@@ -192,7 +192,7 @@
 			},
 			{
 				"name": "Vitalik's Shirt",
-				"content": "We're just a little worried okay",
+				"content": "We're just a little worried okay.",
 				"title": "Clothing: Cotton"
 			},
 			{
@@ -203,7 +203,7 @@
 			{
 				"name": "Mark Karpeles",
 				"content": "'Misplaced' A massive number of bitcoins from MtGox which were market sold for THE ENTIRE MARKET VALUE crashing bitcoin; then was arrested, got out, 'Found' some of the misplaced bitcoins and proceeded to use them to bang 25+ prostitutes before the police caught on and arrested him again. Now Mt.Gox has to sell its personal bitcoin stash to compensate the victims of this 'Misplacement' which, is crashing Bitcoin... again.",
-				"title": "CEO: MT Gox, Deathbringer to Bitcoin"
+				"title": "CEO: Mt.Gox, Deathbringer to Bitcoin"
 			},
 			{
 				"name": "Fidget Spinners",
@@ -257,13 +257,13 @@
 			},
 			{
 				"name": "Charles Ponzi",
-				"content": "A famous itallian swindler so successful at paying out old investors with new investor's money that he managed to convince the world that he was the first one to do it, and swindle the earlier inventors of the scheme out of the title. That's real talent.",
+				"content": "A famous italian swindler so successful at paying out old investors with new investor's money that he managed to convince the world that he was the first one to do it, and swindle the earlier inventors of the scheme out of the title. That's real talent.",
 				"title": "We're more of an hourglass, the sand in the middle = volume."
 			},
 			{
 				"name": "Cryptocurrency Investment Dog",
 				"content": "Always there to remind you that he's smarter than you.",
-				"title": "Powh3d: First to Buy In"
+				"title": "PoWH3D: First to Buy In"
 			}
 
 		]
