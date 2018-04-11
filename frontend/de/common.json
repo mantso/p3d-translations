@@ -1,0 +1,15 @@
+{
+    "masthead": {
+    	"slider": [
+    		{
+    			"headings": [
+    				"Eine blockchain verwaltete",
+    				"smart-contract Wirtschaft",
+    				"in drei Dimensionen"
+    			],
+    			"sub": "Der erste direkt durch Ethereum gestützte Token, ist gleichzeitig die beliebteste Dapp (Quelle: Dappradar.com)",
+    			"button": "Teste deine Griffstärke" 
+    		}
+    	]
+    }
+}
