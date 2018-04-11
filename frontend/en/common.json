@@ -1,7 +1,15 @@
 {
-    "tk_home_masthead_slider_1_header_1": "A blockchain managed,",
-    "tk_home_masthead_slider_1_header_2": "smart-contract economy",
-    "tk_home_masthead_slider_1_header_3": "in three dimensions",
-    "tk_home_masthead_slider_1_sub": "The first token backed directly by Ethereum is also its most popular Dapp. (Source: Dappradar.com)",
-    "tk_home_masthead_slider_1_button": "Test your grip"
+    "masthead": {
+    	"slider": [
+    		{
+    			"headings": [
+    				"A blockchain managed",
+    				"smart-contract economy",
+    				"in three dimensions"
+    			],
+    			"sub": "The first token backed directly by Ethereum is also its most popular Dapp. (Source: Dappradar.com)",
+    			"button": "Test your grip" 
+    		}
+    	]
+    }
 }
