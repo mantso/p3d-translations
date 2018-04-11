@@ -1,0 +1,12 @@
+{
+	"en": {
+		"translation": {
+			"key": "hello world"
+		}
+	},
+	"de": {
+		"translation": {
+			"key": "hello welt"
+		}
+	}
+}
