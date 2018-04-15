@@ -301,5 +301,11 @@
         "dezentralisierte börse",
         "wiki",
         "shill kit"
-    ]
-}
+    ],
++   "titles": {
++       "points": "Macht echt nachdenklich",
++       "shower": "FINALER GEDANKENBLITZ",
++       "shill" : "Alle anschauen",
++       "home" : "PoWH3D: Kryptowährung in drei Dimensionen"
++   }
++}
