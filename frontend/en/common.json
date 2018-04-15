@@ -300,5 +300,11 @@
 		"decentralized exchange",
 		"wiki",
 		"shill kit"
-	]
+	],
+	"titles": {
+		"points": "Really Makes you Think",
+		"shower": "FINAL SHOWER THOUGHTS",
+		"shill" : "View All",
+		"home" : "PoWH3D: Cryptocurrency in Three Dimensions"
+	}
 }
