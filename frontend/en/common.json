@@ -307,10 +307,10 @@
 		"shill" : "View All",
 		"home" : "PoWH3D: Cryptocurrency in Three Dimensions"
 	},
-	"languages": [
-		{"en": "English"},
-		{"de": "German"}
-	],
+	"languages":  {
+		"en": "English",
+		"de": "German"
+	},
 	"faq": {
 		"title": "ANSWERS",
 		"answers": [
