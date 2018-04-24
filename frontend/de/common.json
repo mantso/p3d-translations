@@ -307,5 +307,34 @@
 +       "shower": "FINALER GEDANKENBLITZ",
 +       "shill" : "Alle anschauen",
 +       "home" : "PoWH3D: Kryptowährung in drei Dimensionen"
-+   }
++   },
+    "languages":  {
+        "en": "Englisch",
+        "de": "Deutsch"
+    },
+    "faq": {
+        "title": "ANTWORTEN",
+        "answers": [
+            {
+                "title": "<i class='ion ion-help-circled left'></i>Fragen?",
+                "content": "<p>Unsere Community ist mehr als bereit dir alle Fragen die du haben könntest zu beantworten! Komme auf unseren <a href='https://discord.gg/Y6CHepn'>Discord</a> und rede mit echten Menschen und ein paar cleveren Meme-Bots (Entwickler eingeschlossen).</p><p>Oder wenn du mehr darüber erfahren willst wie alles eigentlich genau funktioniert, besuche unser <a href='https://powh3d.hostedwiki.co/'>Wiki</a></p>"
+            },
+            {
+                "title": "<i class='on ion-help-buoy left'></i>Scherze?",
+                "content": "<p>Es ist dir vielleicht aufgefallen, dass wir über unsere Kryptowährung sehr viele Späße machen: wir haben Pyramidenbilder auf der Webseite, haben absichtlich falsche Titel für unsere Features genommen und haben sogar einen Abschnitt auf der Webseite, in dem wir andere Kryptobetrügereien zu unseren Beratern zählen.</p><p>Jedem der unseren Humor teilt wird natürlich auffallen, dass das alles eine einzige Satire auf den aktuellen Status Quo von Kryptowährungen und den traurigen Zustand von ICOs die einem alles versprechen, während das Ethereum das in diese Projekte gepumpt wurde auf irgendwelchen Wallets für immer verschwindet und Schlagwörter wie 'Masternodes', 'Staking', 'Dezentralisierung', 'Smart Contracts' und 'Ecosystem' hype um ein Produkt aufbauen, das nicht existiert.</p><p><b>Abgesehen davon ist unser Token ironischerweise ein vollfunktionsfähiges Produkt dass auch lange nach dem Verschwinden der Entwickler noch funktioniert.</b></p><p>Sei dabei, wenn wir der Öffentlichkeit unsere Ziele zum Weiterbringen des ICO-Modells vorführen, um diese wirklich vertrauenslos zu machen.</p>"
+            },
+            {
+                "title": "<i class='ion ion-help-buoy left'></i>Ist das hier ein Betrug?",
+                "content": "<p>Ziemlich viele Rückmeldungen zu unserem System (sprich: Angriffe) sagen aus es handle sich hier um ein Pyramiden- oder Ponzisystem.</p><p>Die Mechaniken hinter 'Proof of Weak Hands' lassen sich nicht wirklich auf diese Art beschreiben, aber wir verstehen das es am Anfang sehr schwer fällt das zu glauben. Wir erkennen an, dass ein vertrauensloser Smart-Contract der Werte verwaltet in dieser Form einfach bislang in der Geschichte der Computer nicht möglich war.</p><p>The way we like to describe this is to point out that in any places where we use pyramid imagery, the pyramid is mirrored with an upside down replica in the sky to represent that we've shifted the focal point between the two tips</p><p>In the case of a standard pyramid scheme, the first investors benefit the most heavily from the game as newer investors funnel money to the top. In a reverse pyramid scheme, the goal is upended to try to exponentially grow by trying to reward the newer investors the most. </p><p><b>In our case, neither is true. We simply punish everyone.</b></p><p>The shape instead forms an hourglass with both sides fighting constantly. Like an hourglass, the flowing sand (eth volume) between the two pyramids is the primary component of this game, rewarding neither the first investors nor the last. But simply everyone who holds the token as hard as they can through the many price fluctuations. </p><p>Call this an 'Hourglass model' if you must assign a title, at least that would be accurate.</p>"
+            },
+            {
+                "title": "<i class='ion ion-help-buoy left'></i>Just Token?",
+                "content": "<p>If you've made a transaction recently in an ethereum wallet, chances are you recieved a '<b>JUST powh.io</b>' token, maybe it even brought you here! </p><p>This token was our use of a clever exploit in the mechanics of ERC20 to give everyone who has an eth wallet an advertising token. It was actually given to you as a gift from one of our community members running a mining program that intentionally spread the token to as many wallets as possible, because i guess we're also the first developers to have a crypto-miner that gives other people tokens. </p><p>Within 3 days our token became the largest and most widely owned ERC20 token in the world, with 1.6 million+ wallets currently holding one visibly.</p><p>We are sorry to inform you that the advertising token is worthless, cannot be traded, sold, or even redeemed for value. Any attempts to remove it from your wallet simply result in you getting more of them</p><p>Keep it, it's our little gift from our community, to you!</p>"
+            },
+            {
+                "title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
+                "content": "<p><b>Summary:</b> A decentralized economic simulation of an algorithmically governed cryptocurrency in which the taxes on all transactions are awarded autonomously to currency owners instead of a governing body; resulting in a universal passive income based on adoption and transaction volume.</p><p><b>PoWH3D</b> is a fiction-made-real blockchain enforced simulation of <a href='https://en.wikipedia.org/wiki/Pareto_efficiency'><i><b>self-removal from pareto optimality</b></i></a>; an economic concept in which there is no longer a way for an allocation of resources to improve without harming a participant of the model. In this case the harm is intentionally self-imposed due to a lack of patience against other opponents, or as an entry fee to start playing the game.</p><p>The result of this experiment in human temperamentality is a mutually beneficial agreement for all other participants in the model based on the decision of others to break Pareto optimality by entering or leaving the contract. The most uniquely expressed benefit is in the form of passive-Ethereum income generated by fees imposed on other players liquidating their positions into, or out of the game. These fees are distributed to token holders as a form of share-based return. The resulting volume-based income adds an expressive third dimension to the standard price/time calculations that are ubiquitous in cryptocurrency today.</p>"
+            }
+        ]
+    }
 +}
