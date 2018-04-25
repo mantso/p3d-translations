@@ -300,5 +300,40 @@
 		"decentralized exchange",
 		"wiki",
 		"shill kit"
-	]
+	],
+	"titles": {
+		"points": "Really Makes you Think",
+		"shower": "FINAL SHOWER THOUGHTS",
+		"shill" : "View All",
+		"home" : "PoWH3D: Cryptocurrency in Three Dimensions"
+	},
+	"languages":  {
+		"en": "English",
+		"de": "German"
+	},
+	"faq": {
+		"title": "ANSWERS",
+		"answers": [
+			{
+				"title": "<i class='ion ion-help-circled left'></i>Questions?",
+				"content": "<p>Our community is more than happy to answer any questions you might have! try our <a href='https://discord.gg/Y6CHepn'> discord</a> to chat with real people and some clever meme-bots (including the developers).   </p><p>Or if you just want to read more about how everything works: Try our <a href='https://powh3d.hostedwiki.co/'> wiki</a></p>"
+			},
+			{
+				"title": "<i class='on ion-help-buoy left'></i>Jokes?",
+				"content": "<p>You may have noticed that we joke quite heavily about this currency: we have pyramid imagery on the site, intentionally mis-name nearly every feature, and even have entire sections referencing other cryptocurrency 'Scams' in our benefactors / advisory board.</p><p>To anyone who enjoys our humor, this should be an obviously tongue-in-cheek joke about the state of cryptocurrency as a whole, the sad state of ICOs that promise everything while the Ethereum they are given vanishes into wallets never to be seen again. All the while espousing buzz-words like 'Masternodes' 'Staking' 'Decentralization' 'Smart Contracts' or 'Ecosystems' to build hype on a product that does not exist.</p><p><b>That said, ironically our token is a fully functioning product that would continue to operate even if all the developers were to vanish.</b></p><p>Stay tuned for our goals in advancing the ICO model to be truly trustless.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Is this a Scheme?",
+				"content": "<p>Quite a bit of the feedback (read: attacks) on our platform are claims of the product being a Pyramid or Ponzi scheme.</p><p>The 'Proof of Weak Hands' mechanics don't actually match any of these labels, but we understand it's hard to grasp this initially. We recognize that a trustless smart-contract managing value in this way simply was not possible before this point in computing history. There's no scheming here at all -- it's upfront, honest and completely transparent.</p><p>The way we like to describe this is to point out that in any places where we use pyramid imagery, the pyramid is mirrored with an upside down replica in the sky to represent that we've shifted the focal point between the two tips</p><p>In the case of a standard pyramid scheme, the first investors benefit the most heavily from the game as newer investors funnel money to the top. In a reverse pyramid scheme, the goal is upended to try to exponentially grow by trying to reward the newer investors the most. </p><p><b>In our case, neither is true. We simply punish everyone.</b></p><p>The shape instead forms an hourglass with both sides fighting constantly. Like an hourglass, the flowing sand (eth volume) between the two pyramids is the primary component of this game, rewarding neither the first investors nor the last. But simply everyone who holds the token as hard as they can through the many price fluctuations. </p><p>Call this an 'Hourglass model' if you must assign a title, at least that would be accurate.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Just Token?",
+				"content": "<p>If you've made a transaction recently in an ethereum wallet, chances are you recieved a '<b>JUST powh.io</b>' token, maybe it even brought you here! </p><p>This token was our use of a clever exploit in the mechanics of ERC20 to give everyone who has an eth wallet an advertising token. It was actually given to you as a gift from one of our community members running a mining program that intentionally spread the token to as many wallets as possible, because i guess we're also the first developers to have a crypto-miner that gives other people tokens. </p><p>Within 3 days our token became the largest and most widely owned ERC20 token in the world, with 1.6 million+ wallets currently holding one visibly.</p><p>We are sorry to inform you that the advertising token is worthless, cannot be traded, sold, or even redeemed for value. Any attempts to remove it from your wallet simply result in you getting more of them</p><p>Keep it, it's our little gift from our community, to you!</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
+				"content": "<p><b>Summary:</b> A decentralized economic simulation of an algorithmically governed cryptocurrency in which the taxes on all transactions are awarded autonomously to currency owners instead of a governing body; resulting in a universal passive income based on adoption and transaction volume.</p><p><b>PoWH3D</b> is a fiction-made-real blockchain enforced simulation of <a href='https://en.wikipedia.org/wiki/Pareto_efficiency'><i><b>self-removal from pareto optimality</b></i></a>; an economic concept in which there is no longer a way for an allocation of resources to improve without harming a participant of the model. In this case the harm is intentionally self-imposed due to a lack of patience against other opponents, or as an entry fee to start playing the game.</p><p>The result of this experiment in human temperamentality is a mutually beneficial agreement for all other participants in the model based on the decision of others to break Pareto optimality by entering or leaving the contract. The most uniquely expressed benefit is in the form of passive-Ethereum income generated by fees imposed on other players liquidating their positions into, or out of the game. These fees are distributed to token holders as a form of share-based return. The resulting volume-based income adds an expressive third dimension to the standard price/time calculations that are ubiquitous in cryptocurrency today.</p>"
+			}
+		]
+	}
 }

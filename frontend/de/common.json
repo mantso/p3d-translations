@@ -1,340 +1,338 @@
 {
-    "masthead": {
-    	"slider": [
-    		{
-    			"headings": [
-    				"Eine blockchain verwaltete",
-    				"smart-contract Wirtschaft",
-    				"in drei Dimensionen"
-    			],
-    			"sub": "Der erste direkt durch Ethereum gestützte Token, ist gleichzeitig die beliebteste Dapp (Quelle: Dappradar.com)",
-    			"button": "Teste deine Griffstärke" 
-    		},
-            {
-                "headings": [
-                    "Erhalte Anteile",
-                    "der Börsengebühren"
-                ],
-                "sub": "Volumenbasiertes Einkommen; in etwa wie bedingungsloses Grundeinkommen, aber in ernst."
-            },
-            {
-                "headings": [
-                    "Schürfe schwache Hände",
-                    "nicht die Blockchain"
-                ],
-                "sub": "Glaub uns, das ist viel einfacher."
-            },
-            {
-                "headings": [
-                    "Teile deine Masternode",
-                    "baue dein eigenes Netzwerk"
-                ],
-                "sub": "Glaub uns, das ist viel einfacher."
-            },
-            {
-                "headings": [
-                    "Spiele mit einem 3D Ökosystem",
-                    "Erfreue dich an multidimensionalen Gewinnen"
-                ],
-                "sub": "Beinhaltet lediglich normale Verluste, wir arbeiten da noch dran."
-            }
-    	]
-    },
-    "explanation": {
-        "header": "Wie funktioniert das?",
-        "lead": "Jeder Transfer, Kauf oder Verkauf, beinhaltet eine 10% Transaktionsgebühr.",
-        "hover": "Proof of Weak Hands",
-        "bold": "Anstatt dass die Gebühren an die Börse gehen,<br> werden diese <i>zwischen allen Marken-Besitzern geteilt!</i>",
-        "more": "10% des gesamten Volumens dass diese Kryptowährung jemals erfährt, wird für dich als Marken-Besitzer in Form von Ethereum beiseite gelegt, welches du jederzeit Abbuchen kannst, wenn du magst.",
-        "bottom": "Komplett dezentralisiert, kein Mensch kann es abschalten."
-    },
-    "details": [{
-            "title": "OPEN SOURCE",
-            "content": [
-                "Jede Ethereumtransaktion wird durch ein unveränderbares Programm in der Blockchain, auch Smart-Contract genannt, durchgeführt.",
-                "Keine Sorge, du vertraust dein hart verdientes ETH <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>einem algorithmischen Roboterbuchhalter an</a></b>, der auf einem dezentralisierten Blockchainnetzwerk, welches von <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>einem verrückten Russen der mehrere Millionen wert ist</a></b>, erstellt wurde und von subventionierten chinesischen GPU-Farmen duchgeführt wird, welche <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>mehr Strom verbrauchen als die meisten Dritte-Welt-Länder</a></b> und eine Börse am Leben erhalten die so lange wie das Ethereum Netzwerk selber existieren wird.",
-                "Willkommen bei Kryptowährungen.",
-                "Deine Marken sind hier sicher, ansonsten hätte uns schon jemand angeschrien."
-            ]
-        },
-        {
-            "title": "SMART EXCHANGE",
-            "content": [
-                "Um einen einfachen Einstieg in diesen autonom verwalteten, volumentrisch belohnenden Wahnsinn zu gewährleisten, haben wir eine eigene dezentrale Börse erstellt mit der du deine Marken handeln und automatisch nachverfolgen kannst."
-            ],
-            "list": [
-                "Verfolge das Handelsvolumen deiner Marken, sowie dein projeziertes Einkommen durch Börsengebühren",
-                "Lache alle anderen aus, die ETH in diesen Wahnsinn stecken",
-                "Höre auf zu lachen, denn das ist verdammt viel ETH",
-                "<b>Kauf noch mehr</b> <i>(FOMO)</i>"
-            ]
-        },
-        {
-            "title": "NACHFRAGE = WERT",
-            "content": [
-                "<b>Für jede Marke die in den Umlauf gebracht oder herausgenommen wird, hebt oder senkt sich der Preis der nächsten Marke automatisch</b> um einen Bruchteil eines ETH (ungefähr 0,0000001 ETH).",
-                "Wenn Leute kaufen, sind deine Marken etwas mehr wert, wenn sie verkaufen, etwas weniger. Die Börse handhabt das für dich, mach dir also keine Gedanken um den Preis!",
-                "Man muss hin und wieder auch traurig sein um zu wissen, wann die guten Zeiten anbrechen."
-            ]
-        },
-        {
-            "title": "SCHÜRFEN <i>(Siehe Schlangendiagramm)</i>",
-            "content": [
-                "Der Namensvetter der Marke ist ein Bestandteil das wir liebevoll 'Proof of Weak Hands Ethereum Mining'-Algorithmus nennen.",
-                "Einfach ausgedrückt bedautet das, wenn jemand sich dazu entscheidet zu kaufen, zu verkaufen oder zu handeln, wird eine 10% Transaktionsgebühr angewendet. Diese Gebühr, ein Beweis für die schwachen Hände des Nutzers, wird, als Belohnung an alle die noch Marken haben, zwischen allen Marken aufgeteilt die sich momentan im Umlauf befinden. Neu gekaufte Marken werden zuerst zum Umlauf hinzugefügt bevor eine Gebühr angerechnet wird.",
-                "Jeder der Marken besitzt kann seinen Anteil der hinterlegten Gebühren jederzeit in Form von Ethereum aus dem Smart-Contract Sammelbecken herausnehmen, ganz ohne Gebühren.",
-                "Siehst du die süße Schlange? Sie schnappt sich die dir zustehenden Anteile bei jeder Transaktion, egal was mit dem Preis der Marken passiert."
-            ]
-        },
-        {
-            "title": "MASTERNODE",
-            "content": [
-                "Zuzüglich zum Schürfen, kannst du 5 deiner Marken einsetzen um <b>die erste Ethereum Masternode jemals</b> zu erstellen.",
-                "Eine Masternode zu besitzen, bringt dir einen einzigartigen Link zu unserer Webseite den der Smart-Contract erkennt. Jedem, der über diesen Link Marken kauft, werden 33% seiner Gebühren, die ansonsten in den Vertrag fließen würden, abgezogen und direkt an dich als Ethereum weitergeleitet.",
-                "Das ist die <font color='009f00'>aktive Gewinnkomponente</font> unseres Smart-Contracts, die dich ein eigenes Netzwerk aufbauen lässt und dich dafür belohnt.",
-                "Und ja, unsere Masternode und Schürfsysteme sind satirische Anspielungen auf die gesamte Welt der Kryptowährungen, machen nebenbei noch mehr Spaß <b>und belohnen dich in ETH anstatt mit etwas das 'vielleicht' mal irgendwann etwas Wert sein könnte.</b>"
-            ]
-        },
-        {
-            "title": "JEDERZEIT ABBUCHEN",
-            "content": [
-                "Der Smart-Contract <i>(dein neuer Roboterbuchhalterkumpel)</i> hält alles Ethereum das jemals in ihn gesteckt wurde um Marken zu kaufen und wird dir <b>mit Freude alles Ethereum auszahlen dass er dir schuldig ist</b>, wann auch immer du deine Gewinne abbuchen, oder deine Marken vertickern willst.",
-                "Dem Roboter sind zudem die Notlagen der Menschen gleichgültig, er kann nicht gestoppt oder abgeschaltet werden und niemand kann ihn jemals beenden, es sei denn das gesamte Ethereum Netzwerk selber stirbt."
-            ]
-        },
-        {
-            "title": "<b>KURZNOTIZEN</b>",
-            "list": [{
-                    "header": "Autonom durch den Smart-Contract verwaltet",
-                    "content": "Kein menschliches Einmischen bei der Verwaltung. Jemals."
-                },
-                {
-                    "header": "Automatisierte Preisanpassung",
-                    "content": "Der Preis korreliert direkt mit der Menge an Marken im Umlauf."
-                },
-                {
-                    "header": "Volumenbasiertes Einkommen",
-                    "content": "10% des gesamten Volumens wird als Gebühr genommen und automatisch an alle Marken-Besitzer in Form von ETH verteilt."
-                },
-                {
-                    "header": "Aktives Einkommen",
-                    "content": "Das Masternode-System erlaubt dir direkt andere Leute zu werben und sofort ETH Belohnungen zu erhalten. Außerdem profitiert jeder vom Volumenanstieg."
-                },
-                {
-                    "header": "Keine 'Konzept'-Marke",
-                    "content": "Jede Marke hat einen intrinsischen Wert, da jede Marke vom Ethereum im Vertrag gestützt wird <i>(versuche mal eine andere Kryptowährung zu finden die das Vorweisen kann)</i>."
-                },
-                {
-                    "header": "Immer dann ernst, wenn es nicht passt",
-                    "content": "Eine süßes Schlangenmaskottchen repräsentiert deine finanzielle Zukunft."
-                }
+	"masthead": {
+		"slider": [{
+				"headings": [
+					"Ein von der Blockchain verwalteter",
+					"auf smart-contracts basierender autonomer Markt",
+					"in drei Dimensionen"
+				],
+				"sub": "Der erste direkt durch Ethereum gestützte Token - und gleichzeitig die beliebteste Dapp (Quelle: Dappradar.com)",
+				"button": "Teste dein Durchhaltevermögen"
+			},
+			{
+				"headings": [
+					"Erhalte Anteile",
+					"der Börsengebühren"
+				],
+				"sub": "Volumenbasiertes Einkommen; in etwa wie bedingungsloses Grundeinkommen, nur in ernsthaft."
+			},
+			{
+				"headings": [
+					"Schürfe schwache Hände",
+					"nicht die Blockchain"
+				],
+				"sub": "Glaub uns, das ist viel einfacher."
+			},
+			{
+				"headings": [
+					"Teile deine Masternode",
+					"baue dein eigenes Netzwerk"
+				],
+				"sub": "Glaub uns, das ist viel einfacher."
+			},
+			{
+				"headings": [
+					"Spiele mit einem 3D Ökosystem",
+					"Erfreue dich an multidimensionalen Gewinnen"
+				],
+				"sub": "An multidimensionalen Verlusten arbeiten wir noch."
+			}
+		]
+	},
+	"explanation": {
+		"header": "Wie funktioniert das?",
+		"lead": "Jeder Transfer, Kauf oder Verkauf, beinhaltet eine 10% Transaktionsgebühr.",
+		"hover": "Proof of Weak Hands",
+		"bold": "Anstatt dass die Gebühren an die Börse gehen,<br> werden diese <i>zwischen allen Token-Besitzern geteilt!</i>",
+		"more": "10% des gesamten Handelsvolumens dieser Kryptowährung wird für dich als Token-Besitzer in Form von Ethereum beiseite gelegt, welches du dir jederzeit auszahlen kannst, wenn du das möchtest.",
+		"bottom": "Komplett dezentralisiert, kein Mensch kann es abschalten."
+	},
+	"details": [{
+			"title": "OPEN SOURCE",
+			"content": [
+				"Jede Ethereum-Transaktion wird durch ein unveränderbares Programm in der Blockchain, auch Smart-Contract genannt, durchgeführt.",
+				"Keine Sorge, du vertraust dein hart verdientes ETH <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>einem algorithmischen Roboterbuchhalter an</a></b>, der auf einem dezentralisierten Blockchainnetzwerk, welches von <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>einem verrückten Russen der mehrere Millionen wert ist</a></b>, erstellt wurde und von subventionierten chinesischen GPU-Farmen duchgeführt wird, welche <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>mehr Strom verbrauchen als die meisten Dritte-Welt-Länder</a></b> und eine Börse am Leben erhalten die so lange wie das Ethereum Netzwerk selber existieren wird.",
+				"Willkommen in der Welt der Kryptowährungen.",
+				"Deine ETH sind hier sicher, ansonsten hätte uns schon jemand angeschrien."
+			]
+		},
+		{
+			"title": "SMART EXCHANGE",
+			"content": [
+				"Um einen einfachen Einstieg in diesen autonom verwalteten, volumetrisch belohnenden Wahnsinn zu gewährleisten, haben wir eine eigene dezentrale Börse erstellt, mit der du deine Tokens handeln und verwalten kannst."
+			],
+			"list": [
+				"Verfolge das Handelsvolumen deiner Tokens sowie dein Einkommen durch Börsengebühren",
+				"Lache alle anderen aus, die ETH in diesen Wahnsinn stecken",
+				"Höre auf zu lachen, denn das ist verdammt viel ETH",
+				"<b>Kauf noch mehr</b> <i>(FOMO)</i>"
+			]
+		},
+		{
+			"title": "NACHFRAGE = WERT",
+			"content": [
+				"<b>Für jedes Token das in den Umlauf gebracht oder herausgenommen wird, hebt oder senkt sich der Preis des nächsten Tokens automatisch</b> um einen Bruchteil eines ETH (ungefähr 0,0000001 ETH).",
+				"Wenn Leute kaufen sind deine Tokens etwas mehr wert, wenn sie verkaufen etwas weniger. Die Börse handhabt das für dich, mach dir also keine Gedanken um den Preis!",
+				"Man muss hin und wieder auch mal traurig sein um die guten Zeiten schätzen zu können."
+			]
+		},
+		{
+			"title": "SCHÜRFEN <i>(Siehe Schlangendiagramm)</i>",
+			"content": [
+				"Der Namensvetter des Tokens ist eine Besonderheit die wir liebevoll als 'Proof of Weak Hands Ethereum Mining'-Algorithmus bezeichnen.",
+				"Einfach ausgedrückt bedautet das: Wenn jemand sich dazu entscheidet zu kaufen, zu verkaufen oder zu handeln, wird eine 10% Transaktionsgebühr fällig. Diese Gebühr, ein Beweis für die schwachen Hände des Nutzers, wird als Belohnung auf alle Tokenhalter aufgeteilt. Neu gekaufte Tokens werden zuerst zum Umlauf hinzugefügt bevor eine Gebühr angerechnet wird.",
+				"Jeder der Tokens besitzt kann sich seine anteilig verdienten Gebühren jederzeit in Form von Ethereum aus dem Smart-Contract ausbezahlen lassen, ganz ohne Gebühren.",
+				"Siehst du die süße Schlange? Sie schnappt sich die dir zustehenden Anteile bei jeder Transaktion, egal was mit dem Preis der Tokens passiert."
+			]
+		},
+		{
+			"title": "MASTERNODE",
+			"content": [
+				"Zuzüglich zum Schürfen, kannst du 5 deiner Tokens einsetzen um <b>die bisher erste und einzige Ethereum Masternode</b> zu erstellen.",
+				"Diese Masternode bringt dir einen einzigartigen Link zu unserer Webseite der vom Smart-Contract erkannt wird. Jedem, der über diesen Link Tokens kauft werden 33% seiner eigentlich an den Vertrag zu zahlenden Gebühren abgezogen und direkt an dich als Ethereum weitergeleitet.",
+				"Das ist die <font color='009f00'>aktive Gewinnkomponente</font> unseres Smart-Contracts, die dir erlaubt ein eigenes Netzwerk aufzubauen und dich dafür belohnt.",
+				"Und ja, unsere Masternodes und Schürfsysteme sind satirische Anspielungen auf die gesamte Welt der Kryptowährungen, machen außerdem mehr Spaß <b>und belohnen dich in ETH anstatt mit etwas das 'vielleicht' irgendwann mal etwas Wert sein könnte.</b>"
+			]
+		},
+		{
+			"title": "JEDERZEIT AUSZAHLEN",
+			"content": [
+				"Der Smart-Contract <i>(dein neuer Roboterbuchhalterkumpel)</i> hält alles Ethereum das jemals in ihn gesteckt wurde um Tokens zu kaufen und wird dir <b>mit Freude alles Ethereum auszahlen das er dir schuldig ist</b>, wann auch immer du deine Gewinne auszahlen, oder deine Tokens vertickern willst.",
+				"Dem Roboter sind die Notlagen der Menschen gleichgültig, er kann nicht gestoppt und niemals beendet werden, es sei denn das gesamte Ethereum Netzwerk selber stirbt."
+			]
+		},
+		{
+			"title": "<b>KURZNOTIZEN</b>",
+			"list": [{
+					"header": "Autonom durch den Smart-Contract verwaltet",
+					"content": "Kein menschliches Einmischen bei der Verwaltung. Jemals."
+				},
+				{
+					"header": "Automatisierte Preisanpassung",
+					"content": "Der Preis korreliert direkt mit der Menge an Tokens die sich im Umlauf befinden."
+				},
+				{
+					"header": "Volumenbasiertes Einkommen",
+					"content": "10% des gesamten Volumens wird als Gebühr genommen und automatisch an alle Token-Besitzer in Form von ETH verteilt."
+				},
+				{
+					"header": "Aktives Einkommen",
+					"content": "Das Masternode-System erlaubt dir, andere Leute zu werben und sofort Belohnungen in ETH zu erhalten. Außerdem profitiert jeder vom Volumenanstieg."
+				},
+				{
+					"header": "Kein 'Konzept'-Token",
+					"content": "Die Tokens haben einen intrinsischen Wert, da sie durch Ethereum im Vertrag gestützt werden <i>(Versuche mal eine andere Kryptowährung zu finden die das von sich behaupten kann)</i>."
+				},
+				{
+					"header": "Immer dann ernst, wenn es nicht passt",
+					"content": "Eine süßes Schlangenmaskottchen repräsentiert deine finanzielle Zukunft."
+				}
 
-            ]
-        }
-    ],
-    "stats": {
-        "balance": "ETH IM VERTRAG",
-        "transactions": "TRANSAKTIONEN",
-        "volume": "DURCHSCHNITTLICHES 24H VOLUMEN",
-        "memes": "MEMES/H"
-    },
-    "cta": {
-        "top": "PROBIERE UNSERE DEZENTRALISIERTE BÖRSE",
-        "bottom": "STARTE JETZT!"
-    },
-    "points": [{
-            "title": "3D Spekulation",
-            "content": "Anstatt wie bei den meisten Kryptowährungen nur mit dem Preis über Zeit zu spielen, haben wir Volumen in den Mix geworfen. HODL könnte endlich eine vernünftige Langzeitstrategie sein <i>(anstelle von 50% im Keller zu sein)</i>."
-        },
-        {
-            "title": "Dezentralisiert; gemacht für die Ewigkeit",
-            "content": "Das gesamte System funktioniert komplett ohne menschliches Einmischen. Es ist selbstregulierend, ausgeführt durch das gesamte Ethereum Netzwerk. Masternodes fügen sogar ein Nutzer-basiertes und profitables Expansionssystem hinzu, die es dem Smart-Contract erlaubt so lange zu laufen, wie sich interessierte Spieler oder extrem dedizierte Spammer finden."
-        },
-        {
-            "title": "Barmherzige volumenbasierte Belohnungen",
-            "content": "Bitcoin stürzt ab? Die Hochs und Tiefs von Kryptowährungen verpassen dir einen Burn-Out? Unser Smart-Contract ist als smarter Ort gestaltet, an dem dein Ethereum an Wert gewinnt sobald Volumen im Smart-Contract existiert. Du kannst dich also zurücklehnen und dir deinen Kopf über andere Dinge zerbrechen. Wie zum Beispiel den Untergang der westlichen Zivilisation."
-        }
-    ],
-    "socials": {
-        "title": "Teile Gewinne, Teile Verluste"
-    },
-    "features": {
-        "title": "Weg zum Erfolg",
-        "sub": "<i>Smarte-</i>Spiel <i>smart-</i>Tipps von einer <i>smarten-</i>Pyramiden <i>smartes-</i>meme <i>smarte-</i>Münze.",
-        "points": [{
-                "title": "Sammeln",
-                "content": "Was sonst sollte der erste Schritt sein?"
-            },
-            {
-                "title": "Entspannen",
-                "content": "Das war's. Du hast schon gewonnnen.<br><br>Mit dauerhaftem Volumen wirst du einen stetigen Zufluss an ETH erhalten, so lange wie du zum Einsammeln kommst."
-            },
-            {
-                "title": "Starke Hände",
-                "content": "Gib nicht auf! Du kannst nur verlieren wenn du verkaufst."
-            },
-            {
-                "title": "Setze Masternode ein",
-                "content": "Masternode Netzwerke können dir einen stetigen Zulauf an ETH generieren, egal wie groß der Smart-Contract wird, du wirst immer sofort deine Ergebnisse sehen können.<br><br>Immer wenn du die Gelegenheit hast Leute mit deinem Masternode hierher zu bringen, solltest du es tun."
-            },
-            {
-                "title": "Ernsthaft, Masternodes",
-                "content": "Unsere Webseite erinnert sich daran, wen du hergebracht hast und wird dich für jede P3D Marke die so gekauft wird auch in der Zukunft belohnen.<br><br>Videos, Anleitungen, Artikel, Webseiten, Werbung, Dapps, Graphen, Statistiken, irgendwas!<br><br>Je cleverer dein Netzwerk, je mehr wirst du einsacken. Leg dich ins Zeug, wir unterstützen das."
-            }
-        ]
-    },
-    "inspiration": {
-        "title": "Unsere Musen",
-        "sub": "WEIL DUMME IDEEN WIE UNSERE AUS DEM KOMBINERTEN VERSAGEN DER GESAMTEN KRYPTO-GEMEINSCHAFT WACHSEN",
-        "people": [{
-                "name": "Vitalik Buterin",
-                "content": "Möchte tatsächlich 'Proof of Stake' in Ethereum einführen. In etwa wie wir, nur mit mehr Schritten.",
-                "title": "Ethereum: Schöpfer"
-            },
-            {
-                "name": "Vitaliks Shirt",
-                "content": "Wir machen uns nur sorgen, okay.",
-                "title": "Kleidung: Baumwolle"
-            },
-            {
-                "name": "John Mcaffee",
-                "content": "Wird von den brasilianischen Behörden wegen Verwicklung in einen Mord gesucht, kontrolliert die Märkte mit einem einzigen Tweet.",
-                "title": "Shitposter: Berühmt"
-            },
-            {
-                "name": "Mark Karpeles",
-                "content": "Hat eine massive Anzahl an Bitcoin von Mt.Gox 'verlegt', welche per Marktpreis verkauft wurden und DEN GESAMTEN MARKTWERT in den Keller getrieben haben. Wurde festgenommen, freigelassen, hat ein paar der verlegten Bitcoin 'gefunden' und sie genutzt um 25+ Prosituierte zu knallen bevor die Polizei ihn wieder ergriff und festnahm. Nun musste Mt.Gox seine eigenen Bitcoin verkaufen um die Opfer der 'verlegten' Bitcoin zu entschädigen, was zu einem Einsturz führte... erneut.",
-                "title": "CEO: Mt.Gox, Todbringer für Bitcoin"
-            },
-            {
-                "name": "Fidget Spinner",
-                "content": "Nicht dezentralisiert, kryptographisch, oder so gestaltet dass man nicht nach gutdünken mehr davon drucken kann. Mit 25 Cent vollkommen überteuert.",
-                "title": "Meinten Sie: Ripple?"
-            },
-            {
-                "name": "Carlos Matos",
-                "content": "Standbild: Erster Moment von offensichtlicher Reue. Plattenkratzer: Ihr wundert euch bestimmt, wie ich in diese Situation geraten bin...",
-                "title": "Muss man so langsam kennen"
-            },
-            {
-                "name": "Satoshi Nakamoto",
-                "content": "Härteste, dem Menschen bekannte, Hände. Hat seine Bitcoin seit 2010 nicht berührt. Auch nicht seine Bitcoin Cash, Gold, God, Platinum, X, Dark, E, Silver, Z, Plus, Scrypt, E-Cash, Lite, Planet, Red, Fast, 21, Anti, Diamond, United, X, Super, White, Atom, First, oder Rabbit fork wallets. Außer SegWit, weil die scammer von Entwicklern seine Münzen für sich selber behalten haben.",
-                "title": "Bitcoin: Erfinder"
-            },
-            {
-                "name": "Colin LeMahieu",
-                "content": "Erschaffte eine Währung mit drei einzigartigen Eigenschaften. Man kann nicht sofort und kostenlos transferieren, sondern wenn man sie besitzt kann man sie ZWEIMAL VERSCHICKEN!",
-                "title": "Nano (Raiblocks): Erfinder"
-            },
-            {
-                "name": "Jackson Palmer",
-                "content": "In einem tragikomischem Entwickler-JUST hat es dieser Nu-Male -Trottel geschafft, sich das Vorschürfen seiner eigenen Kryptowährung unter der Nase wegschnappen zu lassen, bevor er stinksauer das Projekt im Stich gelassen hat weil andere Schürfer seinen Schürfer innerhalb von 7 Minuten nach Erstellung des Contracts links liegen lassen haben.",
-                "title": "DogeCoin: Schöpfer"
-            },
-            {
-                "name": "Sergey Nazarov",
-                "content": "Niemand weiß so genau wie man es nutzt, oder was es macht, aber wir ziehen unseren Hut vor der Qualität der Witze und Memes die das Chainlink Projekt umgeben. Leute kaufen Chainlink weil es witzig ist und Schlussendlich ist es das, was zählt.",
-                "title": "Chainlink: Mememeister"
-            },
-            {
-                "name": "Jared Rice",
-                "content": "Hat seinen Investoren hoch und heilig geschworen, dass sein Team eine FDIC versicherte Bank gekauft hat, die dezentralisiert in der Blockchain laufen sollte. Hat 600 Millionen in einem ICO eingefahren bevor die SEC seine Tür mit Schuatzausrüstung eintrat.",
-                "title": "AriseBank ICO: Gründer"
-            },
-            {
-                "name": "Marquis Trill",
-                "content": "Womöglich der größte Pump & Dump Organisator für Kryptowährungen. Er kauft, tweeted das zu seinen 5 Millionen followern, es steigt im Wert, dann verkauft er eine Woche später und löst eine Panik aus; was ihn wieder am Bodensatz einkaufen lässt. Der verdammt beeindruckende Part ist: er macht es immernoch!",
-                "title": "Twitter: Einflussreichster Kryptolockvogel"
-            },
-            {
-                "name": "XVG Wal",
-                "content": "Die Marktmanipulationen um XVG herum sind so schlecht, das eine einzelne Wallet seinen gesamten Inhalt verkauft hatte, nachdem dieser Pressesprecher ein halbherziges Video (wie abgebildet) gedreht hat. Der Verkauf läste eine Panik aus, die den Preis sofort um 90% nach unten drückte; wonach die selbe Wallet 14% der gesamten XVG im Umlauf aufkaufte. Am nächsten Tag verkündete der selbe Sprecher ein Update für XVG (Wraith) und das Erscheinungsdatum dessen.",
-                "title": "Investor / Entwickler sanktionierter PR: XVG (Verge)"
-            },
-            {
-                "name": "Charlie Lee",
-                "content": "Dieser Verrücktmann wurde von Coinbase angestellt, hat dann dem internen Entwicklerteam seine eigene Kryptowährung beworben bis diese die Münze schlussendlich auf Coinbase eingebunden haben; woraufhin er seinen gesamten Besitz an der Währung an der Spitze verkauft hat. LEBT, DEN, TRAUM.",
-                "title": "Litecoin: Gründer"
-            },
-            {
-                "name": "Charles Ponzi",
-                "content": "Ein berühmter italienischer Schwindler der so Erfolgreich darin war alte Investoren mit dem Geld neuer Investoren zu versorgen, dass er die gesamte Welt davon überzeugt hat dass er der Erste gewesen wäre der je so etwas gemacht hat, und somit die früheren Erfinder dieses Betrugs um den Titel brachte. Das ist wahres Talent.",
-                "title": "Wir sind mehr so wie eine Sanduhr. Der Sand in der Mitte = Volumen"
-            },
-            {
-                "name": "Cryptocurrency Investment Dog",
-                "content": "Immer da, um dir zu zeigen das er schlauer ist als du.",
-                "title": "PoWH3D: Erster Käufer"
-            }
+			]
+		}
+	],
+	"stats": {
+		"balance": "ETH IM VERTRAG",
+		"transactions": "TRANSAKTIONEN",
+		"volume": "DURCHSCHNITTLICHES 24H VOLUMEN",
+		"memes": "MEMES/H"
+	},
+	"cta": {
+		"top": "PROBIERE UNSERE DEZENTRALISIERTE BÖRSE",
+		"bottom": "STARTE JETZT!"
+	},
+	"points": [{
+			"title": "3D Spekulation",
+			"content": "Anstatt wie bei den meisten Kryptowährungen nur mit dem Preis über Zeit zu spielen, haben wir Volumen in den Mix geworfen. HODL könnte endlich eine vernünftige Langzeitstrategie sein <i>(Anstatt der Grund dafür zu sein wieso du zu 50% im Keller bist)</i>."
+		},
+		{
+			"title": "Dezentralisiert; gemacht für die Ewigkeit",
+			"content": "Das gesamte System funktioniert komplett ohne menschliches Einmischen. Es ist selbstregulierend, ausgeführt durch das Ethereum Netzwerk. Masternodes fügen sogar ein Nutzer-basiertes und profitables Expansionssystem hinzu, die es dem Smart-Contract erlaubt so lange zu laufen, wie sich interessierte Spieler oder extrem dedizierte Spammer finden."
+		},
+		{
+			"title": "Barmherzige volumenbasierte Belohnungen",
+			"content": "Bitcoin stürzt ab? Die Hochs und Tiefs von Kryptowährungen verpassen dir einen Burn-Out? Unser Smart-Contract ist als smarter Ort gestaltet, an dem dein Ethereum an Wert gewinnt sobald Volumen im Smart-Contract existiert. Du kannst dich also zurücklehnen und dir deinen Kopf über andere Dinge zerbrechen. Wie zum Beispiel den Untergang der westlichen Zivilisation."
+		}
+	],
+	"socials": {
+		"title": "Teile Gewinne, Teile Verluste"
+	},
+	"features": {
+		"title": "Weg zum Erfolg",
+		"sub": "<i>Smarte-</i>Spiel <i>smart-</i>Tipps von einer <i>smarten-</i>Pyramiden <i>smartes-</i>meme <i>smarte-</i>Münze.",
+		"points": [{
+				"title": "Sammeln",
+				"content": "Was sonst sollte der erste Schritt sein?"
+			},
+			{
+				"title": "Entspannen",
+				"content": "Das war's. Du hast schon gewonnnen.<br><br>Mit dauerhaftem Volumen wirst du einen stetigen Zufluss an ETH erhalten."
+			},
+			{
+				"title": "Starke Hände",
+				"content": "Gib nicht auf! Du kannst nur verlieren wenn du verkaufst."
+			},
+			{
+				"title": "Setze Masternode ein",
+				"content": "Masternode Netzwerke können dir einen stetigen Zulauf an ETH generieren, egal wie groß der Smart-Contract wird, du wirst immer sofort deine Ergebnisse sehen können.<br><br>Immer wenn du die Gelegenheit hast Leute mit deinem Masternode hierher zu bringen, solltest du es tun."
+			},
+			{
+				"title": "Ernsthaft, Masternodes",
+				"content": "Unsere Webseite erinnert sich daran, wen du hergebracht hast und wird dich für jedes P3D Token das so gekauft wird auch in der Zukunft belohnen.<br><br>Videos, Anleitungen, Artikel, Webseiten, Werbung, Dapps, Graphen, Statistiken, irgendwas!<br><br>Je cleverer dein Netzwerk, je mehr wirst du einsacken. Leg dich ins Zeug, wir unterstützen das."
+			}
+		]
+	},
+	"inspiration": {
+		"title": "Unsere Musen",
+		"sub": "WEIL DUMME IDEEN WIE UNSERE AUS DEM KOMBINIERTEN VERSAGEN DER GESAMTEN KRYPTO-GEMEINSCHAFT WACHSEN",
+		"people": [{
+				"name": "Vitalik Buterin",
+				"content": "Möchte tatsächlich 'Proof of Stake' in Ethereum einführen. In etwa wie wir, nur mit mehr Schritten.",
+				"title": "Ethereum: Schöpfer"
+			},
+			{
+				"name": "Vitaliks Shirt",
+				"content": "Wir machen uns nur Sorgen, okay.",
+				"title": "Kleidung: Baumwolle"
+			},
+			{
+				"name": "John McAfee",
+				"content": "Wird von den brasilianischen Behörden wegen Verwicklung in einen Mord gesucht, kann die Märkte mit einem einzigen Tweet kontrollieren.",
+				"title": "Shitposter: Berühmt"
+			},
+			{
+				"name": "Mark Karpeles",
+				"content": "Hat eine massive Anzahl an Bitcoin von Mt.Gox 'verlegt', welche per Marktpreis verkauft wurden und DEN GESAMTEN MARKTWERT in den Keller getrieben haben. Wurde festgenommen, freigelassen, hat ein paar der verlegten Bitcoin 'gefunden' und sie genutzt um 25+ Prostituierte zu knallen bevor die Polizei ihn wieder ergriff und festnahm. Nun musste Mt.Gox seine eigenen Bitcoin verkaufen um die Opfer der 'verlegten' Bitcoin zu entschädigen, was zu einem Crash führte... schon wieder.",
+				"title": "CEO: Mt.Gox, Todbringer des Bitcoin"
+			},
+			{
+				"name": "Fidget Spinner",
+				"content": "Nicht dezentralisiert, kryptographisch, oder so gestaltet dass man nicht nach gutdünken mehr davon drucken kann. Mit 25 Cent vollkommen überteuert.",
+				"title": "Meinten Sie: Ripple?"
+			},
+			{
+				"name": "Carlos Matos",
+				"content": "Standbild: Erster Moment von offensichtlicher Reue. Plattenkratzer: Ihr wundert euch bestimmt, wie ich in diese Situation geraten bin...",
+				"title": "Muss man so langsam kennen"
+			},
+			{
+				"name": "Satoshi Nakamoto",
+				"content": "Härteste dem Menschen bekannte Hände. Hat seine Bitcoin seit 2010 nicht angerührt. Auch nicht seine Bitcoin Cash, Gold, God, Platinum, X, Dark, E, Silver, Z, Plus, Scrypt, E-Cash, Lite, Planet, Red, Fast, 21, Anti, Diamond, United, X, Super, White, Atom, First, oder Rabbit fork wallets. Außer SegWit, weil die scammer von Entwicklern seine Münzen für sich selber behalten haben.",
+				"title": "Bitcoin: Erfinder"
+			},
+			{
+				"name": "Colin LeMahieu",
+				"content": "Erschaffte eine Währung mit drei einzigartigen Eigenschaften. Man kann nicht sofort und kostenlos transferieren, sondern man kann sie sogar ZWEIMAL VERSCHICKEN!",
+				"title": "Nano (Raiblocks): Erfinder"
+			},
+			{
+				"name": "Jackson Palmer",
+				"content": "In einem tragikomischem Entwickler-JUST hat es dieser Nu-Male -Trottel geschafft, sich das Vorschürfen seiner eigenen Kryptowährung unter der Nase wegschnappen zu lassen, bevor er stinksauer das Projekt im Stich gelassen hat weil andere Schürfer seinen Schürfer innerhalb von 7 Minuten nach Erstellung des Contracts links liegen lassen haben.",
+				"title": "DogeCoin: Schöpfer"
+			},
+			{
+				"name": "Sergey Nazarov",
+				"content": "Niemand weiß genau wie man es nutzt oder was es macht, aber wir ziehen unseren Hut vor der Qualität der Witze und Memes die das Chainlink Projekt umgeben. Leute kaufen Chainlink weil es witzig ist und schlussendlich ist es das, was zählt.",
+				"title": "Chainlink: Mememeister"
+			},
+			{
+				"name": "Jared Rice",
+				"content": "Hat seinen Investoren hoch und heilig geschworen, dass sein Team eine FDIC versicherte Bank gekauft hat, die dezentralisiert in der Blockchain laufen sollte. Hat 600 Millionen in einem ICO eingefahren bevor die SEC seine Tür mit Schuatzausrüstung eintrat.",
+				"title": "AriseBank ICO: Gründer"
+			},
+			{
+				"name": "Marquis Trill",
+				"content": "Womöglich der größte Pump & Dump Organisator für Kryptowährungen. Er kauft, tweeted das an seine 5 Millionen Follower, es steigt im Wert, dann verkauft er eine Woche später und löst eine Panik aus; was ihn wieder am Bodensatz einkaufen lässt. Der verdammt beeindruckende Part ist: er macht es immernoch!",
+				"title": "Twitter: Einflussreichster Kryptolockvogel"
+			},
+			{
+				"name": "XVG Wal",
+				"content": "Die Marktmanipulationen um XVG herum sind so schlecht, das eine einzelne Wallet seinen gesamten Inhalt verkauft hatte, nachdem dieser Pressesprecher ein halbherziges Video (wie abgebildet) gedreht hat. Der Verkauf läste eine Panik aus, die den Preis sofort um 90% nach unten drückte; wonach die selbe Wallet 14% der gesamten XVG im Umlauf aufkaufte. Am nächsten Tag verkündete der selbe Sprecher ein Update für XVG (Wraith) und das Erscheinungsdatum dessen.",
+				"title": "Investor / Entwickler sanktionierter PR: XVG (Verge)"
+			},
+			{
+				"name": "Charlie Lee",
+				"content": "Dieser Verrückte wurde von Coinbase angestellt, hat dann dem internen Entwicklerteam seine eigene Kryptowährung beworben bis diese den Coin schlussendlich auf Coinbase eingebunden haben; woraufhin er seinen gesamten Besitz an der Währung an der Spitze verkauft hat. LEBT, DEN, TRAUM.",
+				"title": "Litecoin: Gründer"
+			},
+			{
+				"name": "Charles Ponzi",
+				"content": "Ein berühmter italienischer Schwindler der so erfolgreich darin war, alte Investoren mit dem Geld neuer Investoren zu versorgen, sodass er die gesamte Welt davon überzeugen konnte, der erste gewesen zu sein der je so etwas gemacht hat, und somit die früheren Erfinder dieses Betrugs um den Titel brachte. Das ist wahres Talent.",
+				"title": "Wir sind mehr so wie eine Sanduhr. Der Sand in der Mitte = Volumen"
+			},
+			{
+				"name": "Cryptocurrency Investment Dog",
+				"content": "Immer da, um dir zu zeigen, dass er schlauer ist als du.",
+				"title": "PoWH3D: Erster Käufer"
+			}
 
-        ]
-    },
-    "shower": [{
-            "title": "Keine Menschen Erlaubt",
-            "content": "Anders als 'Investment' Platformen wie Bitconnect, wird PoWH3D von einem Smart-Contract gesteuert. Kein Mensch hat jemals vollen Zugang zu dem Inhalt des Vertrags."
-        },
-        {
-            "title": "Frei Tauschbar",
-            "content": "Das Transfersystem unserer Marken ist so gebaut, dass es automatisch 10% aller gehandelten Marken einkassiert, in ETH schmilzt und an alle anderen Marken-Besitzer verteilt. Selbst wenn der Handel außerhalb des Smart-Contracts stattfindet. Börsenunterstützung hat dich vorher noch nie bezahlt, oder?"
-        },
-        {
-            "title": "bedingungslose volumenbasierte Belohnungen",
-            "content": "Das Konzept von Bedingungslosem Grundeinkommen sieht eine Versteuerung von allen Transaktionen vor und eine Rückzahlung davon an alle; Kryptowährungen sind der perfekte Ort um solche Modelle in die Tat umzusetzen. Und hey, 3D hört sich einfach auch viel cooler an, als alles was sich diese Hippies dazu ausgedacht haben."
-        }
-    ],
-    "shill": {
-        "title": "Shill Kit",
-        "sub": "Nur ein kleiner Ausschnitt, es gibt mehr auf der <a href='shill-kit.html'><b>Shill Kit</b></a> Seite",
-        "categories": [
-            "Alle",
-            "GIF",
-            "Logo",
-            "Qualitativ Hochwertig"
-        ]
-    },
-    "benefactors": {
-        "title": "Ermöglicht durch"
-    },
-    "menu": [
-        "home",
-        "community",
-        "dezentralisierte börse",
-        "wiki",
-        "shill kit"
-    ],
-+   "titles": {
-+       "points": "Macht echt nachdenklich",
-+       "shower": "FINALER GEDANKENBLITZ",
-+       "shill" : "Alle anschauen",
-+       "home" : "PoWH3D: Kryptowährung in drei Dimensionen"
-+   },
-    "languages":  {
-        "en": "Englisch",
-        "de": "Deutsch"
-    },
-    "faq": {
-        "title": "ANTWORTEN",
-        "answers": [
-            {
-                "title": "<i class='ion ion-help-circled left'></i>Fragen?",
-                "content": "<p>Unsere Community ist mehr als bereit dir alle Fragen die du haben könntest zu beantworten! Komme auf unseren <a href='https://discord.gg/Y6CHepn'>Discord</a> und rede mit echten Menschen und ein paar cleveren Meme-Bots (Entwickler eingeschlossen).</p><p>Oder wenn du mehr darüber erfahren willst wie alles eigentlich genau funktioniert, besuche unser <a href='https://powh3d.hostedwiki.co/'>Wiki</a></p>"
-            },
-            {
-                "title": "<i class='on ion-help-buoy left'></i>Scherze?",
-                "content": "<p>Es ist dir vielleicht aufgefallen, dass wir über unsere Kryptowährung sehr viele Späße machen: wir haben Pyramidenbilder auf der Webseite, haben absichtlich falsche Titel für unsere Features genommen und haben sogar einen Abschnitt auf der Webseite, in dem wir andere Kryptobetrügereien zu unseren Beratern zählen.</p><p>Jedem der unseren Humor teilt wird natürlich auffallen, dass das alles eine einzige Satire auf den aktuellen Status Quo von Kryptowährungen und den traurigen Zustand von ICOs die einem alles versprechen, während das Ethereum das in diese Projekte gepumpt wurde auf irgendwelchen Wallets für immer verschwindet und Schlagwörter wie 'Masternodes', 'Staking', 'Dezentralisierung', 'Smart Contracts' und 'Ecosystem' hype um ein Produkt aufbauen, das nicht existiert.</p><p><b>Abgesehen davon ist unser Token ironischerweise ein vollfunktionsfähiges Produkt dass auch lange nach dem Verschwinden der Entwickler noch funktioniert.</b></p><p>Sei dabei, wenn wir der Öffentlichkeit unsere Ziele zum Weiterbringen des ICO-Modells vorführen, um diese wirklich vertrauenslos zu machen.</p>"
-            },
-            {
-                "title": "<i class='ion ion-help-buoy left'></i>Ist das hier ein Betrug?",
-                "content": "<p>Ziemlich viele Rückmeldungen zu unserem System (sprich: Angriffe) sagen aus es handle sich hier um ein Pyramiden- oder Ponzisystem.</p><p>Die Mechaniken hinter 'Proof of Weak Hands' lassen sich nicht wirklich auf diese Art beschreiben, aber wir verstehen das es am Anfang sehr schwer fällt das zu glauben. Wir erkennen an, dass ein vertrauensloser Smart-Contract der Werte verwaltet in dieser Form einfach bislang in der Geschichte der Computer nicht möglich war.</p><p>Wir weisen gerne darauf hin, dass überall wo wir Pyramidenbilder benutzen, eine weitere horizontal gespiegelte Pyramide im Himmel schwebt. Dies soll die Symbolik unterstreichen, dass wir den Schwerpunkt des Projekts zwischen die beiden Spitzen verlagert haben.</p><p>Im Falle eines normalen Pyramidensystems sind es die ersten Investoren die am meisten profitieren, wenn neue Investoren ihre Investments in den Trichter stopfen. Bei einem invertierten Pyramidensystem ist es das Ziel neue investoren durch exponentielles Wachstum am meisten zu belohnen.</p><p><b>In unserem Fall passt allerdings keine der beiden Beschreibungen auf unser System. Wir bestrafen einfach jeden.</b></p><p>Die Form unseres Systems bildet eine Sanduhr bei der sich beide Enden ständig bekämpfen. Genau wie bei einer Sanduhr bildet der fließende Sand (ETH) den Hauptbestandteil des Systems und belohnt dabei weder die frühen noch die späten Investoren. Die wahren Gewinner sind diejenigen, die ihre Token durch alle Preisschwankungen mit aller Kraft festhalten.</p><p>Wenn du dem System also unbedingt einen Namen geben muss, dann nenne es "Sanduhr-Modell". Das ist wenigstens annähernd richtig.</p>"
-            },
-            {
-                "title": "<i class='ion ion-help-buoy left'></i>JUST Token?",
-                "content": "<p>Wenn du in letzter Zeit eine Transaktion auf ein Ethereum Wallet durchgeführt hast sind die Chancen hoch, dass du '<b>JUST powh.io</b>' Token erhalten hast. Vielleicht sind die sogar der Grund warum du hier bist?</p><p>Eine Lücke in den Mechaniken von ERC20 Token erlaubte uns jeder Person die über eine Ethereum Wallet verfügt diese Token als Werbung zu schicken. Eigentlich waren es sogar die Mitglieder unserer Community die ein Mining-Programm haben laufen lassen, welches die Token an so viele Adressen wie möglich verschickt hat. Wahrscheinlich sind wir die ersten, die einen Krypto-Miner auf den Markt geschmissen haben, der Token an andere Personen vergibt.</p><p>Innerhalb von 3 Tagen wurde unser Token der meistbesessene ERC20 Token auf der ganzen Welt mit mehr als 1,6+ Millionen Wallets die aktuell diesen Token besitzen.</p><p>Es tut uns auch furchtbar leid dir mitteilen zu müssen, dass dieser Token absolut Wertlos ist, nicht gehandelt, verkauf oder gegen etwas wertvolles eingetauscht werden kann. Jeder Versuch diesen Token von deiner Wallet zu entfernen erzeugt nur mehr davon.</p><p>Behalte ihn lieber. Es ist ein Geschenk unserer Community an dich!</p>"
-            },
-            {
-                "title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
-                "content": "<p><b>Zusammenfassung:</b> Eine dezentralisierte Wirtschaftssimulation einer algorithmisch verwalteten Kryptowährung in welcher anfallende Steuern auf alle Transaktionen direkt und autonom an die Inhaber der Währung verteilt werden, anstatt an den Verwaltungsapparat; daraus resultierend ist eine Art bedingungsloses Grundeinkommen basierend auf Adaption und Transaktionsvolumen.</p><p><b>PoWH3D</b> ist eine durch die Blockchain durchgeführte Simulation der <a href='https://de.wikipedia.org/wiki/Pareto-Optimum'><i><b>Selbst-Entfernung vom Pareto-Optimum</b></i></a>; einem Wirtschaftskonzept in welchem es nicht länger möglich ist weitere Ressourcenverteilung durchzuführen ohne dabei einen Teilnehmer des Modells zu schaden. In diesem Fall ist der Schaden absichtlich in Form von Ungeduld gegenüber anderen Teilnehmern, oder als Eintrittsgebühr zum Starten des Spiels, selbst auferlegt.</p><p>Das Ergebnis dieses Experiments zur menschlichen Laune ist ein gegenseitig vorteilhaftes Abkommen für alle Teilnehmer des Modells, basierend auf den Entscheidungen anderer aus dem Pareto-Optimum auszubrechen in dem diese den Smart-Contract betreten oder verlassen. Der herausstechendste Vorteil zeigt sich in der Form von Ethereum-Einnahmen welche passiv generiert werden indem Gebühren auf alle Teilnehmer auferlegt werden die ihre Positionen liquidieren wollen und dem Spiel entweder beitreten oder es verlassen. Diese Gebühren werden an all Tokenbesitzer anteilsbasierend verteilt. Das daraus resultierende volumebasierte Einkommen fügt eine weitere Dimension zu den standardmäßigen Preis/Zeit Berechnungen hinzu, welche aktuell in Kryptowährungen allgegenwärtig sind.</p>"
-            }
-        ]
-    }
-+}
+		]
+	},
+	"shower": [{
+			"title": "Keine Menschen Erlaubt",
+			"content": "Anders als 'Investment' Platformen wie Bitconnect, wird PoWH3D von einem Smart-Contract gesteuert. Kein Mensch hat jemals vollen Zugang zu dem Inhalt des Vertrags."
+		},
+		{
+			"title": "Frei Tauschbar",
+			"content": "Das Transfersystem unserer Tokens ist so gebaut, dass es automatisch 10% aller gehandelten Tokens einkassiert, in ETH schmilzt und an alle anderen Token-Besitzer verteilt. Selbst wenn der Handel außerhalb des Smart-Contracts stattfindet. Eine Börse hat dich vorher noch nie bezahlt, oder?"
+		},
+		{
+			"title": "Bedingungslose volumenbasierte Belohnungen",
+			"content": "Das Konzept von Bedingungslosem Grundeinkommen sieht eine Versteuerung aller Transaktionen und eine Rückzahlung davon an alle vor; Kryptowährungen sind der perfekte Ort um solche Modelle in die Tat umzusetzen. Und hey, 3D hört sich einfach auch viel cooler an, als alles was sich diese Hippies dazu ausgedacht haben."
+		}
+	],
+	"shill": {
+		"title": "Shill Kit",
+		"sub": "Nur ein kleiner Ausschnitt, es gibt mehr auf der <a href='shill-kit.html'><b>Shill Kit</b></a> Seite",
+		"categories": [
+			"Alle",
+			"GIF",
+			"Logo",
+			"Qualitativ Hochwertig"
+		]
+	},
+	"benefactors": {
+		"title": "Ermöglicht durch"
+	},
+	"menu": [
+		"home",
+		"community",
+		"dezentralisierte börse",
+		"wiki",
+		"shill kit"
+	],
+	"titles": {
+		"points": "Macht echt nachdenklich",
+		"shower": "FINALER GEDANKENBLITZ",
+		"shill": "Alle anschauen",
+		"home": "PoWH3D: Kryptowährung in drei Dimensionen"
+	},
+	"languages": {
+		"en": "Englisch",
+		"de": "Deutsch"
+	},
+	"faq": {
+		"title": "ANTWORTEN",
+		"answers": [{
+				"title": "<i class='ion ion-help-circled left'></i>Fragen?",
+				"content": "<p>Unsere Community ist mehr als bereit dir alle Fragen die du haben könntest zu beantworten! Komme auf unseren <a href='https://discord.gg/Y6CHepn'>Discord</a> und rede mit echten Menschen und ein paar cleveren Meme-Bots (Entwickler eingeschlossen).</p><p>Oder wenn du mehr darüber erfahren willst wie alles eigentlich genau funktioniert, besuche unser <a href='https://powh3d.hostedwiki.co/'>Wiki</a></p>"
+			},
+			{
+				"title": "<i class='on ion-help-buoy left'></i>Scherze?",
+				"content": "<p>Es ist dir vielleicht aufgefallen, dass wir über unsere Kryptowährung sehr viele Späße machen: wir haben Pyramidenbilder auf der Webseite, haben absichtlich falsche Titel für unsere Features genommen und haben sogar einen Abschnitt auf der Webseite, in dem wir andere Kryptobetrügereien zu unseren Beratern zählen.</p><p>Jedem der unseren Humor teilt wird natürlich auffallen, dass das alles eine einzige Satire auf den aktuellen Status Quo von Kryptowährungen und den traurigen Zustand von ICOs die einem alles versprechen, während das Ethereum das in diese Projekte gepumpt wurde auf irgendwelchen Wallets für immer verschwindet und Schlagwörter wie 'Masternodes', 'Staking', 'Dezentralisierung', 'Smart Contracts' und 'Ecosystem' hype um ein Produkt aufbauen, das nicht existiert.</p><p><b>Abgesehen davon ist unser Token ironischerweise ein vollfunktionsfähiges Produkt dass auch lange nach dem Verschwinden der Entwickler noch funktioniert.</b></p><p>Sei dabei, wenn wir der Öffentlichkeit unsere Ziele zum Weiterbringen des ICO-Modells vorführen, um diese wirklich vertrauenslos zu machen.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Ist das hier ein Betrug?",
+				"content": "<p>Ziemlich viele Rückmeldungen zu unserem System (sprich: Angriffe) sagen aus es handle sich hier um ein Pyramiden- oder Ponzisystem.</p><p>Die Mechaniken hinter 'Proof of Weak Hands' lassen sich nicht wirklich auf diese Art beschreiben, aber wir verstehen das es am Anfang sehr schwer fällt das zu glauben. Wir erkennen an, dass ein vertrauensloser Smart-Contract der Werte verwaltet in dieser Form einfach bislang in der Geschichte der Computer nicht möglich war.</p><p>Wir weisen gerne darauf hin, dass überall wo wir Pyramidenbilder benutzen, eine weitere horizontal gespiegelte Pyramide im Himmel schwebt. Dies soll die Symbolik unterstreichen, dass wir den Schwerpunkt des Projekts zwischen die beiden Spitzen verlagert haben.</p><p>Im Falle eines normalen Pyramidensystems sind es die ersten Investoren die am meisten profitieren, wenn neue Investoren ihre Investments in den Trichter stopfen. Bei einem invertierten Pyramidensystem ist es das Ziel neue investoren durch exponentielles Wachstum am meisten zu belohnen.</p><p><b>In unserem Fall passt allerdings keine der beiden Beschreibungen auf unser System. Wir bestrafen einfach jeden.</b></p><p>Die Form unseres Systems bildet eine Sanduhr bei der sich beide Enden ständig bekämpfen. Genau wie bei einer Sanduhr bildet der fließende Sand (ETH) den Hauptbestandteil des Systems und belohnt dabei weder die frühen noch die späten Investoren. Die wahren Gewinner sind diejenigen, die ihre Token durch alle Preisschwankungen mit aller Kraft festhalten.</p><p>Wenn du dem System also unbedingt einen Namen geben muss, dann nenne es 'Sanduhr - Modell '. Das ist wenigstens annähernd richtig.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>JUST Token?",
+				"content": "<p>Wenn du in letzter Zeit eine Transaktion auf ein Ethereum Wallet durchgeführt hast sind die Chancen hoch, dass du '<b>JUST powh.io</b>' Token erhalten hast. Vielleicht sind die sogar der Grund warum du hier bist?</p><p>Eine Lücke in den Mechaniken von ERC20 Token erlaubte uns jeder Person die über eine Ethereum Wallet verfügt diese Token als Werbung zu schicken. Eigentlich waren es sogar die Mitglieder unserer Community die ein Mining-Programm haben laufen lassen, welches die Token an so viele Adressen wie möglich verschickt hat. Wahrscheinlich sind wir die ersten, die einen Krypto-Miner auf den Markt geschmissen haben, der Token an andere Personen vergibt.</p><p>Innerhalb von 3 Tagen wurde unser Token der meistbesessene ERC20 Token auf der ganzen Welt mit mehr als 1,6+ Millionen Wallets die aktuell diesen Token besitzen.</p><p>Es tut uns auch furchtbar leid dir mitteilen zu müssen, dass dieser Token absolut Wertlos ist, nicht gehandelt, verkauf oder gegen etwas wertvolles eingetauscht werden kann. Jeder Versuch diesen Token von deiner Wallet zu entfernen erzeugt nur mehr davon.</p><p>Behalte ihn lieber. Es ist ein Geschenk unserer Community an dich!</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
+				"content": "<p><b>Zusammenfassung:</b> Eine dezentralisierte Wirtschaftssimulation einer algorithmisch verwalteten Kryptowährung in welcher anfallende Steuern auf alle Transaktionen direkt und autonom an die Inhaber der Währung verteilt werden, anstatt an den Verwaltungsapparat; daraus resultierend ist eine Art bedingungsloses Grundeinkommen basierend auf Adaption und Transaktionsvolumen.</p><p><b>PoWH3D</b> ist eine durch die Blockchain durchgeführte Simulation der <a href='https://de.wikipedia.org/wiki/Pareto-Optimum'><i><b>Selbst-Entfernung vom Pareto-Optimum</b></i></a>; einem Wirtschaftskonzept in welchem es nicht länger möglich ist weitere Ressourcenverteilung durchzuführen ohne dabei einen Teilnehmer des Modells zu schaden. In diesem Fall ist der Schaden absichtlich in Form von Ungeduld gegenüber anderen Teilnehmern, oder als Eintrittsgebühr zum Starten des Spiels, selbst auferlegt.</p><p>Das Ergebnis dieses Experiments zur menschlichen Laune ist ein gegenseitig vorteilhaftes Abkommen für alle Teilnehmer des Modells, basierend auf den Entscheidungen anderer aus dem Pareto-Optimum auszubrechen in dem diese den Smart-Contract betreten oder verlassen. Der herausstechendste Vorteil zeigt sich in der Form von Ethereum-Einnahmen welche passiv generiert werden indem Gebühren auf alle Teilnehmer auferlegt werden die ihre Positionen liquidieren wollen und dem Spiel entweder beitreten oder es verlassen. Diese Gebühren werden an all Tokenbesitzer anteilsbasierend verteilt. Das daraus resultierende volumebasierte Einkommen fügt eine weitere Dimension zu den standardmäßigen Preis/Zeit Berechnungen hinzu, welche aktuell in Kryptowährungen allgegenwärtig sind.</p>"
+			}
+		]
+	}
+}
