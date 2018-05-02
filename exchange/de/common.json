@@ -45,7 +45,7 @@
 					"hint": "1) Je höher dein angebotener Gas-Preis, desto schneller bearbeiten und bestätigen die ETH-Miner deine Transaktion."
 				},
 				"reinvest": {
-					"title": "Reinvest Gauntlet Rewards",  //TODO
+					"title": "Reinvestiere Gauntlet Belohnungen",
 					"button": "Reinvestieren"
 				},
 				"recent": {
@@ -73,10 +73,10 @@
 					"deny": "NEIN, ICH HABE NEUE KRAFT GEFUNDEN."
 				},
 				"withdraw": {
-					"title": "Outstanding Gauntlet Rewards",   //TODO
+					"title": "Ausstehende Gauntlet Belohnungen",
 					"button": "Abheben",
 					"reinvest": "Reinvestieren",
-					"warning": "Möchtest du deine GAUNTLET REWARDS abheben? Keine Sorge, das ist gebührenfrei und das ETH ist schon so gut wie deins. Aber wenn du dich amüsierst möchtest du dir vielleicht etwas Wahnsinn eingestehen und lieber Reinvestieren. Mehr Token bedeuten du bekommst einen größeren Anteil aller Gebühren. Es ist in etwa wie eine Verdopplung, nur dass du vielleicht verdoppelst, aber auf alle Fälle nicht nichts bekommst.",  //TODO
+					"warning": "Möchtest du deine Gauntlet Belohnungen abheben? Keine Sorge, das ist gebührenfrei und das ETH ist schon so gut wie deins. Aber wenn du dich amüsierst möchtest du dir vielleicht etwas Wahnsinn eingestehen und lieber Reinvestieren. Mehr Token bedeuten du bekommst einen größeren Anteil aller Gebühren. Es ist in etwa wie eine Verdopplung, nur dass du vielleicht verdoppelst, aber auf alle Fälle nicht nichts bekommst.",
 					"confirm": "JA, SAG DEM ROBOTER ES IST ZAHLTAG.",
 					"deny": "NEIN, MIR GEFÄLLT WAS HIER PASSIERT."
 				},
@@ -98,7 +98,7 @@
 					"invalid": "Ungültige Wallet-Adresse...",
 					"empty": "Ungültige Anzahl von Token...",
 					"button": "Transferiere",
-					"hint": " 1) Denk dran, es entsteht eine 10% Gebühr bei jedem Transfer.<br> 2) Deine ausstehenden GAUNTLET REWARDS werden automatisch auf dein Wallet abgehoben, wenn du transferierst. Keine Panik.<br> 3) Je höher dein angebotener Gas-Preis, desto schneller bearbeiten und bestätigen die ETH-Miner deine Transaktion."
+					"hint": " 1) Denk dran, es entsteht eine 10% Gebühr bei jedem Transfer.<br> 2) Deine ausstehenden Gauntlet Belohnungen werden automatisch auf dein Wallet abgehoben, wenn du transferierst. Keine Panik.<br> 3) Je höher dein angebotener Gas-Preis, desto schneller bearbeiten und bestätigen die ETH-Miner deine Transaktion."
 				},
 				"recent": {
 					"title": "Jüngste Transfers",
