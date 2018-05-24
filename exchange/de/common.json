@@ -1,0 +1,192 @@
+{
+	"masthead": {
+		"holdings": "Kontostand",
+		"balance": "{{balance}} ETH im Smartcontract"
+	},
+	"menu": {
+		"exchange" : [
+			"Börse",
+			"Verkaufen & Abheben",
+			"Transfer",
+			"Kontostand"
+		],
+		"staking": "Einsätze & Masternode",
+		"news": "News",
+		"chat": "Chat",
+		"explorer": "Explorer"
+	},
+	"notifications": {
+		"loading": "Lade...",
+		"cancelled": "Transaktion wurde durch den Nutzer abgebrochen.",
+		"error": "Ein Fehler ist aufgetreten.",
+		"withdrawalSubmitted": "Abbuchungsanfrage wurde erfolgreich an die Blockchain übermittelt. Erwarte Bestätigung...", 
+		"sellSubmitted": "Verkaufsanfrage wurde erfolgreich an die Blockchain übermittelt. Erwarte Bestätigung...",
+		"sellConfirmed": "Der Verkauf deiner P3D-Token wurde von der Blockchain bestätigt! Du hast {{tokens}} P3D-Token für {{eth}} ETH verkauft.",
+		"sellExternal": "Jemand hat gerade {{tokens}} P3D-Token für {{eth}} ETH verkauft.",
+		"buySubmitted": "Kaufanfrage wurde erfolgreich an die Blockchain übermittelt. Erwarte Bestätigung...",
+		"buyConfirmed": "Der Kauf von P3D-Token wurde von der Blockchain bestätigt! Du hast {{tokens}} P3D-Token für {{eth}} ETH gekauft.",
+		"buyExternal": "Jemand hat gerade {{tokens}} P3D-Token für {{eth}} ETH gekauft.",
+		"transferSubmitted": "Transferanfrage wurde erfolgreich an die Blockchain übermittelt. Erwarte Bestätigung...",
+		"transferConfirmed": "Der Transfer deiner P3D-Token wurde von der Blockchain bestätigt! Du hast {{tokens}} P3D-Token transferiert.",
+		"transferExternal": "Jemand hat gerade {{tokens}} P3D-Token transferiert."
+	},
+	"footer": "Es handelt sich hier um Unterhaltung, nicht um Investment. Gefällt es euch nicht?",
+	"pages": {
+		"purchase": {
+			"title": "Token Kaufen",
+			"item": {
+				"buy": {
+					"title": "Kaufe P3D-Token",
+					"spend": "Ethereum ausgeben",
+					"approx": "Ungefähr {{amount}} P3D-Token.",
+					"invalid": "Gib eine gültige Nummer ein.",
+					"empty": "Gib oben eine Nummer ein um sofort eine Preiseinschätzung zu sehen.",
+					"button": "Kaufen",
+					"hint": "1) Je höher dein angebotener Gas-Preis, desto schneller bearbeiten und bestätigen die ETH-Miner deine Transaktion."
+				},
+				"reinvest": {
+					"title": "Reinvestiere Gauntlet Belohnungen",
+					"button": "Reinvestieren"
+				},
+				"recent": {
+					"title": "Jüngste Käufe",
+					"date": "Datum",
+					"tx": "TX-ID",
+					"address": "Adresse"
+				}
+			}
+		},
+		"sell": {
+			"title": "Token Verkaufen",
+			"item": {
+				"sell": {
+					"title": "Verkaufe P3D-Token",
+					"spend": "Token zu verkaufen",
+					"approx": "Ungefähr {{amount}} ETH.",
+					"invalid": "Gib eine gültige Nummer ein.",
+					"empty": "Gib oben eine Nummer ein um sofort eine Preiseinschätzung zu sehen.",
+					"button": "Verkaufen",
+					"all": "Alle",
+					"hint": "1) Je höher dein angebotener Gas-Preis, desto schneller bearbeiten und bestätigen die ETH-Miner deine Transaktion.",
+					"warning": "Willst du wirklich deine Token verkaufen? Der Verkauf bedeutet dass du die und allen anderen eingestehst, dass deine Hände nicht stark genug sind um weiterzuspielen. Die anfallenden 10% Gebühren werden allerdings von den anderen Spielern sehr begrüßt.",
+					"confirm": "JA, ICH HABE SCHWACHE HÄNDE.",
+					"deny": "NEIN, ICH HABE NEUE KRAFT GEFUNDEN."
+				},
+				"withdraw": {
+					"title": "Ausstehende Gauntlet Belohnungen",
+					"button": "Abheben",
+					"reinvest": "Reinvestieren",
+					"warning": "Möchtest du deine Gauntlet Belohnungen abheben? Keine Sorge, das ist gebührenfrei und das ETH ist schon so gut wie deins. Aber wenn du dich amüsierst möchtest du dir vielleicht etwas Wahnsinn eingestehen und lieber Reinvestieren. Mehr Token bedeuten du bekommst einen größeren Anteil aller Gebühren. Es ist in etwa wie eine Verdopplung, nur dass du vielleicht verdoppelst, aber auf alle Fälle nicht nichts bekommst.",
+					"confirm": "JA, SAG DEM ROBOTER ES IST ZAHLTAG.",
+					"deny": "NEIN, MIR GEFÄLLT WAS HIER PASSIERT."
+				},
+				"recent": {
+					"title": "Jüngste Verkäufe",
+					"date": "Datum",
+					"tx": "TX-ID",
+					"address": "Adresse"
+				}
+			}
+		},
+		"transfer": {
+			"title": "Token Transferieren",
+			"item": {
+				"transfer": {
+					"title": "Transferiere P3D-Token",
+					"spend": "Token versenden",
+					"recipient": "Wallet des Empfängers",
+					"invalid": "Ungültige Wallet-Adresse...",
+					"empty": "Ungültige Anzahl von Token...",
+					"button": "Transferiere",
+					"hint": " 1) Denk dran, es entsteht eine 10% Gebühr bei jedem Transfer.<br> 2) Deine ausstehenden Gauntlet Belohnungen werden automatisch auf dein Wallet abgehoben, wenn du transferierst. Keine Panik.<br> 3) Je höher dein angebotener Gas-Preis, desto schneller bearbeiten und bestätigen die ETH-Miner deine Transaktion."
+				},
+				"recent": {
+					"title": "Jüngste Transfers",
+					"date": "Datum",
+					"tx": "TX-ID",
+					"from": "Von",
+					"to": "Nach"
+				}
+			}
+		},
+		"holdings": {
+			"title": "Mein Kontostand",
+			"item": {
+				"tokens": {
+					"title": "Token"
+				},
+				"rewards": {
+					"title": "Belohnungen",
+					"reinvest": "(wenn reinvestiert)"
+				},
+				"portfolio": {
+					"title": "Portfolio Wachstum",
+					"description": "Das erweiterte Chart-Modul befindet sich derzeit in Entwicklung."
+				},
+				"actions": {
+					"buy": "Kaufen",
+					"withdraw": "Abheben",
+					"sell": "Verkaufen"
+				},
+				"configuration": {
+					"title": "Konfiguration",
+					"description": "Personalisierungen, wie zum Beispiel der viel gefragte Nacht-Modus, werden demnächst hier auftauchen. Hast du einen Vorschlag für ein Feature? <a href='https://discord.gg/wfG97Kt'>Schau auf unserem Discord vorbei.</a>"
+				},
+				"recent": {
+					"title": "Meine Transaktionshistorie",
+					"date": "Datum",
+					"tx": "TX-ID",
+					"event": "Ereignis"
+				}
+			}
+		},
+		"staking": {
+			"title": "Einsätze",
+			"item": {
+				"description": {
+					"title": "Masternodes...",
+					"columns": [
+						{
+							"title": "Erweiter das Netzwerk!",
+							"text": "Wenn deine Wallet 5 Token oder mehr hält, generiert der Smartcontract einen Link für deine Masternode!<br><br> Immer wenn jemand die Webseite über deinen einzigartigne Link besucht, wird deine Masternode in den Cookies der Person gespeichert und wird für alle P3D Einkäufe genutzt die diese Person durchführt; jetzt und in der Zukunft."
+						},
+						{
+							"title": "Was springt für mich dabei raus?",
+							"text": "<b>Ethereum!</b> Immer dann wenn jemand über deinen Masternode-Link einkauft, <strong>bekommst du sofort 33% der anfallenden Einkaufsgebühren, die ansonsten direkt an Smartcontract gezahlt würden, in ETH</strong> - bedingungs- und mühelos."
+						}
+					]
+				},
+				"masternode": {
+					"title": "Mein Masternode-Link",
+					"link": "Dein Masternode-Link ist...",
+					"pointers": "Allgemeine Hinweise zum Erweitern deines Netzwerks:",
+					"list": [
+						"Versuche Mitglieder in Communities zu erreichen, in denen du vertraut bist",
+						"Rede über powh.io in Foren in deiner Sprache für maximales Potential.",
+						"Benutze das<a href='https://powh.io/shill-kit.html'>Shill-Kit; es wurde dafür konzipiert, dass Leute deine Links klicken!</a>",
+						"Sei ehrlich. Teile das Konzept hinter PoWH und was du über das Projekt denkst.",
+						"Lüge nicht, oder verspreche garantierte Gewinne.",
+						"Spam nicht einfach deinen Masternode-Link in die Welt. Rede stattdessen über das Projekt.",
+						"Widersetzen kann in einer Terminierung deines Masternode-Link resultieren.",
+						"Die Voraussetzungen für einen Masternode-Link können sich mit der Zeit ändern; gehe auf Nummer sicher und reinvestiere deine Belohnungen.",
+						"Falls du denkst du bist clever: du kannst nicht deinen eigenen Masternode-Link benutzen."
+					]
+				},
+				"tracker": {
+					"title": "Überprüfe Besuche...",
+					"text": "Totale Masternode Besuche <br>(noch nicht einsatzfähig)"
+				},
+				"earnings": {
+					"text": "Ausstehende Masternode Belohnungen"
+				},
+				"recent": {
+					"title": "Deine Masternode Umwandlungen",
+					"date": "Datum",
+					"tx": "TX-ID",
+					"address": "Adresse",
+					"profit": "Profit"
+				}
+			}
+		}
+	} 
+}
