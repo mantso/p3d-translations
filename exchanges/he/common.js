@@ -1,190 +1,190 @@
 {
 	"masthead": {
-		"holdings": "Holdings",
-		"balance": "{{balance}} ETH in contract"
+		"holdings": "אחזקות",
+		"balance": "{{balance}} כמות את'ר כוללת בחוזה"
 	},
 	"menu": {
 		"exchange" : [
-			"Exchange",
-			"Sell & Withdraw",
-			"Transfer",
-			"Holdings"
+			"מסחר",
+			"מכירה ומשיכה",
+			"העברה",
+			"אחזקות"
 		],
-		"staking": "Staking & Masternode",
-		"news": "News",
-		"chat": "Chat",
-		"explorer": "Explorer"
+		"staking": "מאסטרנודים",
+		"news": "חדשות",
+		"chat": "צ'אט",
+		"explorer": "טרנזקציות"
 	},
 	"notifications": {
-		"loading": "Loading...",
-		"cancelled": "Transaction was cancelled by the user.",
-		"error": "An error occured",
-		"withdrawalSubmitted": "Withdrawal request has been transmitted to the blockchain. Awaiting confirmation..", 
-		"sellSubmitted": "Sell order has been transmitted to the blockchain. Awaiting confirmation..",
-		"sellConfirmed": "Your P3D token sell order has been confirmed by the blockchain! You succesfully sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"sellExternal": "Someone else just sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"buySubmitted": "Buy order has been transmitted to the blockchain. Awaiting confirmation..",
-		"buyConfirmed": "Your P3D token purchase order has been confirmed by the blockchain! You succesfully bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"buyExternal": "Someone else just bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"transferSubmitted": "Transfer order has been transmitted to the blockchain. Awaiting confirmation..",
-		"transferConfirmed": "Your P3D token transfer order has been confirmed by the blockchain! You succesfully transfered {{tokens}} P3D tokens.",
-		"transferExternal": "Someone else just transferred {{tokens}} P3D tokens."
+		"loading": "...טוען",
+		"cancelled": "העסקה בוטלה על-ידי המשתמש",
+		"error": "אירעה שגיאה",
+		"withdrawalSubmitted": "בקשת משיכה נשלחה אל הרשת. ממתין לאישור", 
+		"sellSubmitted": "בקשת מכירה נשלחה אל הרשת. ממתין לאישור",
+		"sellConfirmed": "מכירת הטוקנים שלך אושרה על-ידי הרשת! נמכרו {{tokens}} טוקנים בתמורה ל-{{eth}} את'ר",
+		"sellExternal": "משתמש אחר מכר {{tokens}} טוקנים בתמורה ל-{{eth}} את'ר",
+		"buySubmitted": "בקשת קניה נשלחה אל הרשת. ממתין לאישור",
+		"buyConfirmed": "רכישת הטוקנים שלך אושרה על-ידי הרשת! נמכרו {{tokens}} טוקנים בתמורה ל-{{eth}} את'ר",
+		"buyExternal": "משתמש אחר קנה {{tokens}} טוקנים בתמורה ל-{{eth}} את'ר",
+		"transferSubmitted": "בקשת העברה נשלחה אל הרשת. ממתין לאישור",
+		"transferConfirmed": "בקשת ההעברה שלך אושרה על-ידי הרשת! הועברו {{tokens}} טוקנים",
+		"transferExternal": "משתמש אחר העביר {{tokens}} טוקנים"
 	},
-	"footer": "This is an entertainment platform, not an investment platform, are you not entertained?",
+	"footer": "?פרוייקט זה הינו למטרות משחק בלבד ולא למטרות השקעה! כיף, לא",
 	"pages": {
 		"purchase": {
-			"title": "Purchase tokens",
+			"title": "רכישת טוקנים",
 			"item": {
 				"buy": {
-					"title": "Buy P3D tokens",
-					"spend": "Ethereum to spend",
-					"approx": "Approximately {{amount}} P3D tokens.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Purchase",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "קנה טוקנים",
+					"spend": "כמות את'ר להוצאה",
+					"approx": "מספר טוקנים משוער {{amount}}",
+					"invalid": "אנא הקלד מספר תקין",
+					"empty": "הקלד מספר כלשהו לעיל כדי לראות מחיר משוער",
+					"button": "קנה",
+					"hint": "ככל שתזין כמות גז גבוהה יותר, כך הבקשה שלך תאושר מהר יותר על-ידי הרשת"
 				},
 				"reinvest": {
-					"title": "Reinvest Gauntlet Rewards",
-					"button": "Reinvest!"
+					"title": "השקע מחדש את הדיבידנדים שצברת",
+					"button": "!השקע מחדש"
 				},
 				"recent": {
-					"title": "Recent buy orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address"
+					"title": "הוראות רכישה אחרונות",
+					"date": "תאריך",
+					"tx": "מזהה עסקה",
+					"address": "כתובת"
 				}
 			}
 		},
 		"sell": {
-			"title": "Sell tokens",
+			"title": "מכירת טוקנים",
 			"item": {
 				"sell": {
-					"title": "Sell P3D tokens",
-					"spend": "Tokens to sell",
-					"approx": "Approximately {{amount}} ETH.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Sell!",
-					"all": "All",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction.",
-					"warning": "Are you sure you want to sell tokens? Selling is admitting to yourself, and everyone else that your hands are no longer strong enough to play. The 10% fee on your sale will definitely appreciated by other holders though.",
-					"confirm": "YES, I HAVE WEAK HANDS.",
-					"deny": "NO, I'VE FOUND NEW STRENGTH."
+					"title": "מכור טוקנים",
+					"spend": "כמות טוקנים למכירה",
+					"approx": "כמות את'ר משוערת {{amount}}",
+					"invalid": "אנא הקלד מספר תקין",
+					"empty": "הקלד מספר כלשהו לעיל כדי לראות מחיר משוער",
+					"button": "מכור",
+					"all": "מכור הכל",
+					"hint": "ככל שתזין כמות גז גבוהה יותר, כך הבקשה שלך תאושר מהר יותר על-ידי הרשת",
+					"warning": "האם אתה בטוח שברצונך למכור טוקנים? למכור פירושו להודות בפני כולם ובפני עצמך שהידיים שלך חלשות ואינך מסוגל להמשיך ולהשתתף במשחק. המשתתפים האחרים ישמחו לקבל ממך את עמלת המכירה בגובה 10%",
+					"confirm": "כן. אני ידיים חלשות",
+					"deny": "לא, מצאתי את הכוחות להמשיך ולהחזיק"
 				},
 				"withdraw": {
-					"title": "Outstanding Gauntlet Rewards",
-					"button": "Withdraw",
-					"reinvest": "Reinvest",
-					"warning": "Would you like to withdraw your Gauntlet rewards? Don't worry there's no fee, the Eth is already as good as yours. But if you're enjoying yourself (and the way things are going) you might want to admit insanity and try our reinvest feature. More tokens means you get a larger share of all fees that are ever paid into the contract. It's kinda like doubling down, but you might get double, and you won't get nothing.",
-					"confirm": "YES, TELL THE ROBOT IT'S MY PAYDAY.",
-					"deny": "NO, I LIKE WHERE THIS IS GOING."
+					"title": "דיבידנדים צבורים",
+					"button": "משוך",
+					"reinvest": "השקע מחדש",
+					"warning": "האם ברצונך למשוך את הדיבידנדים? אל חשש, אין עמלות משיכה. אבל אם אתה נהנה מהמשחק אולי תעדיף לוותר על שפיותך ולבחון את אופציית ההשקעה מחדש. ככל שתמשיך להחזיק יותר טוקנים כך תקבל יותר עמלות ממשתמשים אחרים. זה בעצם כמו להגדיל את ההימור, שזה מגדיל את הסיכון אבל גם מגדיל את הכיף ומפחית את הסיכוי שלא תקבל כלום",
+					"confirm": "כן, הגיע הזמן שהמכונה תשלם לי",
+					"deny": "לא, אני אוהב מה שהולך כאן"
 				},
 				"recent": {
-					"title": "Recent sell orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address"
+					"title": "הוראות מכירה אחרונות",
+					"date": "תאריך",
+					"tx": "מזהה עסקה",
+					"address": "כתובת"
 				}
 			}
 		},
 		"transfer": {
-			"title": "Transfer tokens",
+			"title": "העברת טוקנים",
 			"item": {
 				"transfer": {
-					"title": "Transfer P3D tokens",
-					"spend": "Tokens to send",
-					"recipient": "Wallet of the recipient",
-					"invalid": "Invalid wallet address...",
-					"empty": "Invalid amount of tokens...",
-					"button": "Transfer",
-					"hint": " 1). Remember, there's a flat 10% fee on all tokens transferred <br> 2). Your outstanding Gauntlet Rewards will be automatically withdrawn to your eth wallet when you transfer tokens. Don't freak out.<br> 3). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "העבר טוקנים",
+					"spend": "כמות טוקנים לשליחה",
+					"recipient": "כתובת הארנק המקבל",
+					"invalid": "כתובת ארנק שגויה",
+					"empty": "כמות שגויה",
+					"button": "העבר",
+					"hint": " זכור! עמלת העברה בגובה 10% תגבה מכל העברה <br> סך הדיבידנדים הצבורים יימשך באופן אוטומטי לארנק שלך. אל תכנס ללחץ.<br> ככל שתזין כמות גז גבוהה יותר, כך הבקשה שלך תאושר מהר יותר על-ידי הרשת"
 				},
 				"recent": {
-					"title": "Recent transfer orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"from": "From",
-					"to": "To"
+					"title": "הוראות העברה אחרונות",
+					"date": "תאריך",
+					"tx": "מזהה עסקה",
+					"from": "-מ",
+					"to": "אל"
 				}
 			}
 		},
 		"holdings": {
-			"title": "My Holdings",
+			"title": "האחזקות שלי",
 			"item": {
 				"tokens": {
-					"title": "Tokens"
+					"title": "טוקנים"
 				},
 				"rewards": {
-					"title": "Rewards",
-					"reinvest": "(if reinvested)"
+					"title": "דיבידנדים",
+					"reinvest": "(אם תשקיע מחדש)"
 				},
 				"portfolio": {
-					"title": "Portfolio growth",
-					"description": "The advanced charting module is currently in development."
+					"title": "צמיחת התיק",
+					"description": "גרף העסקאות נמצא בשלבי פיתוח"
 				},
 				"actions": {
-					"buy": "Buy tokens",
-					"withdraw": "Withdraw",
-					"sell": "Sell tokens"
+					"buy": "קנה טוקנים",
+					"withdraw": "משיכה",
+					"sell": "מכור טוקנים"
 				},
 				"configuration": {
-					"title": "Configuration",
-					"description": "Personalization settings will soon come here, inculding the much requested night-mode. Do you have any suggested features? <a href='https://discord.gg/wfG97Kt'>Please stop by in our own chat platform.</a>"
+					"title": "הגדרות",
+					"description": "בקרוב - הגדרות אישיות, כולל מצב לילה. אם יש לך בקשות, הכנס לצ'אט שלנו <a href='https://discord.gg/wfG97Kt'></a>"
 				},
 				"recent": {
-					"title": "My transaction history",
-					"date": "Date.",
-					"tx": "Tx.",
-					"event": "Event"
+					"title": "היסטוריית הטרנזקציות שלי",
+					"date": "תאריך",
+					"tx": "מזהה עסקה",
+					"event": "סוג"
 				}
 			}
 		},
 		"staking": {
-			"title": "Staking",
+			"title": "מעורבות",
 			"item": {
 				"description": {
-					"title": "Masternodes...",
+					"title": "מאסטרנודים",
 					"columns": [
 						{
-							"title": "Expand the Network!",
-							"text": "If your wallet holds 5 tokens, the contract generates a link to your masternode for you!<br><br> Whenever someone visits the site via this unique link, they have your masternode stored in a cookie that tracks all purchases of P3D they make, now and in the future."
+							"title": "!הפץ את הבשורה",
+							"text": "אם יש ברשותך לפחות 5 טוקנים, החוזה החכם מייצר עבורך מאסטרנוד! <br><br> בכל פעם שמישהו יבקר באתר באמצעות המאסטרנוד שלך, הדפדפן שלהם ישמור את המאסטרנוד שלך בעוגיה שעוקבת אחרי כל עסקה שהם יבצעו, כעת ובעתיד"
 						},
 						{
-							"title": "What's in it for me?",
-							"text": "<b>Ethereum!</b> Whenever someone purchases with your masternode link, <strong>you instantly receive 33% of the buy-in-fees they would otherwise pay to the contract, in ETH</strong> - no questions asked, no hassle."
+							"title": "?מה יוצא לי מזה",
+							"text": "<b>את'ריום!</b> בכל פעם שמישהו רוכש טוקנים באמצעות המאסטרנוד שלך, אתה מקבל מיד אוטומטית 33% מעמלות הקנייה שלו, שאחרת היו משולמות לכל המשתמשים"
 						}
 					]
 				},
 				"masternode": {
-					"title": "My masternode link",
-					"link": "Your unique masternode link is...",
-					"pointers": "General pointers for expanding your own network:",
+					"title": "המאסטרנוד שלי",
+					"link": "...לינק המאסטרנוד הייחודי שלך הינו",
+					"pointers": "כללים להגדלת הרשת הפרטית שלך",
 					"list": [
-						"Try to approach members in communities you're familiar with",
-						"Talk about powh.io on forums in your own language for maximum potential.",
-						"Apply the <a href='https://powh.io/shill-kit.html'>shill-kit, it's designed to make people click your link!</a>",
-						"Be honest. Share the concept behind PoWH and how you feel about the project.",
-						"Don't lie or promise guaranteed returns.",
-						"Don't simply spam your masternode link. Talk about the project instead.",
-						"Failure to oblige to the above rules may result in suspension of your masternode link.",
-						"The masternode staking requirement may change over time, so make sure to reinvest your dividends.",
-						"Just in case you're feeling clever, using your own masternode link doesn't work"
+						".נסה לגשת לחברים בקהילות שאתה חבר בהן",
+						".הסבר על החוזה החכם בפורומים בשפה שלך",
+						".השתמש בערכה הזו - היא מתוכננת כך שמשתמשים חדשים יעזרו במאסטרנוד שלך <a href='https://powh.io/shill-kit.html'></a>",
+						".אל תשקר ואל תבטיח שום דבר! הסבר את עקרונות המשחק ואת תחושותיך הכנות לגבי הפרוייקט",
+						".אל תבטיח תשואה או הצלחה מכל סוג שהם",
+						".אל תספים באמצעות המאסטרנוד שלך. במקום זאת, דבר על הפרוייקט",
+						".עבירה על הכללים הללו עלולה להוביל לביטול המאסטרנוד שלך",
+						".דרישות האחזקה לקבלת מאסטרנוד עשויות להשתנות מעת לעת. הקפד להשקיע מחדש את הדיבידנדים שלך",
+						".רק למקרה שאתה חוכמולוג - רכישה באמצעות המאסטרנוד של עצמך לא עובדת"
 					]
 				},
 				"tracker": {
-					"title": "tracking views...",
-					"text": "Total masternode visits <br>(Not working yet)"
+					"title": "מעקב צפיות",
+					"text": "ביקורים שנעשו באמצעות המאסטרנוד שלך <br>(בהקמה)"
 				},
 				"earnings": {
-					"text": "Outstanding masternode earnings"
+					"text": "רווחי מאסטרנוד"
 				},
 				"recent": {
-					"title": "Your Masternode Conversions",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address",
-					"profit": "Profit"
+					"title": "טראנזקציות שנעשו באמצעות המאסטרנוד שלך",
+					"date": "תאריך",
+					"tx": "מזהה עסקה",
+					"address": "כתובת",
+					"profit": "רווח"
 				}
 			}
 		}
