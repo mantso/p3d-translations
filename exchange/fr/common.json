@@ -1,0 +1,192 @@
+{
+	"masthead": {
+		"holdings": "Compte",
+		"balance": "{{balance}} ETH dans le contrat"
+	},
+	"menu": {
+		"exchange" : [
+			"Plateforme d'échange",
+			"Vendre & Retirer",
+			"Transfert",
+			"Compte"
+		],
+		"staking": "Staking & Masternode",
+		"news": "Informations",
+		"chat": "Chat",
+		"explorer": "Explorateur"
+	},
+	"notifications": {
+		"loading": "Chargement...",
+		"cancelled": "Transaction annulée par l'utilisateur",
+		"error": "Une erreur est survenue",
+		"withdrawalSubmitted": "L'odre de retrait a été transmis à la Blockchain. En attente de confirmation...",
+		"sellSubmitted": "L'odre de vente a été transmis à la Blockhain. En attente de confirmation...",
+		"sellConfirmed": "La vente a été confirmée par la Blockchain! Tu as vendu {{tokens}} token P3D pour {{eth}} ETH.",
+		"sellExternal": "Quelqu'un vient de vendre {{tokens}} token P3D pour {{eth}} ETH.",
+		"buySubmitted": "L'odre d'achat a été transmis à la Blockchain! En attente de confirmation...",
+		"buyConfirmed": "L'achat a été confirmé par la Blockhain! Tu as acheté {{tokens}} token P3D pour {{eth}} ETH.",
+		"buyExternal": "Quelqu'un vient d'acheter {{tokens}} token P3D pour {{eth}} ETH.",
+		"transferSubmitted": "L'odre de transfert a été transmis à la Blockchain. En attente de confirmation...",
+		"transferConfirmed": "Le transfert de token P3D a été confirmé par la Blockchain! Tu as transféré {{tokens}} token P3D.",
+		"transferExternal": "Quelqu'un vient de transférer {{tokens}} token P3D."
+	},
+	"footer": "Il s'agit ici de divertissement et non d'un investissement. Ça ne te plaît pas?",
+	"pages": {
+		"purchase": {
+			"title": "Achat de tokens",
+			"item": {
+				"buy": {
+					"title": "Acheter des tokens P3D",
+					"spend": "Ethereum a dépenser",
+					"approx": "Environ {{amount}} token P3D.",
+					"invalid": "Entrez une valeur correcte.",
+					"empty": "Entre une valeur pour obtenir une estimation",
+					"button": "Acheter",
+					"hint": "1) La transaction sera confirmée plus rapidement par les mineurs, le plus elevé le prix du gas."
+				},
+				"reinvest": {
+					"title": "Réinvestir les récompenses",
+					"button": "Réinvestir"
+				},
+				"recent": {
+					"title": "Derniers achats",
+					"date": "Date",
+					"tx": "TX-ID",
+					"address": "Adresse"
+				}
+			}
+		},
+		"sell": {
+			"title": "Vente de tokens",
+			"item": {
+				"sell": {
+					"title": "Vendre des tokens P3D",
+					"spend": "Token à vendre",
+					"approx": "Environ {{amount}} ETH.",
+					"invalid": "Entrez une valeur correcte.",
+					"empty": "Entre une valeur pour voir obtenir estimation",
+					"button": "Vendre",
+					"all": "Tout",
+					"hint": "1) La transaction sera confirmée plus rapidement par les mineurs, le plus elevé le prix du gas.",
+					"warning": "Veux tu vraiment vendre tes tokens? Vendre s'est avouer à toi même et aux autres que tes mains ne sont pas assez fortes pour jouer. Les 10% de frais sur la vente seront  définitivement apprécié par les autres.",
+					"confirm": "OUI, J'AI DES MAINS FRAGILES.",
+					"deny": "NON, J'AI RETROUVÉ DE LA FORCE"
+				},
+				"withdraw": {
+					"title": "Récompense en attente",
+					"button": "Retirer",
+					"reinvest": "Réinvestir",
+					"warning": "Tu veux retirer ta récompense? Pas de problème, il n'y a pas de frais sur l'opération de retait l'ETH est déjà quasiment à toi. Si ça t'amuses tu peux te faire une petite folie et réinvestir ta récompense. Si tu posséde une part plus importante des tokens tu toucheras un partie plus importante des frais qui sont prélevés auprès de tout le monde.",
+					"confirm": "OUI, DIS AU ROBOT QUE C'EST MON JOUR DE PAYE.",
+					"deny": "NON, CE QUI SE PASSE ICI ME PLAIT."
+				},
+				"recent": {
+					"title": "Dernières ventes",
+					"date": "Date",
+					"tx": "TX-ID",
+					"address": "Adresse"
+				}
+			}
+		},
+		"transfer": {
+			"title": "Transfert de tokens",
+			"item": {
+				"transfer": {
+					"title": "Transférer des token P3D",
+					"spend": "Tokens à transférer",
+					"recipient": "Wallet du destinataire",
+					"invalid": "Adresse de wallet invalide...",
+					"empty": "Valeur incorrecte de tokens...",
+					"button": "Transférer",
+					"hint": " 1) Penses y, il y a 10% de frais sur les transferts.<br> 2) Ta récompense en attente est transféré sur ton wallet lors d'un transfert. Pas de panique.<br> 3) La transaction sera confirmée plus rapidement par les mineurs, le plus elevé le prix du gas."
+				},
+				"recent": {
+					"title": "Derniers transferts",
+					"date": "Date",
+					"tx": "TX-ID",
+					"from": "De",
+					"to": "Vers"
+				}
+			}
+		},
+		"holdings": {
+			"title": "Mon compte",
+			"item": {
+				"tokens": {
+					"title": "Token"
+				},
+				"rewards": {
+					"title": "Récompense",
+					"reinvest": "(si réinvestit)"
+				},
+				"portfolio": {
+					"title": "Croissance Portfolio",
+					"description": "Les graphs sont actuellement en dévelopement."
+				},
+				"actions": {
+					"buy": "Acheter",
+					"withdraw": "Retirer",
+					"sell": "Vendre"
+				},
+				"configuration": {
+					"title": "Configuration",
+					"description": "Les personalisations comme le très demandé mode-nuit vont apparaitre ici. Tu as un conseil pour une nouvelle fonctionnalité? <a href='https://discord.gg/wfG97Kt'>Viens nous visiter sur discord.</a>"
+				},
+				"recent": {
+					"title": "Mon historique de transaction",
+					"date": "Date",
+					"tx": "TX-ID",
+					"event": "Événement"
+				}
+			}
+		},
+		"staking": {
+			"title": "Staking",
+			"item": {
+				"description": {
+					"title": "Masternodes...",
+					"columns": [
+						{
+							"title": "Élargis le réseau!",
+							"text": "Si tu as plus de 5 tokens, le smart-contract génére un lien pour ton Masternode!<br><br>Dès que quelqu'un visite le site par ton lien, ton masternode est enregistré dans ses cookies. Chaque achat que la personne fera dans le futur passera par ton Masternode"
+						},
+						{
+							"title": "Qu'est-ce que ça m’apporte, à moi?",
+							"text": "<b>Ethereum!</b> Dès que quelqu'un achète à travers ton lien Masternode, <strong>tu reçois instantanément 33% des frais de cette transaction</strong>"
+						}
+					]
+				},
+				"masternode": {
+					"title": "Mon lien Masternode",
+					"link": "Ton lien Masternode est...",
+					"pointers": "Conseils pour élargir ton réseau:",
+					"list": [
+						"Essaie de joindre des membres de communauté que tu connais.",
+						"Parle de powh.io dans des forums de ta langue pour un potentiel maximum.",
+						"Utilise le <a href='https://powh.io/shill-kit.html'>Shill-Kit, il est conçu pour que les gens clickent sur tes liens!</a>"
+						"Sois honnête. Partage le concept derrière PoWH et ce que tu en penses.",
+						"Ne mens pas, ou promets des gains garrantis.",
+						"Ne spam pas ton lien Masternode, parle du projet plutôt."
+						"Si tu ne respectes pas ces règles ton lien Masternode peut être suspendu.",
+						"Les conditions pour obtenir un Masternode peuvent changer; Si tu veux être sûr réinvesti tes récopenses.",
+						"Si tu penses être plus intelligent: Non tu ne peux pas utiliser ton propre lien."
+					]
+				},
+				"tracker": {
+					"title": "Vérifie les visites...",
+					"text": "Total des visites du Masternode <br>(par encore en service)"
+				},
+				"earnings": {
+					"text": "Récompense Masternode en attente"
+				},
+				"recent": {
+					"title": "Tes conversions Masternode",
+					"date": "Date",
+					"tx": "TX-ID",
+					"address": "Adresse",
+					"profit": "Profit"
+				}
+			}
+		}
+	}
+}
