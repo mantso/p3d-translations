@@ -2,189 +2,189 @@
 	"masthead": {
 		"slider": [{
 				"headings": [
-					"A blockchain managed,",
-					"smart-contract economy",
-					"in three dimensions"
+					"פלטפורמת חוזה חכם",
+					"על הבלוקצ'יין",
+					"בשלושה מימדים"
 				],
-				"sub": "The first token backed directly by Ethereum is also its most popular Dapp. (Source: Dappradar.com)",
-				"button": "Test your grip"
+				"sub": "הטוקן הראשון שמגובה כולו באמצעות אתר'יום הוא גם האפליקציה המבוזרת הפופולארית ביותר (Dappradar.com)",
+				"button": "?האם אתה חזק"
 			},
 			{
 				"headings": [
-					"You get a cut",
-					"Of every exchange fee"
+					"אתה מקבל את חלקך",
+					"מכל עמלת מסחר"
 				],
-				"sub": "Volume based income, kinda like UBI, but less of a joke."
+				"sub": "הכנסה קבועה מפעולות של אחרים. קצת כמו ביטוח לאומי, אבל בלי לקום בבוקר ללשכה"
 			},
 			{
 				"headings": [
-					"Mine Weak Hands",
-					"Not the Blockchain"
+					"תכרה את הידיים החלשות",
+					"במקום את הבלוקצ'יין"
 				],
-				"sub": "Trust us, way easier."
+				"sub": "תאמין לנו, זה הרבה יותר פשוט"
 			},
 			{
 				"headings": [
-					"Share your Masternode",
-					"Build your own Network"
+					"שתף את המאסטרנוד שלך",
+					"בנה לעצמך רשת אישית"
 				],
-				"sub": "Trust us, way easier."
+				"sub": "תאמין לנו, זה הרבה יותר פשוט"
 			},
 			{
 				"headings": [
-					"Play with a 3D Ecosystem",
-					"Enjoy multi dimensional gains"
+					"הצטרף למשחק המדמה סוג חדש של כלכלה",
+					"גרוף רווחים מאקוסיסטם תלת-מימדי"
 				],
-				"sub": "Only normal losses though, we're working on that one."
+				"sub": "...ההפסדים הם עדיין רק במימד אחד"
 			}
 		]
 	},
 	"explanation": {
-		"header": "How does that work?",
-		"lead": "Every trade, buy or sell, has a 10% flat transaction fee applied.",
+		"header": "?איך זה עובד",
+		"lead": "על כל עסקת קניה או מכירה יש עמלה של 10%",
 		"hover": "Proof of Weak Hands",
-		"bold": "Instead of this going to the exchange,<br> the fee is <i>split between all currently held tokens!</i>",
-		"more": "10% of all volume this cryptocurrency ever experiences, is set aside for you the token holders, as ethereum rewards that you can instantly withdraw whenever you'd like.",
-		"bottom": "Completely decentralized, Humans can't shut it down."
+		"bold": "במקום שהבורסה תקבל אותה<br> העמלה מתחלקת בין כל מחזיקי הטוקנים",
+		"more": "למעשה, 10% מכל נפח המסחר שעובר במטבע הזה עובר אליך ואל שאר מחזיקי הטוקנים בצורת רווחי את'ריום שאתה יכול למשוך באופן מיידי",
+		"bottom": "החוזה החכם מבוזר לחלוטין. אף אדם לא יכול לסגור אותו"
 	},
 	"details": [{
-			"title": "OPEN SOURCE",
+			"title": "קוד פתוח",
 			"content": [
-				"Every ethereum transaction is handled by a piece of unchangable blockchain programming known as a smart-contract.",
-				"No need to fear, you're only entrusting your hard-earned ETH to <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>an algorithmic robot accountant</a></b> running on a decentralized blockchain network created by <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>a russian madman worth billions</a></b>, enforced by subsidized Chinese GPU farms that are consuming <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>an amount of electricity larger than most third-world countries</a></b>, sustaining an exchange that runs without any human involvement for as long as the ethereum network exists",
-				"Welcome to cryptocurrency.",
-				"Your tokens are safe, or somebody would be yelling at us by now."
+				"כל עסקה על הרשת מבוצעת באמצעות חוזה חכם שלא ניתן לשנות אותו",
+				"אין ממה לחשוש! אתה שם מבטחך בתוכנה אוטומטית שרצה על רשת בלוקצ'יין מבוזרת שנוצרה על-ידי רוסי מטורף השווה מיליארדים ומופעלת על-ידי חוות שרתים סיניות מסובסדות על-ידי הממשלה התומכות ברשת הפועלת ללא מגע יד אדם כל עוד הבלוקצ'יין של האת'ריום קיים",
+				"ברוכים הבאים לעולם הקריפטו",
+				"הטוקנים שלך בטוחים, כי אם לא מישהו כבר היה צורח עלינו"
 			]
 		},
 		{
-			"title": "SMART EXCHANGE",
+			"title": "בורסה חכמה",
 			"content": [
-				"To facilitate a smooth entry into this autonomously managed volumetric-reward insanity, we've created our own decentralized exchange to allow you to trade and track your tokens automatically."
+				"כדי להקל על הכניסה לטירוף האוטומטי מניב התשואה המשובח הזה, יצרנו זירת מסחר מבוזרת שתסייע לך לסחור ולעקוב אחרי הפעולות שלך"
 			],
 			"list": [
-				"Track the token's trade volume, and your projected income from exchange fees.",
-				"Laugh at all the other idiots putting ETH into this madness",
-				"Stop laughing because that's a lot of ETH",
-				"<b>Buy more</b> <i>(fomo back in)</i>"
+				"עקוב אחרי נפח המסחר ואחרי ההכנסות הצפויות שלך מהעמלות",
+				"התרווח וצחק על כל הדבילים שהכניסו את'ריום לחוזה אחריך",
+				"תפסיק לצחוק כשתקלוט שמדובר בהרבה את'ריום",
+				"קנה עוד"
 			]
 		},
 		{
-			"title": "SUPPLY = VALUE",
+			"title": "היצע = ערך",
 			"content": [
-				"<b>For each token added or removed from circulation the price of the next token increases or decreases automatically</b> by a fractional amount of ETH (about .0000001 eth).",
-				"When people buy, your tokens are worth slightly more, when they sell, slightly less. The exchange handles this for you, no need to think about price!",
-				"Gotta have a little sadness every once in a while so you know when the good times come."
+				"על כל טוקן שנכנס או יוצא מהמחזור, מחיר הקניה והמכירה משתנה באופן אוטומטי בכ-0.0000001 את'ריום",
+				"!כשאנשים קונים אחריך, הטוקנים שלך שווים מעט יותר וכשהם מוכרים – פחות. זירת המסחר דואגת להכל באופן אוטומטי, המחיר פשוט לא צריך לעניין אותך",
+				"!כשהמחיר יורד זה סימן טוב – כי זה אומר שאחר כך המחיר יעלה"
 			]
 		},
 		{
-			"title": "MINING <i>(See snek diagram)</i>",
+			"title": "(כרייה (ראה את דיאגרמת הנחשש",
 			"content": [
-				"The Token's namesake is a feature we lovingly call the 'Proof of Weak Hands ethereum mining algorithm'",
-				"Simply put, when someone chooses to buy, sell or trade tokens, a 10% transaction fee is applied. That fee, proof of that trader's weak hands, is split across all tokens currently in circulation as a reward to those holding them. Buyers' newly-purchased tokens are added to circulation before the fee is allocated.",
-				"Anyone who holds tokens can withdraw their share of those earnings anytime, in ETH from the smart-contract pool, no fee attached.",
-				"You see that cute snek? He snatches up rewards for you on every trade, No matter what the token price does!"
+				"'Proof of Weak Hands ethereum mining algorithm' זה השם",
+				".במילים פשוטות, כשמישהו קונה, מוכר או מעביר טוקנים, נגבית ממנו עמלה של 10%. העמלה הזו, ההוכחה שלטריידר יש ידיים חלשות, מחולקת בין כל שאר מחזיקי הטוקן כפרס על יכולת ההחזקה המרשימה שלהם. המטבעות החדשים שנוצרו עבור הקונים נכנסים למחזור לפני שהעמלה מחולקת",
+				".כל מי שמחזיק טוקנים יכול בכל רגע נתון למשוך את הרווחים שהוא צבר מעמלות בצורת את'ריום, ללא שום עמלה",
+				"!אתם רואים את הנחשש החמוד הזה? הוא זוחל עבורכם במעלה הרווחיות עם כל עסקה. וזה לא משנה בכלל מה המחיר של הטוקן"
 			]
 		},
 		{
-			"title": "STAKING",
+			"title": "השתתפות",
 			"content": [
-				"In addition to mining, you can stake 5 of your own tokens to create <b>the first ethereum masternodes; Ever.</b>",
-				"Owning a masternode gives you a unique link to our website that the smart contract recognizes, anyone buying into the contract via your link has 33% of all fees they would oherwise pay into the contract, directed to you instead as instant ethereum gains.",
-				"This is the <font color='009f00'>active-gains</font> component of our contract, we let you build your own network that rewards you!",
-				"Yes, our staking and mining systems are comedic jabs at cryptocurrency as a whole, they're also immensely more fun, <b>and reward in (ETH) instead of something that 'may' have value later.</b>"
+				".בנוסף לכרייה, באפשרותך להקצות 5 טוקנים כדי לקחת חלק בשיטת המאסטרנודים מבוססת האת'ריום הראשונה",
+				"!אם יש ברשותך מאסטרנוד, תקבל לינק ייחודי לבורסה שהחוזה החכם מזהה וכל מי שיקנה טוקנים באמצעותו ישלם לך 33% מהעמלה שאחרת הייתה מחולקת לכל הרשת. רווחי את'ריום מידיים",
+				"!זהו רכיב הרווחיות הפעילה של החוזה שלנו. אנחנו מאפשרים לך לבנות רשת משל עצמך שמתגמלת אותך אישית",
+				".אם עקבת עד עכשיו שמת בוודאי לב ששיטות הכרייה וההשתתפות שלנו הן בעצם סאטירה גרועה על כל עולם הקריפטו. אבל בטח גם שמת לב שהן הרבה יותר מהנות ושהן מחלקות לך רווחים אמיתיים באת'ריום, במקום באיזה שיטקוין ש'כנראה שאולי' יהיה לו ערך מתישהו באףפעם>"
 			]
 		},
 		{
-			"title": "WITHDRAW ANYTIME",
+			"title": "משוך מתי שבא לך",
 			"content": [
-				"That Smart contract <i>(your new robo accounting buddy)</i> holds all ethereum ever put into purchasing these tokens, and <b> will gleefully give you all ethereum you are owed</b> whenever you want to withdraw , or dump your tokens. You weak handed fool.",
-				"The robot is also indifferent to the plight of man, cannot be stopped, shut down, or ended without the death of the ethereum network itself."
+				".החוזה החכם (מנהל החשבונות הרובוטי שלך) מחזיק בכל האת'ריום שאי פעם נכנס למשחק והוא ישמח לחלק לך את הרווחים שלך בלחיצת כפתור מתי שתרצה למשוך או למכור, בעודו צוחק על הידיים החלשות המטומטמות שלך",
+				".הרובוט הזה אדיש לכל אסון שבני אדם עלולים לייצר, אי אפשר לכבות אותו, לעצור אותו והדרך היחידה שהחוזה הזה יפסיק לעבוד זה אם רשת האת'ריום בעצמה תעלם"
 			]
 		},
 		{
-			"title": "<b>SPARKNOTES</b>",
+			"title": "בקיצור ולעניין",
 			"list": [{
-					"header": "Managed by a smart contract entirely",
-					"content": "No human involvement in managing the ethereum, at all. Period."
+					"header": "מנוהל לחלוטין באמצעות חוזה חכם",
+					"content": ".אין שום מעורבות אדם בניהול האת'ריום. בכלל. נקודה"
 				},
 				{
-					"header": "Automatic pricing",
-					"content": "Value is directly related to how many tokens exist at any time."
+					"header": "תמחור אוטומטי",
+					"content": "הערך נקבע באמצעות מספר הטוקנים שנמצאים במחזור"
 				},
 				{
-					"header": "Volume based earning",
-					"content": "10% of all volume is taken as fees, and is automatically split out as Eth to all token holders."
+					"header": "רווחים מבוססי מסחר",
+					"content": "עמלה בגובה 10% נגבית מכל פעולה והיא מחולקת בין כל מחזיק הטוקנים"
 				},
 				{
-					"header": "Active-income Staking",
-					"content": "Masternode system allows you to recruit more and get instant ETH rewards. Plus everyone gains from the volume!"
+					"header": "השתתפות פעילה",
+					"content": "!שיטת המאסטרנודים מאפשרת לך לגייס משתמשים נוספים לרשת ולגרוף רווחי את'ריום מידיים. בנוסף, כולם נהנים מנפח המסחר"
 				},
 				{
-					"header": "Not a 'Concept' token",
-					"content": "Each token has intrinsic value, as every token is backed by the eth already in the contract <i>(try to find another crypto that does this).</i>"
+					"header": "'זה אינו טוקן מבוסס 'קונספט",
+					"content": "!לכל טוקן יש ערך אינטרינזי אמיתי שכן הוא מבוסס על את'ריום שכבר נמצא בתוך החוזה. נסה למצוא מטבע אחר שזה נכון עבורו, באפטt <i>(try to find another crypto that does this).</i>"
 				},
 				{
-					"header": "Serious in all the wrong ways",
-					"content": "See cute snek mascot representing your financial future."
+					"header": "זה רציני - בכל דרך מעוותת שאפשר לחשוב עליה",
+					"content": "רק תביט בגרף החמוד של הנחשש כדי להבין איך נראה העתיד הפיננסי שלך"
 				}
 
 			]
 		}
 	],
 	"stats": {
-		"balance": "ETH IN CONTRACT",
-		"transactions": "TRANSACTIONS",
-		"volume": "AVERAGE 24 HR VOLUME",
-		"memes": "MEMES/HR"
+		"balance": "סך האת'ר שבחוזה",
+		"transactions": "עסקאות",
+		"volume": "נפח ממוצע ב-24 שעות",
+		"memes": "ממים בשעה"
 	},
 	"cta": {
-		"top": "TRY OUR DECENTRALIZED EXCHANGE",
-		"bottom": "START NOW!"
+		"top": "נסה את הפלטפורמה המבוזרת שלנו",
+		"bottom": "!התחל מייד"
 	},
 	"points": [{
-			"title": "3D Speculation",
-			"content": "Instead of simply playing with price over time like most crypto, we've added volume to the mix. Hodl finally might be a good long-term idea. <i>(Instead of why you're down 50%)</i>"
+			"title": "ספקולציה תלת-מימדית",
+			"content": ".במקום לשחק עם המחיר על-פני הזמן כמו שאר הקריפטו, הוצפנו למשוואה מימד של נפח. להחזיק לאורך זמן יכול סוף-סוף להפוך להיות רעיון טוב"
 		},
 		{
-			"title": "Decentralized, designed to run forever.",
-			"content": "The entire system is completely without human interaction. It's self governed, executed by the collective Ethereum blockchain. Masternodes even add a per-user profitable expansion system, allowing the contract to run as long as there's interested players, or really dedicated spammers."
+			"title": "מבוזר ומתוכנן לפעול לנצח",
+			"content": ".המערכת כולה משוחררת ממגע יד אדם. היא נשלטת באופן אוטונומי ומבוצעת באמצעות רשת הבלוקצ'יין של האת'ריום. המאסטרנודים מוסיפים מנגנון צמיחה רווחי ומאפשרים לכל הסיפור להמשיך ולרוץ כל עוד יש משתמשים שמתעניינים או לפחות ספאמרים רציניים"
 		},
 		{
-			"title": "Merciful Volume-Based Rewards",
-			"content": "Is bitcoin crashing? Crypto rise and falls got you burnt out? Our contract is designed to be a smart place to have your ethereum generate value whenever there's trading volume. You can sit back and worry about other things, like the fall of western civilization."
+			"title": "מנגנון רווחיות שמגן עליך",
+			"content": ".הביטקוין קורס? העליות והירידות של הקריפטו טיגנו לך את התחת? החוזה שלנו מתוכנן להיות מקום חכם לשמור בו את הקריפטו שלך. כל עוד יש מסחר – אתה תייצר ערך. אתה יכול לשבת, להירגע ולהילחץ מדברים אחרים. כמו למשל מקריסתה הבלתי נמנעת של התרבות המערבית שלנו"
 		}
 	],
 	"socials": {
-		"title": "Share Win, Share Loss"
+		"title": ".מתחלקים ברווחים, מתחלקים בהפסדים"
 	},
 	"features": {
-		"title": "Guide to Success",
-		"sub": "<i>Smart-</i>Gaming <i>smart-</i>tips from a <i>smart-</i>Pyramid <i>smart-</i>meme <i>smart-</i>coin.",
+		"title": "המדריך להצלחה",
+		"sub": "טיפים חוכמולוגיים לפירמידה חוכמולוגית ממטבע חוכמולוגי מרובה ממים חוכמולוגיים",
 		"points": [{
-				"title": "Acquire",
-				"content": "What else was this step going to be?"
+				"title": "קנה",
+				"content": "מה עוד חשבת שיכול להיות הצעד הראשון"
 			},
 			{
-				"title": "Relax",
-				"content": "That's it, you already win.<br><br>With continuous volume you'll recieve a steady flow of ETH for as long as you come to collect."
+				"title": "הרגע",
+				"content": "כלומר, כבר הרווחת<br><br>בעזרת נפח המסחר המתמשך אתה תהנה מתזרים את'ריום רציף כל עוד אתה נכנס למשוך אותו"
 			},
 			{
-				"title": "Strong Hands",
-				"content": "Don't give up, you really do only lose when you sell."
+				"title": "ידיים חזקות",
+				"content": "!אל תכנע! את מפסיד על אמת רק כשאתה מוכר"
 			},
 			{
-				"title": "Apply Masternode",
-				"content": "Masternode connections can supply a steady stream of ETH, no matter how big the contract gets you'll always be able to see the instant effect<br><br>Anywhere that you have a unique oppourtunity to direct others here, use your masternode!"
+				"title": "השתמש במאסטרנוד",
+				"content": ".קישורים למאסטרנוד יכולים יכולים לייצר עבורך תזרים את'ריום קבוע. לא משנה עד כמה החוזה גדל, אתה תרגיש את ההשפעה המיידית של כל קנייה. בכל מקום שיש לך אפשרות להפנות לכאן אנשים, עשה זאת באמצעות המאסטרנוד שלך"
 			},
 			{
-				"title": "Seriously, Masternodes",
-				"content": "Our site remembers who you brought here, you get credit for every P3D token they acquire in the future<br><br>Videos, Tutorials, Articles, Web Pages, Advertising slot, Dapps, Graphs, statistics, anything<br><br>The more clever your network, the more you'll earn, Hook up your masternode, we encourage it"
+				"title": "ברצינות, המאסטרנוד",
+				"content": "!האתר שלנו זוכר את מי הפנית לכאן. אתה תקבל עמלה על כל טוקן שהם ירכשו בעתיד. סרטונים, מדריכים, מאמרים, דפים, פרסומות, אפליקציות, גרפים, ניתוחים, כל דבר. ככל שהרשת שלך תהיה חכמה יותר, כך תרוויח יותר. הכנס את המאסטרנוד לפעולה"
 			}
 		]
 	},
 	"inspiration": {
 		"title": "Inspiration Board",
-		"sub": "BECAUSE BAD IDEAS LIKE OURS ARE BUILT UPON THE CUMULATIVE FAILURES OF THE CRYPTO COMMUNITY",
+		"sub": "כי רעיונות גרועים כמו שלנו מבוססים על הכשלון הכולל של כל קהילת הקריפטו",
 		"people": [{
 				"name": "Vitalik Buterin",
 				"content": "Actually wants to impliment Proof of Stake into ethereum; kinda like our token but with extra steps.",
@@ -269,47 +269,48 @@
 		]
 	},
 	"shower": [{
-			"title": "No Humans Allowed",
-			"content": "Unlike 'Investment' engines like Bitconnect, Powh3D is managed by a smart contract entirely. No human involvement in managing the ethereum at all. Period."
+			"title": "אין כניסה לבני אדם",
+			"content": ".בניגוד למנועי 'השקעה' כמו ביטקונקט, הפלטפורמה הזאת מנוהלת לחלוטין באמצעות חוזה חכם. אין שום מעורבות אנושית בניהול האת'ריום. נקודה"
 		},
 		{
-			"title": "Freely Exchangable",
-			"content": "Our token's transfer system is built to automatically take 10% of all traded tokens, melt them into ETH, and hand it out to everyone else. Even if the trades occur outside the contract itself. Exchange support has never paid you before has it?"
+			"title": "מסחר חופשי",
+			"content": "?מערכת המסחר שלנו גוזרת עמלה בגובה 10% מכל טוקן שמועבר ומתיכה אותה לאת'ריום שמחולק לכלל המשתתפים. גם אם הם מנסים להתחכם ולבצע את העסקה מחוץ לחוזה החכם. מערכת מסחר שמשלמת לך כסף – שמעת פעם על דבר כזה"
 		},
 		{
-			"title": "Universal Volume-Based Rewards",
-			"content": "The concept for UBI involves taxing every transaction and paying it out to everyone; crypto is the perfect place to take inspiration from that model. Calling it 3D sounds way cooler than whatever those hippies are calling it though."
+			"title": "רווחים אוניברסליים מבוססי נפח",
+			"content": ".הרעיון של ביטוח לאומי הוא למסות את כולם ולחלק לכולם בחזרה. קריפטו הוא המקום האידיאלי לממש את החזון הזה. אנחנו פשוט קוראים לזה 'תלת-מימדי' כי זה נשמע הרבה יותר מגניב"
 		}
 	],
 	"shill": {
-		"title": "Shill Kit",
-		"sub": "Just a taste, there's more on the <a href='shill-kit.html'><b>Shill Kit</b></a> page",
+		"title": "ערכת הפצה",
+		"sub": "זוהי רק טעימה, יש כאן עוד <a href='shill-kit.html'>",
 		"categories": [
-			"All",
+			"הכל",
 			"GIF",
 			"Logo",
-			"High Quality"
+			"איכות גבוהה"
 		]
 	},
 	"benefactors": {
-		"title": "Made possible by"
+		"title": "תודה ל"
 	},
 	"menu": [
-		"home",
-		"community",
-		"decentralized exchange",
-		"wiki",
-		"shill kit"
+		"דף הבית",
+		"קהילה",
+		"פלטפורמת מסחר",
+		"ויקי",
+		"ערכת הפצה"
 	],
 	"titles": {
-		"points": "Really Makes you Think",
-		"shower": "FINAL SHOWER THOUGHTS",
-		"shill" : "View All",
-		"home" : "PoWH3D: Cryptocurrency in Three Dimensions"
+		"points": "גורם לך לחשוב",
+		"shower": "מחשבות אחרונות במקלחת",
+		"shill" : "צפה בהכל",
+		"home" : "PoWH3D: קריפטו תלת-מימדי"
 	},
 	"languages":  {
 		"en": "English",
-		"de": "German"
+		"de": "German",
+		"he": "עברית"
 	},
 	"faq": {
 		"title": "ANSWERS",
