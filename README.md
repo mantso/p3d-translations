@@ -20,7 +20,7 @@ How to translate?
 3) Create a new file called common.json and fill it with the content of the already existing common.json from the exchange/en/ or frontend/en/ directory.
 4) Translate the content and open a pull request of your fork back into mantso's Github.
 
-For more detailed instructions, please check [Translating.md](TRANSLATIONS.md) for a newbies guide to creating translations.
+For more detailed instructions, please check [Translating.md](TRANSLATING.md) for a newbies guide to creating translations.
 
 ## Languages Supported
 
