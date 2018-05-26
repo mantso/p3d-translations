@@ -1,0 +1,192 @@
+{
+	"masthead": {
+		"holdings": "Saldo",
+		"balance": "{{balance}} ETH in het contract"
+	},
+	"menu": {
+		"exchange" : [
+			"Beurs",
+			"Verkopen & Opnemen",
+			"Verzenden",
+			"Aandeel"					
+		],
+		"staking": "Inzetting & Masternode",
+		"news": "Nieuws",
+		"chat": "Chat",
+		"explorer": "Explorer"
+	},
+	"notifications": {
+		"loading": "Laden...",
+		"cancelled": "Transactie was geannuleerd door de Transaction was cancelled by the gebruiker.",
+		"error": "Error, er ging iets mis",
+		"withdrawalSubmitted": "Opneem transactie is verzonden naar de blockchain. In afwachting van een bevestiging..", 
+		"sellSubmitted": "Verkoop transactie is verzonden naar de blockchain. In afwachting van een bevestiging..",
+		"sellConfirmed": "Je verkoop transactie is bevestigd door de blockchain! Je hebt succesvol {{tokens}} P3D tokens verkocht voor {{eth}} ETH.",
+		"sellExternal": "Iemand verkocht net {{tokens}} P3D tokens voor {{eth}} ETH.",
+		"buySubmitted": "Koop transactie is verzonden naar de blockchain. In afwachting van een bevestiging..",
+		"buyConfirmed": "Je koop transactie is bevestigd door de blockchain! Je hebt succesvol {{tokens}} P3D tokens gekocht voor {{eth}} ETH.",
+		"buyExternal": "Iemand kocht net {{tokens}} P3D tokens voor {{eth}} ETH.",
+		"transferSubmitted": "Verzend transactie is verzonden naar de blockchain. In afwachting van een bevestiging..",
+		"transferConfirmed": "Je verzending is bevestigid door de blockchain! Je hebt succesvol {{tokens}} P3D tokens verzonden.",
+		"transferExternal": "Iemand verzond net {{tokens}} P3D tokens."
+	},
+	"footer": "Dit is een amusement platform, geen investeringsplatform, heb je het niet naar je zin?",
+	"pages": {
+		"purchase": {
+			"title": "Tokens kopen",
+			"item": {
+				"buy": {
+					"title": "Koop P3D tokens",
+					"spend": "Ethereum te besteden",
+					"approx": "Ongeveer {{amount}} P3D tokens.",
+					"invalid": "Type een geldig nummer in.",
+					"empty": "Type hierboven een nummer om meteen een schatting te zien.",
+					"button": "Koop",
+					"hint": "1). Des te hoger je gas prijs, des te sneller de ETH miners je verzoek oppikken en bevestigen."
+				},
+				"reinvest": {
+					"title": "Herinvesteer Gauntlet beloningen",
+					"button": "Herinvesteer!"
+				},
+				"recent": {
+					"title": "Recente aankopen",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"address": "Adres"
+				}
+			}
+		},
+		"sell": {
+			"title": "Verkoop tokens",
+			"item": {
+				"sell": {
+					"title": "Tokens verkopen",
+					"spend": "Tokens te verkopen",
+					"approx": "Ongeveer {{amount}} ETH.",
+					"invalid": "Type een geldig nummer im.",
+					"empty": "Type hierboven een nummer om meteen een schatting te zien.",
+					"button": "Verkopen!",
+					"all": "Alles",
+					"hint": "1). Des te hoger je gas prijs, des te sneller de ETH miners je verzoek oppikken en bevestigen.",
+					"warning": "Weet je zeker dat je de tokens wilt verkopen? Verkopen is toegeven aan jezelf en aan iedereen dat je niet meer de kracht hebt om door te spelen. De 10% kosten op jou verkoop zal zeker gewaardeerd worden door de andere spelers.",
+					"confirm": "JA, IK HEB ZWAKKE HANDEN.",
+					"deny": "NEE, IK HEB WEER KRACHT GEVONDEN."
+				},
+				"withdraw": {
+					"title": "Resterende Gauntlet beloningen",
+					"button": "Opnemen",
+					"reinvest": "Herinvesteren",
+					"warning": "Wil je graag je Gauntlet beloningen opnemen? Maak je maar geen zorgen, daar zit geen kosten aan, de ETH is zo goed als van jou. Maar als je het naar je zin hebt (en vind dat dit de goede richting op gaat) dan zou je zomaar toegeven aan de gekte en onze herinvesteer voorziening proberen. Meer tokens betekent dat je een groter deel krijgt van all kosten die ooit aan het contract gemaakt worden. Het is een soort van dubbel dik ingaan, je zou zomaar kunnen verdubbelen, en toch neem je het niet.",
+					"confirm": "JA, VERTEL DE ROBOT DAT IK VANDAAG WORD UITBETAALD",
+					"deny": "NEE, IK VIND HET PRIMA GAAN."
+				},
+				"recent": {
+					"title": "Recente verkopen",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"address": "Adres"
+				}
+			}
+		},
+		"transfer": {
+			"title": "Verzend tokens",
+			"item": {
+				"transfer": {
+					"title": "Tokens verzenden",
+					"spend": "Tokens te verzenden",
+					"recipient": "Wallet van de ontvanger",
+					"invalid": "Ongeldig wallet adres...",
+					"empty": "Ongeldig aantal tokens...",
+					"button": "Verzend",
+					"hint": " 1). Onthou, het kost ook 10% om tokens te verzenden <br> 2). Je resterende Gauntlet beloningen worden automatisch opgenomen naar je adres wanneer je tokens verzend. Raak niet in paniek.<br> 3). Des te hoger je gas prijs, des te sneller de ETH miners je verzoek oppikken en bevestigen."
+				},
+				"recent": {
+					"title": "Recente verzend verzoeken",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"from": "Van",
+					"to": "Naar"
+				}
+			}
+		},
+		"holdings": {
+			"title": "Mijn saldo",
+			"item": {
+				"tokens": {
+					"title": "Tokens"
+				},
+				"rewards": {
+					"title": "Beloningen",
+					"reinvest": "(als je herinvesteert)"
+				},
+				"portfolio": {
+					"title": "Portfolio groei",
+					"description": "De geavanceerde chart module is in ontwikkeling."
+				},
+				"actions": {
+					"buy": "Koop tokens",
+					"withdraw": "Opnemen",
+					"sell": "Verkoop tokens"
+				},
+				"configuration": {
+					"title": "Configuratie",
+					"description": "Persoonlijke instellingen zullen hier komen, inclusief de vaak verzochte nacht-modus. Heb je een voorstel voor een toevo? <a href='https://discord.gg/wfG97Kt'>Kom langs op onze eigen chat platform.</a>"
+				},
+				"recent": {
+					"title": "Mijn verzend geschiedenis",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"event": "Gebeurtenis"
+				}
+			}
+		},
+		"staking": {
+			"title": "Inleg",
+			"item": {
+				"description": {
+					"title": "Masternodes...",
+					"columns": [
+						{
+							"title": "Vergroot het netwerk!",
+							"text": "Als je wallet 5 tokens bezit, het contract creëert een link naar jou masternode voor je!<br><br> Wanneer iemand de website bezoek via deze unieke link, hebben zij jou masternode opgeslagen in een cookie dat al hun P3D aankopen vastlegt, nu en in de toekomst."
+						},
+						{
+							"title": "Wat zit er in voor mij?",
+							"text": "<b>Ethereum!</b> Wanneer iemand een aankoop doet met jou masternode link, <strong>ontvang jij meteen 33% van de kosten die ze anders aan het contract lopen, in ETH</strong> - geen vragen, geen gedoe"
+						}
+					]
+				},
+				"masternode": {
+					"title": "Mijn masternode link",
+					"link": "Jou unieke masternode link is...",
+					"pointers": "Algemene tips om je eigen netwerk te vergroten:",
+					"list": [
+						"Probeer leden uit je eigen gemeenschappen te bereiken.",
+						"Praat over powh.io in forums van je eigen taal.",
+						"Maak gebruik van de <a href='https://powh.io/shill-kit.html'>shill-kit, het is bedoelt om mensen op je link te laten klikken!</a>",
+						"Wees eerlijk. Deel het concept van PoWH en wat jij er van vind.",
+						"Lieg niet en beloof geen gegarandeerde winst.",
+						"Spam niet zomaar je masternode link. Praat over het project.",
+						"Het verbreken van deze regels kan leiden tot de suspentie van je masternode link.",
+						"De eisen voor een masternode kunnen over tijd veranderen, herinvesteer dus je beloningen.",
+						"Voor het geval dat je dacht je slim was, het gebruik van je eigen masternode link werkt niet."
+					]
+				},
+				"tracker": {
+					"title": "bezoeken tellen...",
+					"text": "Totale Masternode bezoeken <br>(Werkt nog niet)"
+				},
+				"earnings": {
+					"text": " Masternode verdiensten"
+				},
+				"recent": {
+					"title": "Jou masternode omzettingen",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"address": "Adres",
+					"profit": "Winst"
+				}
+			}
+		}
+	} 
+}

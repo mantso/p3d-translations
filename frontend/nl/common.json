@@ -1,0 +1,339 @@
+{
+	"masthead": {
+		"slider": [{
+				"headings": [
+					"Een blockchain beheerde,",
+					"smart-contract economie",
+					"in drie dimensies"
+				],
+				"sub": "De eerste token met als directe pand Ethereum wat ook de meest populaire Dapp is. (Bron: Dappradar.com)",
+				"button": "Test je grip"
+			},
+			{
+				"headings": [
+					"Je krijgt een deel",
+					"van elke beurs kosten"
+				],
+				"sub": "Volume gebaseerde inkomen, zoiets als het UBI, alleen dan geen grap."
+			},
+			{
+				"headings": [
+					"Mijn Zwakke Handen",
+					"Niet de Blockchain"
+				],
+				"sub": "Vertrouw ons, veel makkelijker."
+			},
+			{
+				"headings": [
+					"Deel je masternode",
+					"Bouw je eigen netwerk"
+				],
+				"sub": "Vertrouw ons, veel makkelijker."
+			},
+			{
+				"headings": [
+					"Speel met een 3D eco-systeem",
+					"Geniet van drie dimensionale verdiensten"
+				],
+				"sub": "Alleen maar normale verliezen, daar werken we nog aan"
+			}
+		]
+	},
+	"explanation": {
+		"header": "Hoe werkt het?",
+		"lead": "Elke verzending, aankoop of verkoop, heeft een transactie kosten vam 1-.",
+		"hover": "Proof of Weak Hands",
+		"bold": "Inplaats van dat de kosten naar de beurs gaat,<br> wordt de kosten <i>verdeeld over iedereen die op dat moment tokens bezit!</i>",
+		"more": "10% van alle volume dat deze cryptocurrency meemaakt, is opzij gezet voor jullie token houders, als Ethereum beloningen dat je meteen kunt opnemen, wanneer je wilt.",
+		"bottom": "Volledig gedecentraliseerd, geen mens kan het neerhalen."
+	},
+	"details": [{
+			"title": "OPEN SOURCE",
+			"content": [
+				"Elke Ethereum transactie is behandelt door een stukje onveranderlijke blockchain programmering bekend als een smart-contract.",
+				"Geen reden voor paniek, je vertrouwt je hard verdiende ETH aan <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>een algorithmische robot accountant</a></b> dat loopt op een gedecentraliseerde blockchain network gecreëerd door <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>een gekke Russische miljardair </a></b>, verzekerd door gesubsideerde Chinese GPU farms die  <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>meer energie verbruiken dan sommige derde wereld landen</a></b>, voed een beurs dat zolang het Ethereum network bestaat het zal doen",
+				"Welkom in cryptocurrency.",
+				"Je tokens zijn veilig, of anders zou nu al iemand tegen ons geschreeuwd hebben."
+			]
+		},
+		{
+			"title": "SMART EXCHANGE",
+			"content": [
+				"Om een makkelijke instap te bieden in deze volledig geautomatiseerde volume gebaseerde beloningen gekte, hebben we onze eigen gedecentraliseerde beurs gemaakt voor jou om op te ruilen en je tokens automatisch te volgen."
+			],
+			"list": [
+				"Volg de token ruil volume, en jou verwachte beloningen van de beurs kosten.",
+				"Lach om alle idioten dat ETH in deze gekte stoppen",
+				"Stop met lachen want dat is best veel ETH",
+				"<b>Koop meer</b> <i>(fomo terug in)</i>"
+			]
+		},
+		{
+			"title": "AANTAL = WAARDE",
+			"content": [
+				"<b>Voor elke token dat word toegevoegd of verwijderd van de circulatie zal de prijs van de volgende token automatisch </b> met een fractie van een ETH (ongeveer .00000001 ETH).",
+				"Wanneer mensen kopen, zullen jou tokens een stukje meer waard worden, wanneer mensen verkopen, een stukje minder. De beurs regelt dat voor je, geen reden om te denken aan de prijs!",
+				"Soms moet je door een slechte periode gaan om weer te weten wanneer het een goede periode is."
+			]
+		},
+		{
+			"title": "MIJNEN <i>(Zie snek diagram)</i>",
+			"content": [
+				"De tokens naamgelijke is een  is a voorziening die we heerlijk 'Proof of Weak Hands ethereum mining algorithm' noemen",
+				"Heel simpel uitgelegd, wanneer iemand besluit om tokens te kopen, verzenden of verkopen, een 10% transactie kosten is vereist. De kosten, bewijs dat de spelers' zwakke handen, is verdeeld over alle tokens die op dat moment in circulatie zijn als beloning voor het 'hodlen'. Kopers' nieuw gekochte tokens worden toegevoegd aan de circulatie voordat de kosten ervan worden verdeeld.",
+				"Iedereen die tokens bezit kan hun deel van de beloning ieder moment opnemen, in ETH van de smart-contract pool, geen kosten aan vast.",
+				"Zie je die schattige slang? Hij grist beloningen op van elke transactie, onafhankelijk van de token prijs!"
+			]
+		},
+		{
+			"title": "INLEG",
+			"content": [
+				"Naast mijnen kun je 5 van je eigen tokens gebruiken om <b>de eerste ethereum masternode ooit te maken.</b>",
+				"Het bezitten van een masternode geeft jou een unieke link naar onze website dat de smart-contract herkent, iedereen die via jou link tokens koopt heeft 33% van alle kosten die ze normaal aan het contract betalen, direct naar jou in ethereum als een beloning.",
+				"Dit zijn de <font color='009f00'>actieve beloning</font> componenten van ons contract, we bieden jou een netwerk te bouwen dat je beloond!",
+				"Ja, onze inleg en mijn-sytemen zijn satirische reflecties van cryptocurrency als een geheel, ze zijn ook een stukken leuker, <b>en beloningen(ETH) in plaats van iets dat later misschien waarde kan krijgen.</b>"
+			]
+		},
+		{
+			"title": "OPNEMEN WANNEER JE WILT",
+			"content": [
+				"De smart-contract <i>(je nieuwe robot accounting friend)</i> bezit alle ethereum ooit gebruikt om tokens te kopen, en <b> zal graag jou alle verschuldigde ethereum afgegeven</b> wanneer je het besluit op te nemen, of verkoop je tokens. Jij zwakke hand.",
+				"De robot is ook onverschillig tegen menselijke belofte, kan niet gestopt worden, afgesloten worden, of eindigen zonder de dood van het ethereum network zelf."
+			]
+		},
+		{
+			"title": "<b>Notities</b>",
+			"list": [{
+					"header": "Volledig beheert door een smart-contract",
+					"content": "Geen enkel menselijk invloed op de behering van het ethereum, ooit. Punt."
+				},
+				{
+					"header": "Automatische prijzing",
+					"content": "Waarde is direct gerelateerd aan hoeveel tokens op dat moment bestaan."
+				},
+				{
+					"header": "Volume gebaseerde beloningen",
+					"content": "10% van alle volume is opgenomen als kosten, en is automatisch verdeeld als ETH aan alle token houders."
+				},
+				{
+					"header": "Actieve beloning inleg",
+					"content": "Het masternode systeem laat je mensen werven voor directe ETH beloningen. Plus iedereen profiteert van volume!"
+				},
+				{
+					"header": "Geen 'Concept' token",
+					"content": "Elke token heeft een intrinsieke waarde, omdat het gedekt is door ETH <i>(probeer maar een andere crypto te vinden die dat doet).</i>"
+				},
+				{
+					"header": "Serieus in alle verkeerde manieren",
+					"content": "Zie de schattige slang als onze mastcotte voor onze financiële toekomst."
+				}
+
+			]
+		}
+	],
+	"stats": {
+		"balance": "ETH IN HET CONTRACT",
+		"transactions": "TRANSACTIES",
+		"volume": "GEMIDDELDE 24 HR VOLUME",
+		"memes": "MEMES/UUR"
+	},
+	"cta": {
+		"top": "Probeer onze gedecentraliseerde beurs",
+		"bottom": "START NU!"
+	},
+	"points": [{
+			"title": "3D Speculatie",
+			"content": "Inplaats van een simpel te spelen met de prijs over tijd zoals in de meeste cryptos, voegen wij volume aan de mix. Hodlen is misschien nu eindelijk een lange termijn strategy. <i>(Inplaats van wanneer je 50% in de min staat)</i>"
+		},
+		{
+			"title": "Gedecentraliseerd, ontworpen om voor altijd door te gaan.",
+			"content": "Het hele system is compleet zonder enige menselijke interactie. Het is zelf beheerd en uitgevoerd door het geheel, de Ethereum blockchain. Masternodes voegen zelfs een per-gebruiker uitbreidings initiatief toe, wat het contract door laat gaan zolang er geïnteresseerde spelers zjn, of zeer toegewijde spammers."
+		},
+		{
+			"title": "Barmhartige volume-gebasseerde beloningen",
+			"content": "Is Bitcoin aan het dumpen? Heeft de Crypto stijgingen en daling je te pakken? Ons contract is ontworpen om een slimme plek te zijn om je ETH waarde te laten genereren zolang er volume is. Je kan achterover zitten en zorgen maken op andere dingen, zoals de val van de Westerse civilisatie."
+		}
+	],
+	"socials": {
+		"title": "Deel je winsten, deel je verliezen"
+	},
+	"features": {
+		"title": "Gids tot Success",
+		"sub": "<i>Smart-</i>Gamen <i>smart-</i>tips van een <i>smart-</i>Piramide <i>smart-</i>meme <i>smart-</i>munt.",
+		"points": [{
+				"title": "Verkrijgen",
+				"content": "Wat zou de eerste stap anders zijn?"
+			},
+			{
+				"title": "Relax",
+				"content": "Dat is het, je doet al mee.<br><br>Met een continue stroom van volume ontvang jij een instroom ETH voor zolang jij dat int."
+			},
+			{
+				"title": "Sterke handen",
+				"content": "Geef niet op, je verliest alleen wanneer je verkoopt."
+			},
+			{
+				"title": "Pas je masternode toe",
+				"content": "Masternode connecties kunnen ook ETH opleveren, maakt niet uit hoe groot het contract wordt, jij merkt meteen het effect.<br><br>Waar ook dat jij maar een kas ziet om andere door te verwijzen, gebruik je masternode!"
+			},
+			{
+				"title": "Serieus, Masternodes",
+				"content": "Onze website herinnert wie jij hier bracht,  je krijgt een tegoed voor elke P3D aankoop die ze maken.<br><br>Videos, Handleidingen, Artikelen, Websites, Advertentie slot, Dapps, Grafieken, Statistieken, alles<br><br>Des te slimmer je netwerk, des te hoger je beloning, gebruik je masternode, we juichen dat toe!"
+			}
+		]
+	},
+	"inspiration": {
+		"title": "Inspiratie boord",
+		"sub": "OMDAT SLECHTE IDEEËN ZOALS DE ONZE GEBASEERD ZIJN OP DE TOTALE MISLUKKINGEN VAN DE CRYPTO GEMEENSCHAP",
+		"people": [{
+				"name": "Vitalik Buterin",
+				"content": "Wilt eigenlijk graag Proof of Stake implementeren; zoiets als onze token maar met wat extra stappen.",
+				"title": "Ethereum: Schepper"
+			},
+			{
+				"name": "Vitalik's Shirt",
+				"content": "Wij zijn gewoon bezorgd.",
+				"title": "Clothing: Katoen"
+			},
+			{
+				"name": "John Mcaffee",
+				"content": "Gezocht door de Braziliaanse authoriteiten voor associaties met moord, beheert de markt met een enkele tweet.",
+				"title": "Shitposter: Bekend"
+			},
+			{
+				"name": "Mark Karpeles",
+				"content": "'Misplaatste' perongelijk een gigantisch aantal bitcoins van MtGox die werden verkocht op markt prijs wat de TOTALE MARKTWAARDE VAN BITCOIN omlaag trok; werd toen gearresteerd, weer vrijgelaten, 'vond' toen wat meer bitcoins en gebruikte ze voor 25+ prostituees voordat de politie hem weer arresteerde. Nu moet Mt.Gox zijn persoonlijke bitcoins verkopen om de slachtoffers van deze misplaatsing van bitcoins terug te betalen, wat ook weer de prijs an Bitcoin crashed... alweer.",
+				"title": "CEO: Mt.Gox, Grim Reaper van Bitcoin"
+			},
+			{ 	"name": "Fidget Spinners",
+				"content": "Niet gedecentralizeerd, cryptografisch of ontworpen zodat je niet meer kan eenheden kunt printen. Opgeblazen prijs boven de 25 cent.",
+				"title": "Of bedoelen we: Ripple"
+			},
+			{
+				"name": "Carlos Matos",
+				"content": "Beeld stopt: Eerste moment van duidelijke spijt. Platen Scratch: Je vraagt je vast af hoe ik in deze situatie ben gekomen...",
+				"title": "Je hoort het tegen deze tijd wel te weten"
+			},
+			{
+				"name": "Satoshi Nakamoto",
+				"content": "Sterkste handen bekend onder men, heeft zijn bitcoin wallet niet aangeraakt sinds 2010, Of zijn Bitcoin: Cash, Gold, God, Platinum, X, Dark, E, Silver, Z, Plus, Scrypt, E-Cash, Lite, Planet, Red, Fast, 21, Anti, Diamond, United, X, Super, White, Atom, First, or Rabbit fork wallets ook niet. Alleen niet de Segwit munten omdat de scam ontwikkelaars die zelf hebben opgeëist.",
+				"title": "Bitcoin: Uitvinder"
+			},
+			{
+				"name": "Colin LeMahieu",
+				"content": "Bedacht een valuta met drie unieke voorzieningen, niet alleen is het instant en gratis om te verzenden. Maar als je het bezit, kun je het TWEE keer besteden!",
+				"title": "Nano (Raiblocks): Uitvinder"
+			},
+			{
+				"name": "Jackson Palmer",
+				"content": "In een prachtige JUST, deze Nu-male idioot kon niet uitvinden hoe je de munten die hij net creeërde voor zichzelf kon innen, en kreeg maar een armzalig aantal uit voordat hij boos het project verliet omdat andere miners zijn mining rig binnen 7 minuten van contract creatie BTFO.",
+				"title": "DogeCoin: Schepper"
+			},
+			{
+				"name": "Sergey Nazarov",
+				"content": "Niemand weet zeker wat het doet en hoe je het gebruikt. Maar petje af voor de qualiteit grappen die rond chainlink gaan, mensen kopen het omdat het grappig is en dat is waar het om gaat.",
+				"title": "Chainlink: Mememeester"
+			},
+			{
+				"name": "Jared Rice",
+				"content": "Zweerde dubbel tegen invevsteerders dat zijn team een FDIC Bank verzekering had gekocht en dat ze het gedecentralizeerd zouden lanceren op de blockchain. Verzamelde 600 miljoen in een ICO voordat de SEC zijn deur inbeukte in volle uitrusting. ",
+				"title": "AriseBank ICO: Oprichter"
+			},
+			{
+				"name": "Marquis Trill",
+				"content": "Waarschijnlijk de grootste pump en dump organizator van heel cryptocurrency, ooit. Hij koopt, tweet het naar zijn 5 miljoen volgers, het pumped, dan een week later verkoopt hij en creeërt hij paniek; wat hem weer laat inkopen op een lager punt. Het meest gekke aan dit is dat hij dit nog steeds doet!",
+				"title": "Twitter: Meest influenciële Crypto promoter"
+			},
+			{
+				"name": "XVG Whale",
+				"content": "De markt manipulatie rondom XVG is zo erg dat wanneer een vertegenwoordiger een half afmaakte video uitbracht (Gekleed als dit); Een enkele wallet al zijn munten dumpte en paniek veroorzaakte, wat de prijs liet dalen met 90%, en op dat moment kocht die zelfde wallet 14% van de totale XVG beschikbaarheid. De  The next day this same 'Spokesperson' announced a massive update to XVG (wraith) and its release date.",
+				"title": "Investeerder / Ontwikkelaar Bevoegd PR: XVG (Verge)"
+			},
+			{
+				"name": "Charlie Lee",
+				"content": "Deze gek werd aangenomen bij coinbase, promootte zijn eigen munt aan de interne ontwikkelaars teams totdat ze de munt toevoegde aan hun platform; en ging toen vooruit met het dumpen van zijn persoonlijke aandeel op de top. LEEFT, ZIJN, DROMEN.",
+				"title": "Litecoin: Oprichter"
+			},
+			{
+				"name": "Charles Ponzi",
+				"content": "Een bekende italiaanse oplichter die zo goed was in het afbetalen van vroege investerdeers dat hij de wereld overtuigde dat hij de eerste was die dit heeft gedaan, en lichtte zo dus de eerdere investeerders van het plan van de titel. Dat is pas echt talent.",
+				"title": "We zijn meer een zandloper, met het zand in het midden = volume."
+			},
+			{
+				"name": "Cryptocurrency Investment Dog",
+				"content": "Altijd daar om je te herinneren dat hij slimer is dan jij.",
+				"title": "PoWH3D: Eerste die heeft ingekocht"
+			}
+
+		]
+	},
+	"shower": [{
+			"title": "Geen mensen toegelaten",
+			"content": "Niet zoals 'Investmeer' platforms zoals Bitconnect, Powh3D is volledig beheert door een smart contract. Er zit geen enkele menselijke factor in het beheren van het ethereum. Ooit."
+		},
+		{
+			"title": "Gratis verhandelbaar",
+			"content": "Onze token verzend systeem is ontworpen om automatisch 10% van alle verruilde tokens, om te zetten naar ETH, en dat verdelen aan iedereen. Zelfs als de ruil plaats vind buiten het contract zelf. Beurs assistentie heeft je nooit eerder betaald, heeft het?"
+		},
+		{
+			"title": "Universeel volume-gebaseerde beloningen",
+			"content": "Het concept van UBI bestaat uit een deel nemen van alle transacties en dat terug verdelen aan iedereen; voor dat model is crypto de perfecte plek om inspiratie van te nemen. Het 3D noemen klinkt wel veel cooler dan wat al die andere hippies het noemen."
+		}
+	],
+	"shill": {
+		"title": "Promoot Kit",
+		"sub": "Een klein voorproefje, er is meer bij <a href='shill-kit.html'><b>Promoot Kit</b></a> page",
+		"categories": [
+			"Alles",
+			"GIF",
+			"Logo",
+			"Hoge qualiteit"
+		]
+	},
+	"benefactors": {
+		"title": "Mede mogelijk gemaakt door"
+	},
+	"menu": [
+		"home",
+		"community",
+		"decentrale exchange",
+		"wiki",
+		"shill kit"
+	],
+	"titles": {
+		"points": "Laat je wel even denken",
+		"shower": "AFSLUITENDE GEDACHTES",
+		"shill" : "Bekijk ze allemaal",
+		"home" : "PoWH3D: Cryptocurrency in Drie Dimensies"
+	},
+	"languages":  {
+		"en": "English",
+		"de": "German",
+    		"nl": "Nederlands"        
+	},
+	"faq": {
+		"title": "ANTWOORDEN",
+		"answers": [
+			{
+				"title": "<i class='ion ion-help-circled left'></i>Vragen?",
+				"content": "<p>Onze gemeenschap is meer dan welkom om al je vragen te beantwoorden! Probeer onze <a href='https://discord.gg/Y6CHepn'> discord</a> om met echte mensen en een paar slimme meme-robots te praten (inclusief de ontwikkelaars).   </p><p>OF als je alleen meer wilt lezen over hoe alles werkt: Probeer onze <a href='https://powh3d.hostedwiki.co/'> wiki</a></p>"
+			},
+			{
+				"title": "<i class='on ion-help-buoy left'></i>Grappen?",
+				"content": "<p>Je hebt vast al wel gemerkt dat we veel grappen maken over deze valuta: we hebben een piramide foto op de website, en opzettelijk bijna elke voorziening verkeerd benoemd, en hebben ook gehele secties die refereren naar andere cryptocurrency 'Scams' bij onze weldoeners / advies boord.</p><p>Voor diegene die onze humor leuk vind, zou dit duidelijk satirische grappen zijn over de huidige staat van cryptocurrency, de zielige staat van ICOs die alles beloven terwijl het gegeven Ethereum verdwijnt in wallets, nooit meer gezien te worden. Allemaal grote en mooie woorden zoals 'Masternodes', 'Inleg', 'Decentralisatie', 'Smart-Contracts' or 'Eco-systemen' om aandacht om een product te creëren dat niet bestaat.</p><p><b>Dat gezegd te hebben is onze token ironisch genoeg een volledig functioneel product dat door blijft werken ook al zouden all ontwikkelaars verdwijnen.</b></p><p>Blijf op de hoogte van onze doelen in het verbeteren van het ICO model door het volledig onafhankelijk van vertrouwen te maken.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Is dit een oplichterij?",
+				"content": "<p>Best veel feedback (lees: aanvallen) on ons platform zijn veronderstellingen dat het product een Piramide spel of Ponzi spel is.</p><p>De 'Proof of Weak Hands' mechanisme valt eigenlijk niet onder die categorie, maar we begrijpen dat het in het begin moeilijk te snappen is. We realizeren dat een vertrouwens onafhankelijke waardering simpel weg niet mogelijk was voor dit punt in de geschiedenis van de gegevensverwerken. Er is geen enkele vorm van oplichterij -- het is direct, eerlijk en volledig transpirant.</p><p>De manier waarop we dit graag willen beschrijven is tot het punt dat op elke plek met een piramide, er ook een omgekeerde piramide in de lucht is dat onze veranderde punten representeert tussen de twee toppen</p><p>In het geval van een standaar piramide spel, de eerste paar investeerders profiteren het meest van de game als nieuwe investeerders er geld in steken. In een omgekeerde piramide spel, is het doel exponensieel te groeien door de nieuwere investeerders het meest te belonen. </p><p><b>In ons geval, zijn beide gevallen niet waar. Wij simpelweg bestraffen iedereen.</b></p><p>De vorm bij ons wordt meer een zandloper met beide kanten die tegen elkaar vechten. Zoals in een zandloper, het vloeiende zand (eth volume) tussen de twee piramides is het primaire deel van de game, beloont niet de eerste of de laatste investeerder. Maar iedereen die zijn tokens zo hard als ze kunen hodlen door de prijs fluctuaties. </p><p>Noem dit 'Zandloper model' als je het een naam wilt geven, dan is dat tenminste accuraat.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>JUST Token?",
+				"content": "<p>Als je recentelijk een transactie met een ethereum wallet hebt gemaakt, kans is dat je dan'<b>JUST powh.io</b>' tokens hebt gekregen, misschien is dat zelfs de reden dat je hier bent! </p><p>Dit token was onze slimme gebruik van exploiteren van een mechanisme van het ERC20 om iedereen die een eth wallet heeft een advertentie token te geven. Het was eigenlijk aan jou gegeven door leden van onze gemeenschap die een mijn program lieten lopen dat opzettelijk de token verspreidde aan zoveel wallets mogelijk, omdat we denk ik de eerste ontwikkelaars waren met een crypto-miner die tokens uitdeelt. </p><p>Binnen drie dage was onze token the grootste en meest verspreidde ERC20 token in de wereld, met 1.6 million+ wallets die het op dit moment zichtbaar bezitten.</p><p>Het spijt ons zeer om mee te delen dat de advertentie token waardeloos, niet geruild, verkocht, of zelfs ingewisseld kan worden voor iets anders. Enige poging om de tokens te verwijderen van je wallet resulteert tot het verkrijgen van juist meer tokens</p><p>Hou het, het is ons kleine kado van onze gemeenschap, voor jou!</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
+				"content": "<p><b>Samenvatting:</b> Een gedecentraliseerde economische simulatie van een algoritme beheerd door een cryptocurrency die op belasting heft op alle transacties en dat weer verdeeld over de token houders inplaats van een bestuursorgaan;  dit creërt een Universeel Basis Inkomen gebaseerd op adoptie en transactie volume.</p><p><b>PoWH3D</b> is een fictief-tot-echt blochchain  fiction-made-real blockchain afgedwongen simulatie van <a href='https://en.wikipedia.org/wiki/Pareto_efficiency'><i><b>zefl-verwijdering van het pareto optimum</b></i></a>; een economisch concept waarin het niet mogelijk is de een verbetering te geven zonder de een ander verslechtering te geven. In dit geval is de verslechtering een zelf-opgelegd door een gebrek aan geduld vergeleken met andere factoren, of als een entree kosten om het spel te kunnen spelen.</p><p>Het resultaat van dit experiment in menselijk gedrag is een gezamelijke positieve overeenstemming voor alle andere medespelers in dit model gebaseerd op de beslissing vann andere om de Pareto optimum te verbreken door in of uit het contract te stappen. De meest uniek uitgedrukte baat is in een vorm van passieve inkomen gegenereerd door de kosten van andere spelers om hun positie te liquideren in of uit het spel. De kosten worden verdeeld over de token houders als een vorm van bezit-gebaseerde winst. Het volume-gebaseerde inkomen voegt een uitdrukkelijk derder dimensie aan de standaard prijs/tijd calculaties die alomtegenwoordig in cryptocurrency plaats vind.</p>"
+			}
+		]
+	}
+}
