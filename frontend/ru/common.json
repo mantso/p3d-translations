@@ -146,74 +146,74 @@
 			"content": "Вместо того, что бы просто играть с ценой в разное время, как в большинстве крипты, мы добавили объём торговли в кучу. Хранение наконец-то может быть хорошей идеей в долгосрочной перспективе. <i>(А не так, как из-за чего вы в убытке на 50%)</i>"
 		},
 		{
-			"title": "Decentralized, designed to run forever.",
-			"content": "The entire system is completely without human interaction. It's self governed, executed by the collective Ethereum blockchain. Masternodes even add a per-user profitable expansion system, allowing the contract to run as long as there's interested players, or really dedicated spammers."
+			"title": "Децентрализованная, спроектированная работать вечно.",
+			"content": "Вся система существует без любого взаимодействия с человеком. Она самоуправляемая, выполняется коллективным Ethereum блокчейном. Мастерноды предоставляют каждому пользователю прибыльную систему для расширения, позволяя контракту работать до тех пор, пока есть заинтересованные игроки или очень настойчивые спаммеры."
 		},
 		{
-			"title": "Merciful Volume-Based Rewards",
-			"content": "Is bitcoin crashing? Crypto rise and falls got you burnt out? Our contract is designed to be a smart place to have your ethereum generate value whenever there's trading volume. You can sit back and worry about other things, like the fall of western civilization."
+			"title": "Милосердные Вознаграждения на Основе Объема Торговли",
+			"content": "Биткоин падает? Взлёты и падения крипты заставили вас выгореть? Наш контракт спроектирован так, что бы быть умным выбором, где можно хранить ваш ethereum, что бы он генерировал ценность тогда, когда есть объём торговли. Вы можете просто сидеть и думать о других вещах, таких, как падение западной цивилизации."
 		}
 	],
 	"socials": {
-		"title": "Share Win, Share Loss"
+		"title": "Делитесь Победами, Делитесь Поражениями"
 	},
 	"features": {
-		"title": "Guide to Success",
-		"sub": "<i>Smart-</i>Gaming <i>smart-</i>tips from a <i>smart-</i>Pyramid <i>smart-</i>meme <i>smart-</i>coin.",
+		"title": "Руководство к Успеху",
+		"sub": "<i>Смарт-</i>Гейминг <i>смарт-</i>советы от <i>смарт-</i>Пирамидного <i>смарт-</i>мемного <i>смарт-</i>коина.",
 		"points": [{
-				"title": "Acquire",
-				"content": "What else was this step going to be?"
+				"title": "Приобрести",
+				"content": "Чем ещё этот шаг может быть?"
 			},
 			{
-				"title": "Relax",
-				"content": "That's it, you already win.<br><br>With continuous volume you'll recieve a steady flow of ETH for as long as you come to collect."
+				"title": "Расслабиться",
+				"content": "Это всё, вы уже выиграли.<br><br>С непрерывным объёмом торговли вы будете получать стабильный поток ETH до тех пор, пока вы будете приходить его собирать."
 			},
 			{
-				"title": "Strong Hands",
-				"content": "Don't give up, you really do only lose when you sell."
+				"title": "Сильные Руки",
+				"content": "Не сдавайтесь, вы и правда проигрываете только тогда, когда продаёте."
 			},
 			{
-				"title": "Apply Masternode",
-				"content": "Masternode connections can supply a steady stream of ETH, no matter how big the contract gets you'll always be able to see the instant effect<br><br>Anywhere that you have a unique oppourtunity to direct others here, use your masternode!"
+				"title": "Применить Мастерноду",
+				"content": "Мастернода может обеспечить постоянный поток ETH, и не важно на сколько большим может стать контракт, вы всегда сможете увидеть мгновенный результат<br><br>Везде, где у вас есть уникальная возможность направить людей сюда, используйте свою мастерноду!"
 			},
 			{
-				"title": "Seriously, Masternodes",
-				"content": "Our site remembers who you brought here, you get credit for every P3D token they acquire in the future<br><br>Videos, Tutorials, Articles, Web Pages, Advertising slot, Dapps, Graphs, statistics, anything<br><br>The more clever your network, the more you'll earn, Hook up your masternode, we encourage it"
+				"title": "Серьёзно, Мастерноды",
+				"content": "Наш сайт запоминает, кто привёл вас сюда, вы получаете прибыль за каждый P3D токен, который они приобретут в будущем<br><br>Видео, Инструкции, Статьи, Веб-страницы, рекламный слот, Dapps, Диаграммы, статистика, что угодно<br><br>Чем умнее ваша сеть, тем больше вы заработаете, Подключите свою мастерноду, мы поощряем это"
 			}
 		]
 	},
 	"inspiration": {
-		"title": "Inspiration Board",
-		"sub": "BECAUSE BAD IDEAS LIKE OURS ARE BUILT UPON THE CUMULATIVE FAILURES OF THE CRYPTO COMMUNITY",
+		"title": "Доска Вдохновения",
+		"sub": "ПОТОМУ ЧТО ПЛОХИЕ ИДЕИ ВРОДЕ НАШЕЙ ПОСТРОЕНЫ НА СОВОКУПНЫХ НЕУДАЧАХ КРИПТО-СООБЩЕСТВА",
 		"people": [{
-				"name": "Vitalik Buterin",
-				"content": "Actually wants to impliment Proof of Stake into ethereum; kinda like our token but with extra steps.",
-				"title": "Ethereum: Creator"
+				"name": "Виталик Бутерин",
+				"content": "В самом деле хочет реализовать Proof of Stake в ethereum; вроде нашего токена, но с дополнительными шагами.",
+				"title": "Ethereum: Создатель"
 			},
 			{
-				"name": "Vitalik's Shirt",
-				"content": "We're just a little worried okay.",
-				"title": "Clothing: Cotton"
+				"name": "Футболка Виталика",
+				"content": "Мы просто немного обеспокоены, понятно?",
+				"title": "Одежда: Хлопок"
 			},
 			{
-				"name": "John Mcaffee",
-				"content": "Wanted by the Brazillian authorities for implications in murder, controls the markets with a single tweet.",
-				"title": "Shitposter: Famous"
+				"name": "Джон Макафи",
+				"content": "Разыскивается бразильскими властями за соучастие в убийстве, контролирует рынки одним твитом.",
+				"title": "Шитпостер: Известный"
 			},
 			{
-				"name": "Mark Karpeles",
-				"content": "'Misplaced' A massive number of bitcoins from MtGox which were market sold for THE ENTIRE MARKET VALUE crashing bitcoin; then was arrested, got out, 'Found' some of the misplaced bitcoins and proceeded to use them to bang 25+ prostitutes before the police caught on and arrested him again. Now Mt.Gox has to sell its personal bitcoin stash to compensate the victims of this 'Misplacement' which, is crashing Bitcoin... again.",
-				"title": "CEO: Mt.Gox, Deathbringer to Bitcoin"
+				"name": "Марк Карпелес",
+				"content": "'Поместил не туда' Большое количество биткоинов от MtGox, которые были проданы по рыночной цене за ЦЕННОСТЬ ВСЕГО РЫНКА, что привело к падению биткоина; затем был задержан, освобождён, 'Нашёл' часть положенных не туда биткоинов и продолжил использовать их, чтобы трахать проституток 25+ до тех пор, пока полиция не нашла его и снова не арестовала. Теперь Mt.Gox должна продать свои личные биткоины, чтобы компенсировать жертвам 'Помещения не туда', что приводит к падению Биткоина... снова.",
+				"title": "Исполнительный директор: Mt.Gox, Несущий смерть Биткоину"
 			},
 			{
-				"name": "Fidget Spinners",
-				"content": "Not decentralized, cryptographic or designed so that you can't print more at will. Overpriced above 25 cents.",
-				"title": "Or do we mean: Ripple"
+				"name": "Фиджет Спиннеры",
+				"content": "Не децентрализованны, не криптографичны и не спроектированны так, что бы вы не смогли напечатать больше по желанию. Переоценены выше 15 рублей.",
+				"title": "А может мы имеем ввиду: Ripple"
 			},
 			{
-				"name": "Carlos Matos",
-				"content": "Freeze Frame: First moment of obvious regret. Record Scratch: You might be wondering how i got into this situation...",
-				"title": "You should know by now"
+				"name": "Карлос Матос",
+				"content": "Стоп-кадр: Первый момент очевидного сожаления. Скрип записи: Может быть, вам интересно, как я попал в эту ситуацию...",
+				"title": "Вы уже должны знать"
 			},
 			{
 				"name": "Satoshi Nakamoto",
