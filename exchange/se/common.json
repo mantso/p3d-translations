@@ -1,0 +1,192 @@
+{
+	"masthead": {
+		"holdings": "Innehav",
+		"balance": "{{balance}} ETH i kontraktet"
+	},
+	"menu": {
+		"exchange" : [
+			"Marknadsplats",
+			"Sälj & Ta ut",
+			"Överför",
+			"Innehav"
+		],
+		"staking": "Staking & Masternod",
+		"news": "Nyheter",
+		"chat": "Chat",
+		"explorer": "Utforskare"
+	},
+	"notifications": {
+		"loading": "Laddar...",
+		"cancelled": "Transaktionen avbröts av användaren.",
+		"error": "Ett fel inträffade",
+		"withdrawalSubmitted": "Uttagsbegäran har skickats till blockkedjan. Väntar på bekräftelse..", 
+		"sellSubmitted": "Säljorder har skickats till blockkedjan. Väntar på bekräftelse..",
+		"sellConfirmed": "Din säljorder av P3D-tokens har blivit bekräftad av blockkedjan! Du har framgångsrikt sålt {{tokens}} P3D-tokens för {{eth}} ETH.",
+		"sellExternal": "Någon annan sålde just {{tokens}} P3D-tokens för {{eth}} ETH.",
+		"buySubmitted": "Köporder har skickats till blockkedjan. Väntar på bekräftelse..",
+		"buyConfirmed": "Din köporder av P3D-tokens har blivit bekräftad av blockkedjan! Du har framgångsrikt köpt {{tokens}} P3D-tokens med {{eth}} ETH.",
+		"buyExternal": "Någon annan köpte just {{tokens}} P3D-tokens med {{eth}} ETH.",
+		"transferSubmitted": "Överföringsorder har skickats till blockkedjan. Väntar på bekräftelse..",
+		"transferConfirmed": "Din överföringsorder av P3D-tokens har blivit bekräftad av blockkedjan! Du har framgångsrikt fört över {{tokens}} P3D-tokens.",
+		"transferExternal": "Någon annan förde just över {{tokens}} P3D-tokens."
+	},
+	"footer": "Det här är en underhållningsplattform, inte en investeringsplattform, är du inte underhållen?",
+	"pages": {
+		"purchase": {
+			"title": "Köp tokens",
+			"item": {
+				"buy": {
+					"title": "Köp P3D-tokens",
+					"spend": "Ethereum att spendera",
+					"approx": "Ungefär {{amount}} P3D-tokens.",
+					"invalid": "Skriv ett giltigt nummer.",
+					"empty": "Skriv antal ovan för att direkt se prisuppskattning.",
+					"button": "Köp",
+					"hint": "1). Ju högre gas-pris du anger, desto snabbare kommer ETH-miners att behandla och bekräfta din transaktion."
+				},
+				"reinvest": {
+					"title": "Återinvestera Gauntlet-belöningar",
+					"button": "Återinvestera!"
+				},
+				"recent": {
+					"title": "Senaste köporder",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"address": "Adress"
+				}
+			}
+		},
+		"sell": {
+			"title": "Sälj tokens",
+			"item": {
+				"sell": {
+					"title": "Sälj P3D-tokens",
+					"spend": "Tokens att sälja",
+					"approx": "Ungefär {{amount}} ETH.",
+					"invalid": "Ange ett giltigt nummer.",
+					"empty": "Skriv antal ovan för att direkt se prisuppskattning.",
+					"button": "Sälj!",
+					"all": "Alla",
+					"hint": "1). Ju högre gas-pris du anger, desto snabbare kommer ETH-miners att behandla och bekräfta din transaktion.",
+					"warning": "Är du säker att du vill sälja tokens? Att sälja är att erkänna för dig själv och alla andra att du inte längre har tillräckligt starka händer för att spela. Dock kommer avgiften på 10% av din försäljning garanterat att uppskattas av andra token-innehavare.",
+					"confirm": "JA, JAG HAR SVAGA HÄNDER.",
+					"deny": "NEJ, JAG HAR FUNNIT NY STYRKA."
+				},
+				"withdraw": {
+					"title": "Utestående Gauntlet-belöning",
+					"button": "Ta ut",
+					"reinvest": "Återinvestera",
+					"warning": "Vill du ta ut dina Gauntlet-belöningar? Var inte orolig, det dras ingen avgift så dessa Eth är redan så gott som dina. Men om du har kul (och uppskattar vart vi är på väg) kanske du vill erkänna att du är lite galen och prova på vår återinvesteringsfunktion. Fler tokens betyder att du får en större andel av alla avgifter som någonsin betalas till kontraktet. Det är lite som att fördubbla insatsen, men du kanske får dubbelt och du riskerar inte att bli av med allt.",
+					"confirm": "JA, SÄG TILL ROBOTEN ATT DET ÄR AVLÖNING.",
+					"deny": "NEJ, JAG GILLAR VART DET HÄR ÄR PÅ VÄG."
+				},
+				"recent": {
+					"title": "Senaste säljorder",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"address": "Adress"
+				}
+			}
+		},
+		"transfer": {
+			"title": "För över tokens",
+			"item": {
+				"transfer": {
+					"title": "För över P3D-tokens",
+					"spend": "Tokens att skicka",
+					"recipient": "Mottagarens plånbok",
+					"invalid": "Ogiltig plånboksadress...",
+					"empty": "Ogiltigt antal tokens...",
+					"button": "För över",
+					"hint": " 1). Kom ihåg, det finns en fast avgift på 10% på alla tokens som förs över <br> 2). Dina utestående Gauntlet-belöningar kommer automatiskt att tas ut till din eth-plånbok när du för över tokens. Bli inte orolig.<br> 3). Ju högre gas-pris du anger, desto snabbare kommer ETH-miners att behandla och bekräfta din transaktion."
+				},
+				"recent": {
+					"title": "Senaste överföringsorder",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"from": "Från",
+					"to": "Till"
+				}
+			}
+		},
+		"holdings": {
+			"title": "Mitt innehav",
+			"item": {
+				"tokens": {
+					"title": "Tokens"
+				},
+				"rewards": {
+					"title": "Belöningar",
+					"reinvest": "(om återinvesterat)"
+				},
+				"portfolio": {
+					"title": "Portföljtillväxt",
+					"description": "Den avancerade diagrammodulen är för närvarande under utveckling."
+				},
+				"actions": {
+					"buy": "Köp tokens",
+					"withdraw": "Ta ut",
+					"sell": "Sälj tokens"
+				},
+				"configuration": {
+					"title": "Konfiguration",
+					"description": "Personliga inställningar kommer snart hit, inklusive det mycket efterlängtade natt-läget. Har du några förslag? <a href='https://discord.gg/wfG97Kt'>Titta gärna in till vår chat-platform.</a>"
+				},
+				"recent": {
+					"title": "Min transaktionshistorik",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"event": "Händelse"
+				}
+			}
+		},
+		"staking": {
+			"title": "Staking",
+			"item": {
+				"description": {
+					"title": "Masternoder...",
+					"columns": [
+						{
+							"title": "Expandera nätverket!",
+							"text": "Om din plånbok håller 5 tokens genererar kontraktet en länk till din masternod för dig!<br><br> När någon besöker sajten via den här unika länken sparas din masternod i en cookie som följer alla köp av P3D-tokens de gör nu och i framtiden."
+						},
+						{
+							"title": "Vad ger det mig?",
+							"text": "<b>Ethereum!</b> När någon köper med din masternodlänk <strong>får du genast 33% av köpavgiften, de annars skulle betalt till kontraktet, i ETH</strong> - inga frågor ställda, inget krångel."
+						}
+					]
+				},
+				"masternode": {
+					"title": "Min masternodlänk",
+					"link": "Din unika masternodlänk är...",
+					"pointers": "Generella tips för att expandera ditt eget nätverk:",
+					"list": [
+						"Försök att nå medlemmar i gemenskaper du är bekant med.",
+						"Prata om powh.io på forum i ditt eget språk för maximal potential.",
+						"Använd <a href='https://powh.io/shill-kit.html'>shill-kit, det är designat för att få folk att trycka på din länk!</a>",
+						"Var ärlig. Dela konceptet bakom PoWH och hur du känner för projektet.",
+						"Ljug eller lova inte garanterad avkastning.",
+						"Gör inget så simpelt som att bara spamma din masternodlänk. Prata om projektet istället.",
+						"Misslyckas du med att följa reglerna ovan kan det resultera i avstängning av din masternodlänk.",
+						"Kraven för masternodstaking kan komma att ändras över tid, så se till att återinvesera dina utdelningar.",
+						"Ifall du känner dig smart, att använda din egen masternodelänk funkar inte."
+					]
+				},
+				"tracker": {
+					"title": "spårar visningar...",
+					"text": "Totala masternodbesök <br>(Funkar inte än)"
+				},
+				"earnings": {
+					"text": "Utestående masternodförtjänst"
+				},
+				"recent": {
+					"title": "Dina Masternodkonverteringar",
+					"date": "Datum.",
+					"tx": "Tx.",
+					"address": "Adress",
+					"profit": "Vinst"
+				}
+			}
+		}
+	} 
+}
