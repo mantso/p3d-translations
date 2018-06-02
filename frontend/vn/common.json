@@ -1,0 +1,340 @@
+{
+	"masthead": {
+		"slider": [{
+				"headings": [
+					"Một nền kinh tế được điều hành",
+					"bởi blockchain và smart-contract",
+					"trong ba chiều"
+				],
+				"sub": "Token đầu tiên được bảo đảm trực tiếp bằng Ethereum và cũng là Dapp phổ biến nhất trên nền tảng này. (Nguồn: Dappradar.com)",
+				"button": "Thử xem tay tay ai chắc hơn ai"
+			},
+			{
+				"headings": [
+					"Bạn có một phần hoa hồng",
+					"Từ tất cả các phí giao dịch trên sàn"
+				],
+				"sub": "Thu nhập dựa trên khối lượng giao dịch, như kiểu UBI vậy (thu nhập cơ bản vô điều kiện), nhưng thiết thực hơn nhiều."
+			},
+			{
+				"headings": [
+					"Sao phải đào từ blockchain",
+					"Khi ta có thể đào từ Tay Yếu?"
+				],
+				"sub": "Tin chúng tôi đi, dễ hơn nhiều."
+			},
+			{
+				"headings": [
+					"Quảng bá Masternode của bạn",
+					"Xây dựng mạng lưới cho riêng mình"
+				],
+				"sub": "Tin chúng tôi đi, dễ hơn nhiều"
+			},
+			{
+				"headings": [
+					"Tham gia hệ sinh thái 3D",
+					"Hưởng lợi nhuận đa chiều"
+				],
+				"sub": "Chỉ lỗ chút thôi, chúng tôi đang cố gắng cải thiện khoản đó."
+			}
+		]
+	},
+	"explanation": {
+		"header": "Cái này hoạt động như thế nào?",
+		"lead": "Tất cả các giao dịch, mua hay bán, đều có mức phí 10% được áp dụng.",
+		"hover": "Proof of Weak Hands",
+		"bold": "Thay vì bị ăn bởi sàn,<br> khoản phí này <i>được chia đều cho tất cả các token đang được nắm giữ!</i>",
+		"more": "10% tổng khối lượng giao dịch của đồng tiền này, sẽ luôn được dành riêng ra cho các bạn, các hodler chân chính, dưới dạng lợi nhuận Ethereum mà các bạn có thể rút ra bất kỳ lúc nào.",
+		"bottom": "Hoàn toàn phi tập trung, không một ai có thể chấm dứt sự hoạt động của nó được."
+	},
+	"details": [{
+			"title": "MÃ NGUỒN MỞ",
+			"content": [
+				"Tất cả các giao dịch Ethereum đều được quản lý bởi một phần mềm không thể thay đổi trên blockchain, hay còn được gọi là một smart-contract.",
+				"Đừng lo, chỉ đơn giản là bạn đang giao phó những đồng ETH mồ hôi nước mắt của bạn cho <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>một con robot kế toán chạy bằng thuật toán</a></b> trên một mạng lưới blockchain phi tập trung tạo ra bởi <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>một nhà khoa học và tỷ phú điên khùng người Nga</a></b>, được thực thi bởi hàng đàn dàn trâu cày Trung Quốc, mà hiện đang tiêu tốn <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>một lượng điện còn lớn hơn phần lớn các quốc gia thuộc thế giới thứ ba</a></b>, giúp duy trì một sàn giao dịch tồn tại mãi mãi mà không cần đến và không chấp nhận bất kỳ sự tác động nào của bất kỳ ai, chừng nào mạng lưới Ethereum còn tồn tại",
+				"Chào mừng đến với thế giới tiền crypto.",
+				"Tài sản của bạn luôn luôn được an toàn, nếu không chắc sẽ có người đang hét vào mặt chúng tôi bây giờ đây."
+			]
+		},
+		{
+			"title": "SÀN GIAO DỊCH THÔNG MINH",
+			"content": [
+				"Để giúp bạn nhanh chóng bước vào thế giới điên rồ này, chúng tôi đã tạo ra một sàn giao dịch phi tập trung của riêng mình, giúp bạn dễ dàng giao dịch và theo dõi các token của mình một cách tự động."
+			],
+			"list": [
+				"Theo dõi khối lượng giao dịch, và thu nhập dự kiến của bạn từ phí giao dịch.",
+				"Cười vào mặt những thằng ngu bỏ ETH vào cái trò mất trí này",
+				"Ngưng cười vì đột nhiên bạn nhận ra đó là một số ETH lớn",
+				"<b>Mua thêm</b> <i>(FOMO vào tiếp)</i>"
+			]
+		},
+		{
+			"title": "SỐ LƯỢNG TOKEN = GIÁ TRỊ",
+			"content": [
+				"<b>Với mỗi token được thêm vào hoặc rút ra khỏi tổng số token lưu hành, giá của token tiếp theo sẽ tăng hoặc giảm một cách tự động</b> một khoảng bằng một phần rất nhỏ ETH (khoảng .0000001 eth).",
+				"Khi mọi người mua vào, giá trị token của bạn tăng lên một chút, khi họ bán, giảm đi một chút. Sàn giao dịch sẽ tự động quản lý điều này, bạn không cần phải nghĩ về giá!",
+				"Thỉnh thoảng cũng phải buồn một chút để còn biết được lúc nào thời cơ sẽ đến."
+			]
+		},
+		{
+			"title": "ĐÀO <i>(Xem biểu đồ con rắn)</i>",
+			"content": [
+				"Được đặt cùng tên với token, chúng tôi gọi tính năng này bằng một cái tên thân thương là 'Thuật toán đào ETH Proof of Weak Hands (Bằng chứng Tay Yếu)'",
+				"Đơn giản là, khi có một ai đó quyết định mua, bán hoặc chuyển token, một khoản phí 10% sẽ được áp dụng. Khoản phí đó, minh chứng cho đôi tay yếu ớt của người này, được chia đều cho tất cả các token hiện đang lưu thông như một phần thưởng cho những người đang nắm giữ chúng. Những token vừa mới được mua xong sẽ được thêm vào tổng số lưu hành trước khi khoản phí được tính toán và phân phát.",
+				"Tất cả mọi người hiện đang nắm giữ token đều có thể rút lợi nhuận của họ ra bất kỳ lúc nào, dưới dạng ETH, từ quỹ lợi nhuận của smart-contract, mà không mất khoản phí nào hết.",
+				"Bạn có thấy con rắn dễ thương đó không? Nó cứ thế đem tiền về cho bạn qua mỗi một các giao dịch, không cần biết là giá token đang là bao nhiêu!"
+			]
+		},
+		{
+			"title": "STAKING",
+			"content": [
+				"Bên cạnh việc đào, bạn có thể sử dụng 5 token của mình để stake và tạo ra <b>masternode đầu tiên trong mạng lưới ethereum; Từ trước đến nay.</b>",
+				"Sở hữu một masternode tạo ra cho bạn một đường link đặc biệt đến website của chúng tôi. Khi bất kỳ ai mua token thông qua đường link này của bạn, bạn sẽ ngay lập tức được nhận 33% phí mua của họ dưới dạng ethereum mà đáng ra họ sẽ phải trả toàn bộ cho contract.",
+				"Đây chính là tính năng <font color='009f00'>lợi nhuận chủ động</font> trong contract của chúng tôi, chúng tôi cho bạn cơ hội xây dựng nên mạng lưới và đem lại lợi nhuận cho riêng bạn!",
+				"Vâng, hệ thống staking và đào ETH của chúng tôi mô phỏng một cách hài hước thế giới tiền crypto nói chung, chúng thú vị hơn nhiều, <b>và thực sự đem lại tiền tươi thóc thật thay vì một thứ gì đấy 'có tiềm năng' trong tương lai.</b>"
+			]
+		},
+		{
+			"title": "RÚT TIỀN BẤT CỨ LÚC NÀO",
+			"content": [
+				"Smart-contract <i>(anh bạn robot kế toán của chúng ta)</i>giữ tất cả số ethereum đã từng được bỏ ra để mua P3D, và <b>sẽ rất sung sướng được đưa tất cả số tiền mà nó đang cầm của bạn trả về cho bạn</b> bất kỳ khi nào bạn muốn rút lợi nhuận, hoặc xả token. Đồ yếu tay.",
+				"Anh bạn robot này hoàn toàn miễn dịch với mọi tác động của con người, không thể bị dừng lại hay chấm dứt hoạt động chừng nào mạng lưới ethereum còn tồn tại. Nếu bạn muốn làm gì P3D, hãy bước qua xác Ethereum trước đã."
+			]
+		},
+		{
+			"title": "<b>ĐIỂM CHÍNH</b>",
+			"list": [{
+					"header": "Được điều hành hoàn toàn bởi một smart contract",
+					"content": "Hoàn toàn không có sự tác động hay quản lý của con người. Chấm hết."
+				},
+				{
+					"header": "Giá tự động",
+					"content": "Giá P3D phụ thuộc trực tiếp vào việc có bao nhiêu token hiện đang lưu thông."
+				},
+				{
+					"header": "Lợi nhuận dựa trên khối lượng giao dịch",
+					"content": "10% tổng khối lượng giao dịch được chuyển hóa thành phí, và được tự động chia đều ra dưới dạng ETH cho tất cả các token holder tùy theo số lượng token nắm giữ."
+				},
+				{
+					"header": "Thu nhập chủ động thông qua Staking",
+					"content": "Hệ thống Masternode cho phép bạn giới thiệu mọi người tham gia và nhận ETH trực tiếp cho việc này. Và khối lượng giao dịch tăng thì ai cũng có lợi!"
+				},
+				{
+					"header": "Không phải là 1 đồng coin 'có thể có giá trị'",
+					"content": "Mà bản thân mỗi đồng P3D đều có giá trị nội tại của riêng nó rồi, vì tất cả các token đều được bảo đảm bởi số Eth hiện đang có trong contract <i>(thử tìm 1 đồng khác giống thế này xem).</i>"
+				},
+				{
+					"header": "Nghiêm túc một cách đầy vớ vẩn",
+					"content": "Nhìn con rắn dễ thương chưa kìa, nó thể hiện tương lai tài chính của bạn đó."
+				}
+
+			]
+		}
+	],
+	"stats": {
+		"balance": "ETH TRONG CONTRACT",
+		"transactions": "GIAO DỊCH",
+		"volume": "LƯỢNG GIAO DỊCH TRUNG BÌNH 24H",
+		"memes": "MEME/H"
+	},
+	"cta": {
+		"top": "THỬ SÀN GIAO DỊCH PHI TẬP TRUNG CỦA CHÚNG TÔI",
+		"bottom": "BẮT ĐẦU!"
+	},
+	"points": [{
+			"title": "Dự đoán 3D",
+			"content": "Thay vì chỉ đơn giản là dự đoán giá theo thời gian như những đồng tiền khác, ở đây khối lượng giao dịch mới là điều quan trọng. Cuối cùng thì bạn cũng đã có thể yên tâm mà HODL trong dài hạn rồi. <i>(Thay vì tự hỏi sao lại lỗ 50% thế này)</i>"
+		},
+		{
+			"title": "Phi tập trung, được thiết kế để vận hành mãi mãi.",
+			"content": "Toàn bộ hệ thống là hoàn toàn tự động mà không có con người. Nó được vận hành bởi toàn bộ mạng lưới Ethereum blockchain. Hệ thống Masternode còn cho phép mỗi người dùng tự tạo thêm nguồn thu cho riêng mình. Điều này giúp contract chạy mãi mãi chừng nào vẫn còn người chơi hứng thú hoặc chừng nào vẫn còn các spammer cần mẫn hằng ngày đi spam link tuyển ref."
+		},
+		{
+			"title": "Lợi nhuận dựa trên Khối lượng giao dịch",
+			"content": "Bitcoin lao dốc? Thị trường crypto lên xuống thất thường khiến bạn trắng tay? Contract của chúng tôi được thiết kế để trở thành một nơi trú ẩn thông minh và an toàn cho ethereum của bạn sinh sôi lợi nhuận bất cứ khi nào có giao dịch xảy ra. Bạn có thể ngồi lại và lo nghĩ về những thứ khác, quan trọng hơn, như sự sụp đổ của nước Mỹ chẳng hạn."
+		}
+	],
+	"socials": {
+		"title": "Chia sẻ Niềm vui, Chia sẻ Nỗi buồn"
+	},
+	"features": {
+		"title": "Con đường đến Thành công",
+		"sub": "Cách chơi <i>Thông minh</i> lời khuyên <i>thông minh</i> đến từ một Kim tự tháp <i>thông minh</i> meme <i>thông minh</i> đồng coin <i>thông minh</i>.",
+		"points": [{
+				"title": "Mua vào",
+				"content": "Chứ bạn nghĩ bước 1 còn là gì được nữa?"
+			},
+			{
+				"title": "Nghỉ ngơi",
+				"content": "Đó, thế thôi. Thế là xong.<br><br>Với khối lượng giao dịch liên tục, bạn sẽ nhận được một dòng tiền ETH đều đặn về ví chừng nào bạn chưa bỏ cuộc chơi."
+			},
+			{
+				"title": "Chắc Tay",
+				"content": "Đừng bỏ cuộc, bạn chỉ thua khi bạn bán."
+			},
+			{
+				"title": "Sử dụng Masternode",
+				"content": "Masternode có thể đem lại nguồn thu ETH đều đặn, không cần biết hiện trong contract đang có bao nhiêu tiền, bạn sẽ luôn có được thu nhập tức thì qua Masternode<br><br>Bất cứ khi nào có cơ hội, hãy dẫn mọi người tới đây và sử dụng masternode của riêng bạn!"
+			},
+			{
+				"title": "Thật sự đấy, hãy dùng Masternode",
+				"content": "Website của chúng tôi ghi nhớ bạn đã đem đến ai, và bạn sẽ được tưởng thưởng cho tất cả những đồng P3D mà họ mua trong tương lai<br><br>Sử dụng video, hướng dẫn, bài viết, trang web, quảng cáo, Dapp, đồ thị, thống kê,... bất kỳ thứ gì bạn nghĩ ra<br><br>Mạng lưới của bạn càng thông minh, bạn càng kiếm được nhiều. Masternode đi muôn nơi!"
+			}
+		]
+	},
+	"inspiration": {
+		"title": "Ban Truyền Cảm Hứng",
+		"sub": "BỞI VÌ NHỮNG Ý TƯỞNG TỒI TỆ NHƯ CỦA CHÚNG TÔI ĐÂY ĐƯỢC XÂY DỰNG TRÊN NỀN NHỮNG THẤT BẠI CHỒNG CHẤT CỦA CỘNG ĐỒNG CRYPTO",
+		"people": [{
+				"name": "Vitalik Buterin",
+				"content": "Thật sự muốn xây dựng Proof of Stake cho Ethereum; đại loại là cũng giống kiểu như token của chúng ta nhưng phức tạp hơn một chút.",
+				"title": "Ethereum: Người sáng lập"
+			},
+			{
+				"name": "Áo của Vitalik",
+				"content": "Chúng tôi hơi lo đấy.",
+				"title": "Quần áo: Cotton"
+			},
+			{
+				"name": "John Mcaffee",
+				"content": "Bị truy nã bởi chính quyền Brazil vì liên quan đến một vụ giết người; điều khiển cả thị trường chỉ bằng một dòng tweet.",
+				"title": "Chuyên viên post nhảm ***: Nổi tiếng"
+			},
+			{
+				"name": "Mark Karpeles",
+				"content": "'Thất lạc' một số lượng lớn Bitcoin từ MtGox mà sau đó được xả ra với giá thị trường khiến giá Bitcoin lao dốc; sau đó bị bắt, thoát ra ngoài, 'Tìm thấy' một số lượng Bitcoin thất lạc và sử dụng để chơi hơn 25 em cave trước khi bị cảnh sát bắt lại. Bây giờ Mt.Gox phải bán vốn Bitcoin cá nhân của mình để bù lại cho các nạn nhân của vụ 'Thất lạc' này, và lại khiến giá Bitcoin lao dốc... 1 lần nữa.",
+				"title": "CEO: Mt.Gox, Thần chết của Bitcoin"
+			},
+			{
+				"name": "Fidget Spinner",
+				"content": "Không hề phi tập trung, bảo mật, cũng chẳng được thiết kế để ngăn chặn việc phát hành vô tội vạ. Giá quá cao ở mức 25 cent.",
+				"title": "Ô, hay là ta đang nói đến: Ripple"
+			},
+			{
+				"name": "Carlos Matos",
+				"content": "Đứng hình: Một khoảnh khắc đầy hối hận. Tạch tạch: Có lẽ các bạn đang tự hỏi sao tôi lại đến mức này...",
+				"title": "Giờ chắc hẳn bạn đều đã biết rồi"
+			},
+			{
+				"name": "Satoshi Nakamoto",
+				"content": "Đôi tay chắc nhất từng được biết đến trong lịch sử, chưa từng chạm vào 1 đồng Bitcoin nào kể từ 2010, hay kể cả các đồng fork như Bitcoin: Cash, Gold, God, Platinum, X, Dark, E, Silver, Z, Plus, Scrypt, E-Cash, Lite, Planet, Red, Fast, 21, Anti, Diamond, United, X, Super, White, Atom, First, Rabbit. Trừ Segwit vì bọn developer scam đã lấy mất coin của ông cho riêng mình rồi.",
+				"title": "Bitcoin: Nhà phát minh"
+			},
+			{
+				"name": "Colin LeMahieu",
+				"content": "Tạo ra một đồng tiền với 3 đặc điểm nổi bật, không chỉ cực kỳ nhanh chóng và miễn phí khi chuyển tiền. Mà bạn còn có thể tiêu 1 đồng tới HAI lần!",
+				"title": "Nano (Raiblocks): Người sáng lập"
+			},
+			{
+				"name": "Jackson Palmer",
+				"content": "Trong hình hài 1 developer, tên đần ẻo lả này không thể nghĩ ra được cách premine (đào trước) chính đồng coin mà hắn ta vừa mới tạo ra, và rốt cục mới chỉ đào được có một tí Dogecoin trước khi cáu kỉnh bỏ rơi project của mình vì bị cả 1 tập đoàn thợ đào hùng mạnh khác tranh đào hết trong vòng 7 phút khi nó vừa mới ra đời;",
+				"title": "DogeCoin: Người sáng lập"
+			},
+			{
+				"name": "Sergey Nazarov",
+				"content": "Nếu hỏi rằng Chainlink để làm gì và dùng như thế nào, có lẽ chẳng mấy ai trả lời được. Nhưng tôi xin quỳ lạy những trò đùa xung quanh Chainlink, mọi người đang thực sự mua vào vì thấy nó buồn cười và suy cho cùng thì đó mới là điều quan trọng.",
+				"title": "Chainlink: Chủ nhân của các meme"
+			},
+			{
+				"name": "Jared Rice",
+				"content": "Thề sống thề chết với các nhà đầu tư rằng team của anh ta đã mua lại một ngân hàng được bảo hiểm bởi FDIC và họ sẽ chuẩn bị vận hành nó một cách phi tập trung trên nền tảng blockchain. Thu về 600 triệu đô trong ICO trước khi bị SEC gõ cửa hỏi thăm. ",
+				"title": "AriseBank ICO: Người sáng lập"
+			},
+			{
+				"name": "Marquis Trill",
+				"content": "Tổ chức ra hội Pump and Dump có thể là lớn nhất từ trước đến nay trong giới crypto. Anh ấy mua, tweet đến 5 triệu follower của mình, giá pump, sau 1 tuần anh ấy xả hàng, giá từ cung trăng lao xuống đất; sau đó anh ấy lại hốt hết ở đáy. Điều ấn tượng vãi lúa là anh ấy vẫn đang tiếp tục làm như vậy!",
+				"title": "Twitter: Chuyên gia shill coin rác"
+			},
+			{
+				"name": "Cá mập XVG",
+				"content": "Sự thao túng thị trường giá XVG trắng trợn đến mức khi người phát ngôn này làm một video (trong bộ đồ ngủ như thế này); Một ví XVG ngay lập tức xả một lượng lớn coin tạo sự hoảng loạn trên thị trường khiến giá sụt 90%, tại thời điểm đó lại chính ví này đã mua lại 14% tổng số XVG hiện đang lưu hành. Vào ngày hôm sau, 'Người phát ngôn' này ra thông báo về một bản cập nhật rất lớn cho XVG (wraith) và ngày ra mắt của nó.",
+				"title": "Nhà đầu tư / Người phát ngôn được dev lựa chọn: XVG (Verge)"
+			},
+			{
+				"name": "Charlie Lee",
+				"content": "Tên mất trí này được thuê bởi Coinbase, tiến hành shill cho đội ngũ dev cho đến khi họ đồng ý cho phép thêm đồng coin của chính ông ta vào website; sau đó xả toàn bộ số coin cá nhân tại đỉnh. SỐNG, TRONG, MƠ.",
+				"title": "Litecoin: Người sáng lập"
+			},
+			{
+				"name": "Charles Ponzi",
+				"content": "Kẻ lừa đảo nổi tiếng người Ý, quá thành công trong việc trả lãi nhà đầu tư cũ bằng tiền của nhà đầu tư mới đến mức đã thuyết phục được cả thế giới rằng hắn là người đầu tiên làm được điều đó, lấy luôn danh hiệu này của những người đi trước. Đó mới thực sự là tài năng.",
+				"title": "Hệ thống của chúng tôi giống chiếc đồng hồ cát hơn, lượng cát đi qua ở phần giữa = khối lượng giao dịch."
+			},
+			{
+				"name": "Chú chó đầu tư crypto",
+				"content": "Luôn có mặt để nhắc bạn nhớ rằng nó thông minh hơn bạn.",
+				"title": "PoWH3D: Kẻ Mua Đầu Tiên"
+			}
+
+		]
+	},
+	"shower": [{
+			"title": "Cấm Người",
+			"content": "Khác với những hệ thống 'Đầu tư' kiểu Bitconnect, Powh3D được quản lý hoàn toàn bởi một smart contract. Không hề có bàn tay con người liên quan tới việc quản lý số Ethereum. Chấm hết."
+		},
+		{
+			"title": "Tự do Trao đổi",
+			"content": "Hệ thống trao đổi token của chúng tôi tự động lấy 10% lượng coin giao dịch, chuyển hóa chúng thành ETH, và chia đều cho tất cả mọi người. Ngay cả khi giao dịch được thực hiện bên ngoài contract (giữa 2 người với nhau). Đã từng có sàn giao dịch nào trả phí cho bạn chưa?"
+		},
+		{
+			"title": "Thu nhập cơ bản dựa trên khối lượng giao dịch",
+			"content": "Khái niệm thu nhập cơ bản (UBI) bao gồm việc đánh thuế tất cả các giao dịch và chia đều cho mọi người, và crypto là nơi hoàn hảo để thực hiện ý tưởng đó. Tuy nhiên gọi nó là 3D thì nghe chất hơn nhiều bất cứ cái tên gì mà bọn hippie đặt."
+		}
+	],
+	"shill": {
+		"title": "Shill Kit",
+		"sub": "Một chút gia vị ở đây thôi, bấm vào <a href='shill-kit.html'><b>Shill Kit</b></a> để xem thêm",
+		"categories": [
+			"Tất cả",
+			"GIF",
+			"Logo",
+			"Chất lượng cao"
+		]
+	},
+	"benefactors": {
+		"title": "Được làm bởi"
+	},
+	"menu": [
+		"home",
+		"community",
+		"decentralized exchange",
+		"wiki",
+		"shill kit"
+	],
+	"titles": {
+		"points": "Khiến ta phải Suy Nghĩ",
+        "shower": "NHỮNG Ý TƯỞNG SÂU SẮC",
+		"shill" : "Xem Tất cả",
+		"home" : "PoWH3D: Tiền crypto trong Ba Chiều"
+	},
+	"languages":  {
+		"en": "English",
+		"de": "German",
+		"vn": "Tiếng Việt"
+	},
+	"faq": {
+		"title": "TRẢ LỜI",
+		"answers": [
+			{
+				"title": "<i class='ion ion-help-circled left'></i>Câu hỏi?",
+				"content": "<p>Cộng đồng của chúng tôi sẽ rất vui khi được trả lời bất cứ câu hỏi nào mà bạn có! Hãy tham gia vào <a href='https://discord.gg/Y6CHepn'> discord</a> của chúng tôi để chat với mọi người và những con meme-bot hài hước (có cả các developer trong đó nữa).   </p><p>Hay nếu bạn chỉ đơn giản muốn đọc thêm về cách hoạt động của mọi thứ: Xem phần <a href='https://powh3d.hostedwiki.co/'> wiki</a></p>"
+			},
+			{
+				"title": "<i class='on ion-help-buoy left'></i>Trò đùa?",
+				"content": "<p>Bạn có để ý thấy rằng chúng tôi đùa hơi quá không? Chúng tôi đặt biểu tượng kim tự tháp trên website, cố ý đặt sai tên cho gần như mọi tính năng, thậm chí lại còn có một phần riêng nhắc đến các đồng tiền 'scam' khác trong phần ban cố vấn nữa.</p><p>Nếu các bạn cảm thấy thú vị, các bạn hãy hiểu cho đây thực chất là một trò đùa châm biếm đến thực trạng buồn của toàn bộ thị trường crypto hiện nay, khi mà các ICO rác mọc lên như nấm, hứa hẹn rất nhiều trong khi những đồng Ethereum được gửi đến cho họ thì vĩnh viễn biến mất. Một lô lốc những từ ngữ kinh khủng như 'Masternode', 'Staking', 'Phi tập trung', 'Smart Contract' hay 'Hệ sinh thái' được sử dụng để thổi phồng một sản phẩm mà thực chất không hề tồn tại.</p><p><b>Trái ngược lại, token của chúng tôi lại là một sản phẩm hoàn chỉnh, sẽ mãi mãi vận hành kể cả khi tất cả các developer biến mất.</b></p><p>Hãy chung tay cùng chúng tôi cải tiến mô hình ICO để có thể trở nên hoàn toàn trustless (không cần tin tưởng vào bất kỳ ai).</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Đây có phải là một Âm mưu?",
+				"content": "<p>Khá nhiều feedback (đúng hơn là: công kích) cho rằng sản phẩm này thực chất chỉ là một mô hình Kim tự tháp hoặc Ponzi ẩn đằng sau mà thôi.</p><p>Cơ chế 'Proof of Weak Hands' ('Bằng chứng Tay Yếu') không giống bất kỳ mô hình nào cả, và chúng tôi hiểu rằng để mà nắm bắt được khái niệm này thì sẽ phải mất thời gian một chút. Chúng tôi nhận ra rằng một hệ thống kiểu này, sử dụng một trustless smart contract để quản lý tiền bạc kiểu này, đơn giản là không thể có được trước đây trong lịch sử. Không có bất kỳ âm mưu gì ở đây cả -- mô hình này hoàn toàn trung thực và minh bạch.</p><p>Chúng tôi muốn diễn tả điều này bằng cách chỉ ra rằng bất kỳ nơi nào chúng tôi sử dụng hình ảnh kim tự tháp, cái kim tự tháp đó bao giờ cũng được đối xứng bằng một hình ảnh phản chiếu ngược trên bầu trời để biểu thị rằng chúng tôi muốn nhấn mạnh không phải đến cái kim tự tháp, mà đến khoảng giữa của 2 cái chóp</p><p>Trong một mô hình kim tự tháp truyền thống, những nhà đầu tư đầu tiên là được hưởng lợi nhiều nhất khi những nhà đầu tư mới chỉ dồn tiền vào cho top trên mà thôi. Trong trường hợp của mô hình kim tự tháp ngược, mục tiêu lại được lộn ngược lại, tức là tăng trưởng bằng cách tập trung thưởng nhà đầu tư mới nhiều nhất trước tiên. </p><p><b>Còn trường hợp của chúng tôi thì lại khác hoàn toàn. Chúng tôi đơn giản là phạt tất cả mọi người tham gia.</b></p><p>Các bạn có thể hình dung về một chiếc đồng hồ cát, với hai nửa liên tục đấu tranh với nhau. Tương tự như một chiếc đồng hồ cát, dòng cát chảy ở giữa (khối lượng giao dịch ETH) hai kim tự tháp là thành phần chính của mô hình này, tưởng thưởng cho không phải nhà đầu tư đầu tiên hay nhà đầu tư cuối cùng, mà cho tất cả mọi người giữ token một cách vững chắc, vượt qua mọi sự lên xuống về giá. </p><p>Hãy gọi mô hình này là 'mô hình Đồng hồ Cát' nếu bạn muốn gọi nó bằng một cái tên, ít ra thì như thế mới đúng.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Đồng JUST?",
+				"content": "<p>Nếu bạn vừa thực hiện một giao dịch gần đây bằng ví Ethereum của bạn, chắc là bạn cũng đã để ý thấy bạn nhận được một số lượng đồng '<b>JUST powh.io</b>', cũng có thể đó chính là lý do đem bạn đến đây! </p><p>Bạn có được token này thực chất là do chúng tôi khai thác được một vấn đề liên quan đến cách hoạt động của ERC20, và đã quyết định tặng cho tất cả mọi người đồng token quảng cáo này. Nó chính là món quà gửi đến bạn đến từ cộng đồng chúng tôi, họ đã miệt mài chạy phần mềm đào để phân phát token này đến càng nhiều ví càng tốt, và với việc này tôi nghĩ chúng tôi cũng là một trong những người đầu tiên tạo ra phần mềm đào tiền cho người khác, chứ không phải cho mình. </p><p>Chỉ trong vòng 3 ngày token của chúng tôi đã trở thành ERC20 token lớn nhất và được sở hữu nhiều nhất thế giới, với hơn 1,6 triệu ví hiện tại đang giữ token này.</p><p>Thành thực xin lỗi các bạn vì bản thân token quảng cáo này nó chẳng có giá trị gì cả, không thể được giao dịch, bán, hay thậm chí đổi lấy bất cứ cái gì hết. Tất cả các hành vi cố ý muốn chuyển nó đi, sẽ chỉ nhận về nhiều hơn thêm mà thôi</p><p>Bạn hãy cứ giữ lấy nó, coi như là món quà nho nhỏ từ cộng động của chúng tôi, gửi đến bạn!</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
+				"content": "<p><b>Tóm tắt:</b> Là sự mô hình hóa một nền kinh tế phi tập trung, với một đồng tiền được tự động quản lý bằng thuật toán để sao cho khoản thuế đánh lên tất cả mọi giao dịch được phân chia tự động cho mọi chủ sở hữu của đồng tiền này thay vì một chủ thể quản lý nào đó; tạo ra một thu nhập cơ bản dựa trên sự thông dụng và khối lượng giao dịch.</p><p><b>PoWH3D</b> là một mô hình giả lập, bước ra ngoài đời thực từ trong trí tưởng tượng, được bảo đảm bởi blockchain, của <a href='https://en.wikipedia.org/wiki/Pareto_efficiency'><i><b>sự tự rời bỏ khỏi tối ưu Pareto</b></i></a>; một khái niệm kinh tế mà ở đó không có cách nào để tái phân bổ nguồn lực để làm ít nhất một cá nhân tốt hơn nhưng lại không làm bất cứ cá nhân nào khác tổn hại. Trong trường hợp này sự tổn hại này được sắp đặt một cách cố ý khi bạn thiếu sự kiên nhẫn với những người chơi khác, hay dưới dạng phí tham gia khi mới bắt đầu chơi.</p><p>Kết quả của cuộc thí nghiệm về tâm lý và tính cách con người này chính là một hợp đồng các bên cùng có lợi về việc mọi thành viên trong mô hình này sẽ đều hưởng lợi dựa trên quyết định của những người khác trong việc đi vào hay đi ra khỏi hợp đồng. Lợi ích cụ thể nhất được thể hiện dưới dạng thu nhập Ethereum thụ động, lấy từ phí của những người chơi khác khi họ bước vào, hay bước ra khỏi trò chơi. Số phí này được chia đều cho mọi người nắm giữ token dưới dạng tương tự như chia cổ tức. Chính nguồn thu nhập dựa trên khối lượng giao dịch này thêm vào một chiều nữa so với hai chiều thông thường giá cả/thời gian hiện đã quá phổ biến trong thế giới crypto ngày nay.</p>"
+			}
+		]
+	}
+}
