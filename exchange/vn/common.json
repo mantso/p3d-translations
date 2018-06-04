@@ -1,0 +1,192 @@
+{
+	"masthead": {
+		"holdings": "Số dư",
+		"balance": "{{balance}} ETH trong contract"
+	},
+	"menu": {
+		"exchange" : [
+			"Sàn giao dịch",
+			"Bán & Rút",
+			"Chuyển",
+			"Số dư"
+		],
+		"staking": "Staking & Masternode",
+		"news": "Tin tức",
+		"chat": "Trò chuyện",
+		"explorer": "Explorer"
+	},
+	"notifications": {
+		"loading": "Đang tải...",
+		"cancelled": "Giao dịch đã bị hủy bởi người dùng.",
+		"error": "Có lỗi xảy ra",
+		"withdrawalSubmitted": "Yêu cầu rút đã được chuyển đến blockchain. Đang chờ xác nhận..", 
+		"sellSubmitted": "Yêu cầu bán đã được chuyển đến blockchain. Đang chờ xác nhận..",
+		"sellConfirmed": "Lệnh bán P3D của bạn đã được xác nhận bởi blockchain! Bạn đã bán thành công {{tokens}} P3D và nhận được {{eth}} ETH.",
+		"sellExternal": "Một ai đó vừa mới bán {{tokens}} P3D và nhận được {{eth}} ETH.",
+		"buySubmitted": "Yêu cầu mua đã được chuyển đến blockchain. Đang chờ xác nhận..",
+		"buyConfirmed": "Lệnh mua P3D của bạn đã được xác nhận bởi blockchain! Bạn đã mua thành công {{tokens}} P3D với {{eth}} ETH.",
+		"buyExternal": "Một ai đó vừa mới mua {{tokens}} P3D với {{eth}} ETH.",
+		"transferSubmitted": "Yêu cầu chuyển đã được chuyển đến blockchain. Đang chờ xác nhận..",
+		"transferConfirmed": "Lệnh chuyển P3D của bạn đã được xác nhận bởi blockchain! Bạn đã chuyển thành công {{tokens}} P3D.",
+		"transferExternal": "Một ai đó vừa mới chuyển {{tokens}} P3D."
+	},
+	"footer": "Đây chỉ là một nơi để giải trí, không phải để đầu tư đâu nhé.",
+	"pages": {
+		"purchase": {
+			"title": "Mua token",
+			"item": {
+				"buy": {
+					"title": "Mua P3D token",
+					"spend": "Số Ethereum dùng để mua",
+					"approx": "Khoảng {{amount}} P3D.",
+					"invalid": "Nhập một con số hợp lệ.",
+					"empty": "Nhập một con số bên trên để xem giá.",
+					"button": "Mua",
+					"hint": "1). Bạn càng đặt giá gas cao thì giao dịch của bạn sẽ càng nhanh được các thợ đào ETH xác nhận."
+				},
+				"reinvest": {
+					"title": "Tái đầu tư Lợi nhuận Tay Sắt",
+					"button": "Tái đầu tư!"
+				},
+				"recent": {
+					"title": "Các lệnh mua gần đây",
+					"date": "Thời gian",
+					"tx": "Giao dịch",
+					"address": "Địa chỉ"
+				}
+			}
+		},
+		"sell": {
+			"title": "Bán token",
+			"item": {
+				"sell": {
+					"title": "Bán P3D token",
+					"spend": "Số token bán",
+					"approx": "Khoảng {{amount}} ETH.",
+					"invalid": "Nhập một con số hợp lệ.",
+					"empty": "Nhập một con số bên trên để xem giá.",
+					"button": "Bán!",
+					"all": "Tất cả",
+					"hint": "1). Bạn càng đặt giá gas cao thì giao dịch của bạn sẽ càng nhanh được các thợ đào ETH xác nhận.",
+					"warning": "Bạn đã chắc chắn muốn bán chưa? Quyết định bán có nghĩa là thừa nhận với bản thân, và tất cả mọi người khác, rằng đôi tay của bạn đã không còn đủ mạnh mẽ để tiếp tục chơi và nắm giữ P3D nữa rồi. Tuy nhiên mức phí 10% khi bạn bán ra chắc sẽ làm mọi người cảm kích lắm đấy.",
+					"confirm": "VÂNG, TAY TÔI YẾU LẮM.",
+					"deny": "KHÔNG, TỰ DƯNG TÔI LẠI CẢM THẤY MẠNH MẼ HƠN RỒI."
+				},
+				"withdraw": {
+					"title": "Số dư Lợi nhuận Tay Sắt",
+					"button": "Rút",
+					"reinvest": "Tái đầu tư",
+					"warning": "Bạn có muốn rút lợi nhuận Tay Sắt của mình ra không? Đừng lo, khi rút sẽ không có phí gì đâu, số ETH này thực chất đã là của bạn rồi. Nhưng nếu bạn đang vui, bạn có thể xõa hết mình và thử chức năng tái đầu tư của chúng tôi. Nhiều token hơn cũng có nghĩa là bạn được hưởng một phần lớn hơn trong tổng số phí thu được bởi contract.",
+                    "confirm": "ĐỒNG Ý, BẢO ROBOT RẰNG HÔM NAY LÀ NGÀY PHÁT LƯƠNG CỦA TÔI.",
+					"deny": "THÔI, CỨ ĐỂ THẾ NÀY CŨNG ĐƯỢC."
+				},
+				"recent": {
+					"title": "Các lệnh bán gần đây",
+					"date": "Thời gian",
+					"tx": "Giao dịch",
+					"address": "Địa chỉ"
+				}
+			}
+		},
+		"transfer": {
+			"title": "Chuyển token",
+			"item": {
+				"transfer": {
+					"title": "Chuyển P3D token",
+					"spend": "Số token muốn chuyển",
+					"recipient": "Ví nhận",
+					"invalid": "Ví không hợp lệ...",
+					"empty": "Số token không hợp lệ...",
+					"button": "Chuyển",
+					"hint": " 1). Hãy nhớ là khi chuyển, bạn sẽ phải chịu mức phí 10% áp dụng trên tổng số token được chuyển. <br> 2). Số dư lợi nhuận Tay Sắt của bạn sẽ được tự động rút hết về ví ETH của bạn khi bạn chuyển token. Nên đừng có sợ.<br> 3). Bạn càng đặt giá gas cao thì giao dịch của bạn sẽ càng nhanh được các thợ đào ETH xác nhận."
+				},
+				"recent": {
+					"title": "Các lệnh chuyển gần đây",
+					"date": "Thời gian",
+					"tx": "Giao dịch",
+					"from": "Từ",
+					"to": "Đến"
+				}
+			}
+		},
+		"holdings": {
+			"title": "Số dư của tôi",
+			"item": {
+				"tokens": {
+					"title": "Số token"
+				},
+				"rewards": {
+					"title": "Lợi nhuận",
+					"reinvest": "(nếu tái đầu tư)"
+				},
+				"portfolio": {
+					"title": "Tổng tài sản theo thời gian",
+					"description": "Chức năng vẽ biểu đồ đang trong quá trình phát triển."
+				},
+				"actions": {
+					"buy": "Mua token",
+					"withdraw": "Rút",
+					"sell": "Bán token"
+				},
+				"configuration": {
+					"title": "Cài đặt",
+					"description": "Cài đặt cá nhân sẽ sớm được tích hợp ở đây, bao gồm tính năng rất được mong chờ là chế độ Ban đêm. Bạn có ý tưởng nào hay không? <a href='https://discord.gg/wfG97Kt'>Xin hãy ghé qua nhóm chat của chúng ta.</a>"
+				},
+				"recent": {
+					"title": "Lịch sử giao dịch của tôi",
+					"date": "Thời gian",
+					"tx": "Giao dịch",
+					"event": "Sự kiện"
+				}
+			}
+		},
+		"staking": {
+			"title": "Staking",
+			"item": {
+				"description": {
+					"title": "Masternodes...",
+					"columns": [
+						{
+							"title": "Mở rộng Mạng lưới!",
+							"text": "Nếu bạn sở hữu trên 5 token, contract sẽ tạo ra 1 đường link đến masternode của riêng bạn!<br><br> Bất cứ khi nào có một ai đó truy cập website này thông qua đường link này, masternode của bạn sẽ được lưu trong 1 cookie trên máy họ, cookie này sẽ ghi nhớ tất cả những lần mua P3D của họ, hiện tại và trong cả tương lai."
+						},
+						{
+							"title": "Thế tôi được cái gì?",
+							"text": "<b>Ethereum!</b> Bất cứ khi nào họ mua P3D với đường link masternode của bạn, <strong>bạn sẽ ngay lập tức nhận 33% phí mua mà đáng ra họ sẽ phải trả cho contract, dưới dạng ETH</strong> - không hỏi han, không thủ tục lằng nhằng."
+						}
+					]
+				},
+				"masternode": {
+					"title": "Đường link masternode của tôi",
+					"link": "Đường link masternode của bạn là...",
+					"pointers": "Một số gợi ý chung để mở rộng mạng lưới của bạn:",
+					"list": [
+						"Tiếp cận các thành viên trong các hội nhóm mà bạn biết",
+						"Nói về powh.io trong các nhóm đó một cách tự nhiên nhất để có cơ hội tối đa.",
+						"Sử dụng <a href='https://powh.io/shill-kit.html'>shill-kit, nó được thiết kế để mọi người muốn ấn vào link của bạn!</a>",
+						"Hãy trung thực. Giới thiệu về khái niệm của PoWH và cảm nhận của bạn về dự án này.",
+						"Đừng nói dối hoặc hứa hẹn bất cứ điều gì về lợi nhuận.",
+						"Đừng có chỉ spam đường link masternode của bạn. Thay vào đó hãy nói và thảo luận về dự án.",
+						"Không tuân thủ những điều trên có thể khiến đường link masternode của bạn bị cấm hoạt động.",
+						"Yêu cầu để được sở hữu 1 masternode có thể thay đổi theo thời gian, nên hãy tái đầu tư lợi nhuận của bạn đi nhé.",
+						"Phòng trường hợp bạn nghĩ mình thông minh hơn người, chúng tôi sẽ nói luôn là không dùng link masternode của chính mình để mua được đâu."
+					]
+				},
+				"tracker": {
+					"title": "theo dõi lượng truy cập...",
+					"text": "Tổng lượng truy cập qua masternode <br>(Tính năng này hiện tại chưa hoạt động)"
+				},
+				"earnings": {
+					"text": "Lợi nhuận từ masternode"
+				},
+				"recent": {
+					"title": "Các lần mua qua masternode của bạn",
+					"date": "Thời gian",
+					"tx": "Giao dịch",
+					"address": "Địa chỉ",
+					"profit": "Lợi nhuận"
+				}
+			}
+		}
+	} 
+}
