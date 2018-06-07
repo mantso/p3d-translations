@@ -1,0 +1,340 @@
+{
+	"masthead": {
+		"slider": [{
+				"headings": [
+					"En blockkedjehanterad,",
+					"smart-contract-ekonomi",
+					"i tre dimensioner"
+				],
+				"sub": "Den första token helt uppbackad av Ethereum är också dess mest populära Dapp. (Källa: Dappradar.com)",
+				"button": "Testa ditt grepp"
+			},
+			{
+				"headings": [
+					"Du får en del",
+					"Av varje betald avgift"
+				],
+				"sub": "Volymbaserad inkomst, lite som UBI, men inte lika mycket av ett skämt."
+			},
+			{
+				"headings": [
+					"Mina Svaga Händer",
+					"Inte Blockkedjan"
+				],
+				"sub": "Lita på oss, mycket enklare."
+			},
+			{
+				"headings": [
+					"Dela din Masternod",
+					"Bygg ditt eget Nätverk"
+				],
+				"sub": "Lita på oss, mycket enklare."
+			},
+			{
+				"headings": [
+					"Lek med ett 3D-Ekosystem",
+					"Njut av multidimensionella vinster"
+				],
+				"sub": "Fast bara vanliga förluster, vi arbetar på den biten."
+			}
+		]
+	},
+	"explanation": {
+		"header": "Hur funkar det?",
+		"lead": "På varje transaktion, köp eller sälj, läggs en fast transaktionsavgift på 10%.",
+		"hover": "Bevis på Svaga Händer",
+		"bold": "Istället för att det här går till handelsplatsen,<br> delas avgiften upp <i>mellan alla för närvarande ägda tokens!</i>",
+		"more": "10% av all volym den här cryptovalutan någonsin erhåller sätts åt sidan för er tokeninnehavare som Ethereum-belöningar vilka du direkt kan ta ut när du känner för det.",
+		"bottom": "Helt decentraliserad, Människor kan inte stänga ner den."
+	},
+	"details": [{
+			"title": "OPEN SOURCE",
+			"content": [
+				"Alla Ethereum-transaktioner hanteras av en bit icke förändringsbar blockkedjeprogrammering mer känt som smart kontrakt.",
+				"Ingen anledning till oro, do anförtror bara dina hårt förtjänade ETH till <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>en algoritmisk robotbokförare</a></b> körandes på ett decentraliserat blockkedjenätverk skapat av <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>en rysk galning värd miljarder</a></b>, hållandes i schack av subventionerade Kinesiska GPU-farms som konsumerar<b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>en mängd elektricitet större än de flesta länder i tredje världen</a></b>, uppehållandes en börs som kör utan någon som helst mänsklig inverkan så länge som Ethereum-nätverket existerar",
+				"Välkommen till cryptovaluta.",
+				"Dina tokens är säkra, annars hade någon skrikit på oss nu."
+			]
+		},
+		{
+			"title": "SMART BÖRS",
+			"content": [
+				"För att främja ett smidigt inträde i den här autonomt hanterade volymetriskt belönande galenskapen har vi skapat vår egen decentraliserade börs för att låta dig handla och följa dina tokens automatiskt."
+			],
+			"list": [
+				"Följ denna tokens handelsvolym och din uppskattade inkomst från handelsavgifter.",
+				"Skratta åt alla andra idioter som sätter in ETH i den här galenskapen",
+				"Sluta skratta för det är mycket ETH",
+				"<b>Köp mer</b> <i>(fomo tillbaka in)</i>"
+			]
+		},
+		{
+			"title": "TILLGÅNG = VÄRDE",
+			"content": [
+				"<b>För varje token som läggs in eller tas ur circulation ökar eller minskar priset på nästa token automatiskt</b> med en fraktionerad mängd ETH (ca .0000001 ETH).",
+				"När folk köper blir dina tokens värda ytterst lite mer, när de säljer, ytterst lite mindre. Börsen hanterar det här åt dig, du behöver inte ägna priset någon tanke!",
+				"Lite vemod behövs då och då så att du vet när de goda tiderna kommer."
+			]
+		},
+		{
+			"title": "MINING <i>(Se snek-diagrammet)</i>",
+			"content": [
+				"Vår tokens namne är en feature vi kärleksfullt kallar 'Ethereum mining-algoritmen Bevis på Svaga Händer'",
+				"Enkelt förklarat, när någon väljer att köpa, sälja eller handla tokens, dras en transaktionsavgift på 10%. Den avgiften, bevis på handlarens svaga händer, delas upp på alla tokens som är i cirkulation för närvarande som belöning till de som håller dem. Köparens nyinköpta tokens läggs till cirkulationen före avgiften allokeras.",
+				"Alla som håller tokens kan ta ut sin andel av dessa förtjänster när de vill, i ETH, från det smarta-kontraktets pool, inga avgifter tillkommer.",
+				"Ser du den söta sneken? Han fångar upp belöningar för dig på varje handel, oavsett vad som händer med tokenpriset!"
+			]
+		},
+		{
+			"title": "STAKING",
+			"content": [
+				"Utöver mining kan du staka 5 av dina egna tokens för att skapa <b>de första Ethereum-masternoderna; Någonsin.</b>",
+				"Äger du en masternod får du en unik länk till vår webbsida som det smarta kontraktet känner igen, vem som helst som köper in i kontraktet via din länk får 33% av alla avgifter de annars hade betalt in i kontraktet, omriktade till dig instället som direkt Ethereum-vinst.",
+				"Det här är den <font color='009f00'>aktiva vinstkomponenten</font> av vårt kontrakt, vi låter dig bygga ditt eget nätverk som belönar dig!",
+				"Ja, våra staking- och miningsystem är komiska jabbar mot cryptovaluta som helhet, de är också omåttligt mycket roligare, <b>och belönar med (ETH) istället för något som 'kanske' har värde senare.</b>"
+			]
+		},
+		{
+			"title": "TA UT NÄR SOM HELST",
+			"content": [
+				"Det där Smarta kontraktet <i>(din nya robotbokföringskompis)</i> håller allt Ethereum någonsin stoppat in i köp av dessa tokens, och <b> kommer gärna ge dig all Ethereum vi är skyldiga dig</b> oavsett när du vill ta ut, eller dumpa dina tokens. Din svaghänte dåre.",
+				"Roboten är också likgiltig inför människans situation, kan inte stoppas, stängas ner, eller avslutas förutom av Ethereumnätverkets död."
+			]
+		},
+		{
+			"title": "<b>SPARKNOTES</b>",
+			"list": [{
+					"header": "Helt hanterat av ett smart kontrakt",
+					"content": "Ingen mänsklig inblandning i hanteringen av Ethereum. Ingen alls. Punkt och slut."
+				},
+				{
+					"header": "Automatisk prissättning",
+					"content": "Värdet är direkt relaterat till hur många tokens som existerar vid en given tidpunkt."
+				},
+				{
+					"header": "Volymbaserad förtjänst",
+					"content": "10% av all volym dras som avgift, och delas automatiskt ut som Eth till alla tokenägare."
+				},
+				{
+					"header": "Staking som aktiv inkomst",
+					"content": "Masternodsystemet tillåter dig att rekrytera fler och få direkta ETH-belöningar. Plus att alla drar nytta av volymen!"
+				},
+				{
+					"header": "Inte en 'concept-token'",
+					"content": "Varje token har egenvärde, eftersom varje token är uppbackad av de Eth som redan finns i kontraktet <i>(försök att hitta en annan crypto som har det).</i>"
+				},
+				{
+					"header": "Seriös på alla fel sätt",
+					"content": "Kolla på den söta snek-maskoten som representerar din finansiella framtid."
+				}
+
+			]
+		}
+	],
+	"stats": {
+		"balance": "ETH I KONTRAKTET",
+		"transactions": "TRANSAKTIONER",
+		"volume": "MEDELVOLYM 24 H",
+		"memes": "MEMES/H"
+	},
+	"cta": {
+		"top": "PROVA VÅR DECENTRALISERADE BÖRS",
+		"bottom": "BÖRJA NU!"
+	},
+	"points": [{
+			"title": "3D-spekulering",
+			"content": "Istället för att simpelt spela med priset över tid som de flesta crypto har vi lagt till volymen till mixen. Hodl kanske till slut är en bra långvarig idé. <i>(Istället för orsaken till att du är ner 50%)</i>"
+		},
+		{
+			"title": "Decentraliserad, designad att fungera för evigt.",
+			"content": "Hela systemet är helt utan mänsklig interaktion. Det är självstyrt, exekverat av den kollektiva Ethereum-blockkedjan. Masternoder lägger till och med till ett lönsamt expansionssystem per användare, som tillåter kontraktet att köra så länge det finns intresserade spelare, eller verkligt dedikerade spammare."
+		},
+		{
+			"title": "Barmhärtiga Volymbaserade Belöningar",
+			"content": "Kraschar Bitcoin? Cryptos uppgång och fall har bränt ut dig? Vårt kontrakt är designat att vara en smart plats att låta dina Ethereum generera värde när det finns handelsvolym. Du kan luta dig tillbaka och oroa dig över andra saker, som den västerländska civilisationens fall."
+		}
+	],
+	"socials": {
+		"title": "Dela Vinst, Dela Förlust"
+	},
+	"features": {
+		"title": "Guide till Framgång",
+		"sub": "<i>Smart-</i>Gaming <i>smart-</i>tips från ett <i>smart-</i>Pyramid <i>smart-</i>meme <i>smart-</i>coin.",
+		"points": [{
+				"title": "Förvärva",
+				"content": "Vad mer skulle det här steget kunna vara?"
+			},
+			{
+				"title": "Slappna av",
+				"content": "Det var allt, du är redan en vinnare.<br><br>Med kontinuerlig volym kommer du att få ett stadigt flöde med ETH så länge du kommer och samlar in."
+			},
+			{
+				"title": "Starka Händer",
+				"content": "Ge inte upp, du förlorar faktiskt bara när du säljer."
+			},
+			{
+				"title": "Tillämpa Masternod",
+				"content": "Masternod-anslutningar kan ge en stadig ström med ETH, oavsett hur stort kontraktet blir kommer du alltid att kunna se en direkt effekt<br><br>Var som helst där du har en unik chans att leda andra hit bör du använda din masternod!"
+			},
+			{
+				"title": "Seriöst, Masternoder",
+				"content": "Vår sajt kommer ihåg vem du tog hit, du får credit för varje P3D-token de köper i framtiden<br><br>Videos, Tutorials, Artiklar, Webbsidor, Marknadsföring, Dappar, Grafer, Statistik, allt<br><br>Ju smartare ditt nätverk, desto mer kommer du att tjäna, vi uppmuntrar att du fixar din masternod"
+			}
+		]
+	},
+	"inspiration": {
+		"title": "Inspirationsbräde",
+		"sub": "EFTERSOM DÅLIGA IDÉER SOM VÅR ÄR BYGGDA PÅ DE KUMULATIVA MISSTAGEN AV CRYPTOCOMMUNITIN",
+		"people": [{
+				"name": "Vitalik Buterin",
+				"content": "Vill faktiskt implementera Proof of Stake till Ethereum; lite som vår token fast med extra steg.",
+				"title": "Ethereum: Skapare"
+			},
+			{
+				"name": "Vitalik's Skjorta",
+				"content": "Vi är bara lite oroliga okey.",
+				"title": "Tyg: Bomull"
+			},
+			{
+				"name": "John Mcaffee",
+				"content": "Efterlyst av de Brazilianska myndigheterna för inblandning i mord, kontrollerar marknaden med ett enda tweet.",
+				"title": "Skitpostare: Känd"
+			},
+			{
+				"name": "Mark Karpeles",
+				"content": "'Förlade' en massiv mängd bitcoins från MtGox vilka såldes på marknaden för DET TOTALA VÄRDET AV MARKNADEN vilket kraschade bitcoin; arresterades sedan, kom ut, 'Hittade' några av de förlagda bitcoinen och fortsatte med att använda dem för att sätta på 25+ prostituerade innan polisen kom ikapp och arresterade honom igen. Nu behöver Mt.Gox konkursbo sälja sina bitcoin för att kompensera offren av hans 'Felplacering' vilket kraschar Bitcoin... igen.",
+				"title": "CEO: Mt.Gox, Dödsbringare för Bitcoin"
+			},
+			{
+				"name": "Fidget Spinners",
+				"content": "Inte decentraliserade, kryptografiska eller designade så att du inte kan skapa mer när du känner för det. Överprisade över 2 kronor.",
+				"title": "Eller menar vi: Ripple"
+			},
+			{
+				"name": "Carlos Matos",
+				"content": "Stillbild: Firsta tillfället med uppenbar ånger. Record Scratch: Du kanske undrar hur jag hamnade i den här situationen...",
+				"title": "Du borde veta vid det här laget"
+			},
+			{
+				"name": "Satoshi Nakamoto",
+				"content": "Hårdaste händer mänskligheten känner till, har inte rört sin bitcoin plånbok sedan 2010, Eller sin Bitcoin: Cash, Gold, God, Platinum, X, Dark, E, Silver, Z, Plus, Scrypt, E-Cash, Lite, Planet, Red, Fast, 21, Anti, Diamond, United, X, Super, White, Atom, First, eller Rabbit fork plånböcker heller. Förutom Segwit eftersom de bedragande utvecklarna tog hans coins själva.",
+				"title": "Bitcoin: Uppfinnare"
+			},
+			{
+				"name": "Colin LeMahieu",
+				"content": "Skapade en valuta med tre unika egenskaper, inte nog med att den är direkt och utan transaktionsavgifter. Men om du äger den kan du skicka den DUBBELT!",
+				"title": "Nano (Raiblocks): Uppfinnare"
+			},
+			{
+				"name": "Jackson Palmer",
+				"content": "I en vacker utvecklar-JUST, den här Nu-male dumskallen kunde inte lista ut hur han skulle premina coinet han just hade skapat, och fick bara någonsin en struntsumma med dogecoins innan han argt övergav projektet eftersom hans miners BTFO hans egen maskin inom 7 minuter efter kontraktsskapandet;",
+				"title": "DogeCoin: Skapare"
+			},
+			{
+				"name": "Sergey Nazarov",
+				"content": "Ingen vet riktigt hur det ska användas eller what det gör. Men jag lyfter på hatten för kvalitén på skämten som omger chainlink, folk köper den eftersom det är roligt och till slut är det vad som spelar roll.",
+				"title": "Chainlink: Mememaster"
+			},
+			{
+				"name": "Jared Rice",
+				"content": "Svor upp och ner till investerare att hans team hade köpt en FDIC Försäkrad Bank som de skulle köra decentraliserad på blockkedjan. Samlade in 600m i en ICO innan SEC knackade på dörren iklädda kravallutrustning. ",
+				"title": "AriseBank ICO: Grundare"
+			},
+			{
+				"name": "Marquis Trill",
+				"content": "Mycket möjligt den störste pump and dump-organisatören för cryptovalutor. Han köper, Tweetar till sina 5m följare, den pumpas, en vecka senare säljer han och skapar panik; vilket låter honom köpa in på botten igen. Det som är djävligt imponerande är att han fortfarande håller på dessutom!",
+				"title": "Twitter: Den Mest Inflytelserika Crypto Shillaren"
+			},
+			{
+				"name": "XVG Whale",
+				"content": "Marknadsmanipulationen runtomkring XVG är så illa ställd att när deras talesperson gjorde en halvdan video med sig själv (Uppklädd som syns); En enda plånbok dumpade direkt sina coins för att skapa panik och den efterföljande kraschen tog ner marknaden 90%, vid vilket samma plånbok köpte upp 14% av den totala mängden XVG. Nästa dag uttalade sig den samme 'Talespersonen' om en massiv uppdatering till XVG (wraith) och dess releasedatum.",
+				"title": "Investerare / Dev Sanktionerad PR: XVG (Verge)"
+			},
+			{
+				"name": "Charlie Lee",
+				"content": "Den här galningen blev anställd av coinbase, gick vidare till att shilla det interna utvecklingsteamet tills de gick med på att lägga till hans eget coin till deras sajt; och sedan dumpade han alla sina egna coins på toppen. LEVER, DRÖMMEN.",
+				"title": "Litecoin: Grundare"
+			},
+			{
+				"name": "Charles Ponzi",
+				"content": "En känd italiensk svindlare som var så framgångsrik med att betala av sina gamla investerare med nya investerares pengar att han lyckades övertyga världen att han var den förste att göra det, och svindlade därmed de tidigare uppfinnarna av svindeln från titeln. Det är äkta talang.",
+				"title": "Vi är mer som ett timglas, sanden i mitten = volym."
+			},
+			{
+				"name": "Cryptovaluta Investerarhund",
+				"content": "Alltid där och påminner dig att han är smartare än du.",
+				"title": "PoWH3D: Först att Köpa in"
+			}
+
+		]
+	},
+	"shower": [{
+			"title": "Inga Människor Tillåtna",
+			"content": "Till skillnad från 'Investeringsmotorer' som Bitconnect är Powh3D hanterat helt och hållet av ett smart kontrakt. Inga människor alls är involverade i att sköta om dess ethereum. Punkt och slut."
+		},
+		{
+			"title": "Fritt Utbytbar",
+			"content": "Vår tokens överföringssystem är byggt för att automatiskt ta 10% av alla handlade tokens, smälta de till ETH, och skicka ut dem till alla andra. Även om handeln sköts utanför kontraktet själv. Börssupporten har aldrig betalt dig tidigare, eller hur?"
+		},
+		{
+			"title": "Universella Volymbasede Belöningar",
+			"content": "Konceptet för UBI innebär att beskatta varje transaktion och betala ut det till alla; crypto är den perfekta platsen att ta inspiration från den modellen. Men att kalla det för 3D låter grymt mycket coolare än vad de där hippisarna kallar det."
+		}
+	],
+	"shill": {
+		"title": "Shill Kit",
+		"sub": "Bara ett smakprov, det finns mer på <a href='shill-kit.html'><b>Shill Kit</b></a>-sidan",
+		"categories": [
+			"Alla",
+			"GIF",
+			"Logo",
+			"Hög Kvalité"
+		]
+	},
+	"benefactors": {
+		"title": "Gjort möjligt av"
+	},
+	"menu": [
+		"hem",
+		"community",
+		"decentraliserad börs",
+		"wiki",
+		"shill kit"
+	],
+	"titles": {
+		"points": "Får Dig Verkligen att Tänka",
+		"shower": "SLUTGILTIGA DUSHTANKAR",
+		"shill" : "Se Alla",
+		"home" : "PoWH3D: Cryptovaluta i Tre Dimensioner"
+	},
+	"languages":  {
+		"en": "English",
+		"de": "German",
+		"sv": "Swedish"
+	},
+	"faq": {
+		"title": "SVAR",
+		"answers": [
+			{
+				"title": "<i class='ion ion-help-circled left'></i>Frågor?",
+				"content": "<p>Vår community är mer än glad att kunna besvara alla frågor du kan tänkas ha! prova vår <a href='https://discord.gg/Y6CHepn'> discord</a> för att chatta med riktiga människor och några smarta meme-bots (inklusive utvecklarna).   </p><p>Eller om du bara vill läsa mer om hur allt funkar: Prova vår <a href='https://powh3d.hostedwiki.co/'> wiki</a></p>"
+			},
+			{
+				"title": "<i class='on ion-help-buoy left'></i>Skämt?",
+				"content": "<p>Du kanske har märkt att vi skämtar rätt hårt om den här valutan: vi har pyramidbilder på sajten, medvetet satt fel namn på nästan alla egenskaper, och till och med har hela sektioner som refererar andra cryptovaluta-'bluffar' bland våra välgörare / rådgivare.</p><p>För alla som njuter av humor borde det här vara uppenbara lättvindiga skämt om tillståndet på cryptovalutor i stort, det sorgliga tillståndet med ICO:er som lovar allt medan Ethereumet de fick försvinner ner i plånböcker och aldrig syns till igen. Allt medan populära buzz-words som 'Masternod' 'Staking' 'Decentralisering' 'Smart Kontrakt' eller 'Ekosystem' för att hypa en produkt som inte existerar.</p><p><b>Med det sagt, ironiskt nog är vår token en fullt fungerande produkt som skulle fortsätta köra även om alla utvecklare skulle försvinna.</b></p><p>Håll dig uppdaterad angående våra mål att avancera ICO-modellen till att på riktigt inte kräva något förtroende.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Är det här en Bluff?",
+				"content": "<p>Ganska mycket av feedback (läs: attacker) på vår plattform hävdar att produkten är en Pyramid- eller Ponzi-bluff.</p><p>'Bevis på Svaga Händer'-mekanismen matchar egentligen inte någon av de här etiketterna, men vi förstår att det är svårt att greppa det här till att börja med. Vi är medvetna om att förtroendelöst smart-kontrakt-hanterat värde på det här viset helt enkelt inte var möjligt före den här punkten i datorhistorien. Det finns inget bluffande här alls -- det är uppriktigt, ärligt och helt genomskinligt.</p><p>Sättet vi gillar att beskriva det är att peka ut att på alla platser där vi använder pyramidbilder så är pyramiden speglad av en uppochnedvänd kopia i himlen för att representera av vi har skiftat fokuspunkten mellan de två spetsarna</p><p>I en vanlig pyramidbluff tjänar de första investerarna mest från spelet eftersom nya investerares pengar rör sig mot toppen. I en omvänd pyramidbluff sätts målet på högkant för att försöka växa exponentiellt genom att försöka belöna nyare investerare mest. </p><p><b>I vårt fall är inget av det sant. Vi bestraffar helt enkelt alla.</b></p><p>Figuren formar istället ett timglas med båda sidor i konstant konflikt. Precis som i ett timglas är det flödet av sand (eth-volym) mellan de två pyramiderna som är den primära komponenten i spelet utan att belöna varken de första eller sista investerarna. Utan helt enkelt alla som håller sin token så hårt de kan genom de många prisfluktuationerna. </p><p>Kalla det en 'Timglasmodell' om du måste tilldela en titel, det vore åtminstone korrekt.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Just Token?",
+				"content": "<p>Om du har gjort en transaktion i en Ethereum-plånbok nyligen finns det chans att du har fått en '<b>JUST powh.io</b>'-token, som kanske t o m tog dig hit! </p><p>Den här token var vårt smarta sätt att exploatera ERC20-mekanismen att ge alla som har en eth-plånbok en marknadsföringstoken. Den gavs egentligen till dig som en gåva från en av våra community-medlemmar som körde ett miningprogram med syftet att medvetet sprida denna token till så många plånböcker som möjligt eftersom jag gissar att vi också är de första utvecklarna som har en crypto-miner som ger andra människor tokens. </p><p>Inom 3 dagar blev vår token den största och mest ägda ERC20-token i världen, synlig i 1,6 miljoner+ plånböcker.</p><p>Vi är ledsna att behöva informera dig att denna marknadsföringstoken är värdelös, kan inte handlas, säljas, eller ens lösas in för värde. Alla försök att ta bort den från din plånbok kommer helt enkelt resultera i att du får fler av dem</p><p>Behåll den, det är vår lilla gåva från vår community till dig!</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>Whitepaper?",
+				"content": "<p><b>Summering:</b> En decentraliserad ekonomisk simulation av en algoritmiskt styrd cryptovaluta i vilken alla skatter på alla transaktioner automatiskt belönar nuvarande ägare istället för det styrande organet; resulternde i en universell passiv inkomst baserad på adoption och transaktionsvolym.</p><p><b>PoWH3D</b> är en fantasi-blir-verklighet-blockkedjetvingad simulering av <a href='https://en.wikipedia.org/wiki/Pareto_efficiency'><i><b>självavlägsnande från paretooptimalitet</b></i></a>; ett ekonomiskt koncept i vilket det inte längre finns något sätt för en allokering av resurser att förbättras utan att skada en deltagare i modellen. I det här fallet är skadan medvetet självpåtagen tack vare brist på tålamod gentemot andra opponenter, eller som en entrekostnad för att börja spela spelet.</p><p>Resultatet av det här experimentet med mänskligt temperament är en ömsesidigt förmånlig överenskommelse för alla andra deltagare i modellen baserat på beslutet av andra att bryta Paretooptimalitet genom att gå in i eller lämna kontraktet. Den mest unikt uttryckta fördelen är i form av passiv Ethereum-inkomst genererad från avgifter pålagda på andra spelare med deras in- eller utträde ur spelet. De här kostnaderna distribueras till tokenägare som en form av andelsbaserad avkastning. Den resulterade volymbaserade inkomsten lägger till en uttrycksfull tredje dimension till de vanliga pris/tid-kalkylerna som är allmänt förekommande i cryptovalutor idag.</p>"
+			}
+		]
+	}
+}
