@@ -51,15 +51,15 @@
 			"title": "OPEN SOURCE",
 			"content": [
 				"Alla Ethereum-transaktioner hanteras av en bit icke förändringsbar blockkedjeprogrammering mer känt som smart kontrakt.",
-				"Ingen anledning till oro, do anförtror bara dina hårt förtjänade ETH till <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>en algoritmisk robotbokförare</a></b> körandes på ett decentraliserat blockkedjenätverk skapat av <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>en rysk galning värd miljarder</a></b>, hållandes i schack av subventionerade Kinesiska GPU-farms som konsumerar<b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>en mängd elektricitet större än de flesta länder i tredje världen</a></b>, uppehållandes en marknadsplats som kör utan någon som helst mänsklig inverkan så länge som Ethereum-nätverket existerar",
+				"Ingen anledning till oro, do anförtror bara dina hårt förtjänade ETH till <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>en algoritmisk robotbokförare</a></b> körandes på ett decentraliserat blockkedjenätverk skapat av <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>en rysk galning värd miljarder</a></b>, hållandes i schack av subventionerade Kinesiska GPU-farms som konsumerar<b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>en mängd elektricitet större än de flesta länder i tredje världen</a></b>, uppehållandes en börs som kör utan någon som helst mänsklig inverkan så länge som Ethereum-nätverket existerar",
 				"Välkommen till cryptovaluta.",
 				"Dina tokens är säkra, annars hade någon skrikit på oss nu."
 			]
 		},
 		{
-			"title": "SMART MARKNADSPLATS",
+			"title": "SMART BÖRS",
 			"content": [
-				"För att främja ett smidigt inträde i den här autonomt hanterade volymetriskt belönande galenskapen har vi skapat vår egen decentraliserade marknadsplats för att låta dig handla och följa dina tokens automatiskt."
+				"För att främja ett smidigt inträde i den här autonomt hanterade volymetriskt belönande galenskapen har vi skapat vår egen decentraliserade börs för att låta dig handla och följa dina tokens automatiskt."
 			],
 			"list": [
 				"Följ denna tokens handelsvolym och din uppskattade inkomst från handelsavgifter.",
@@ -72,7 +72,7 @@
 			"title": "TILLGÅNG = VÄRDE",
 			"content": [
 				"<b>För varje token som läggs in eller tas ur circulation ökar eller minskar priset på nästa token automatiskt</b> med en fraktionerad mängd ETH (ca .0000001 ETH).",
-				"När folk köper blir dina tokens värda ytterst lite mer, när de säljer, ytterst lite mindre. Marknadsplatsen hanterar det här åt dig, du behöver inte ägna priset någon tanke!",
+				"När folk köper blir dina tokens värda ytterst lite mer, när de säljer, ytterst lite mindre. Börsen hanterar det här åt dig, du behöver inte ägna priset någon tanke!",
 				"Lite vemod behövs då och då så att du vet när de goda tiderna kommer."
 			]
 		},
@@ -138,7 +138,7 @@
 		"memes": "MEMES/H"
 	},
 	"cta": {
-		"top": "PROVA VÅR DECENTRALISERADE MARKNADSPLATS",
+		"top": "PROVA VÅR DECENTRALISERADE BÖRS",
 		"bottom": "BÖRJA NU!"
 	},
 	"points": [{
@@ -178,7 +178,7 @@
 			},
 			{
 				"title": "Seriöst, Masternoder",
-				"content": "Vår sajt kommer ihåg vem du tog hit, du får credit för varje P3D-token de köper i framtiden<br><br>Videos, Tutorials, Artiklar, Webbsidor, Marknadsföringsplats, Dapps, Grafer, Statistik, allt<br><br>Ju smartare ditt nätverk, desto mer kommer du att tjäna, vi uppmuntrar att du fixar din masternod"
+				"content": "Vår sajt kommer ihåg vem du tog hit, du får credit för varje P3D-token de köper i framtiden<br><br>Videos, Tutorials, Artiklar, Webbsidor, Marknadsföring, Dappar, Grafer, Statistik, allt<br><br>Ju smartare ditt nätverk, desto mer kommer du att tjäna, vi uppmuntrar att du fixar din masternod"
 			}
 		]
 	},
@@ -274,7 +274,7 @@
 		},
 		{
 			"title": "Fritt Utbytbar",
-			"content": "Vår tokens överföringssystem är byggt för att automatiskt ta 10% av alla handlade tokens, smälta de till ETH, och skicka ut dem till alla andra. Även om handeln sköts utanför kontraktet själv. Marknadsplatssupporten har aldrig betalt dig tidigare, eller hur?"
+			"content": "Vår tokens överföringssystem är byggt för att automatiskt ta 10% av alla handlade tokens, smälta de till ETH, och skicka ut dem till alla andra. Även om handeln sköts utanför kontraktet själv. Börssupporten har aldrig betalt dig tidigare, eller hur?"
 		},
 		{
 			"title": "Universella Volymbasede Belöningar",
@@ -297,7 +297,7 @@
 	"menu": [
 		"hem",
 		"community",
-		"decentraliserad marknadsplats",
+		"decentraliserad börs",
 		"wiki",
 		"shill kit"
 	],
