@@ -1,48 +1,48 @@
 {
 	"masthead": {
-		"holdings": "Holdings",
-		"balance": "{{balance}} ETH in contract"
+		"holdings": "持仓",
+		"balance": "{{balance}} ETH 在智能合约上"
 	},
 	"menu": {
 		"exchange" : [
-			"Exchange",
-			"Sell & Withdraw",
-			"Transfer",
-			"Holdings"
+			"交易",
+			"卖出 & 提现",
+			"转移",
+			"持仓"
 		],
-		"staking": "Staking & Masternode",
-		"news": "News",
-		"chat": "Chat",
-		"explorer": "Explorer"
+		"staking": "股份 & 主节点",
+		"news": "新闻",
+		"chat": "聊天",
+		"explorer": "探索"
 	},
 	"notifications": {
-		"loading": "Loading...",
-		"cancelled": "Transaction was cancelled by the user.",
-		"error": "An error occured",
-		"withdrawalSubmitted": "Withdrawal request has been transmitted to the blockchain. Awaiting confirmation..", 
-		"sellSubmitted": "Sell order has been transmitted to the blockchain. Awaiting confirmation..",
-		"sellConfirmed": "Your P3D token sell order has been confirmed by the blockchain! You succesfully sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"sellExternal": "Someone else just sold {{tokens}} P3D tokens for {{eth}} ETH.",
-		"buySubmitted": "Buy order has been transmitted to the blockchain. Awaiting confirmation..",
-		"buyConfirmed": "Your P3D token purchase order has been confirmed by the blockchain! You succesfully bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"buyExternal": "Someone else just bought {{tokens}} P3D tokens with {{eth}} ETH.",
-		"transferSubmitted": "Transfer order has been transmitted to the blockchain. Awaiting confirmation..",
-		"transferConfirmed": "Your P3D token transfer order has been confirmed by the blockchain! You succesfully transfered {{tokens}} P3D tokens.",
-		"transferExternal": "Someone else just transferred {{tokens}} P3D tokens."
+		"loading": "加载中...",
+		"cancelled": "交易被用户取消.",
+		"error": "发生了一个错误",
+		"withdrawalSubmitted": "提现申请已经发送到智能合约. 请等待确认..", 
+		"sellSubmitted": "卖出申请已经发送到智能合约. 请等待确认..",
+		"sellConfirmed": "您的卖出申请已经确认! 您成功卖出了 {{tokens}} P3D 币 获得了 {{eth}} ETH.",
+		"sellExternal": "有人刚刚卖出了 {{tokens}} P3D 币 获得了 {{eth}} ETH.",
+		"buySubmitted": "购买申请已经发送到智能合约. 请等待确认....",
+		"buyConfirmed": "您的购买申请已经确认! 您成功买入了 {{tokens}} P3D 币 获得了 {{eth}} ETH.",
+		"buyExternal": "有人刚刚买入了 {{tokens}} P3D 币 获得了 {{eth}} ETH.",
+		"transferSubmitted": "转移申请已经发送到智能合约. 请等待确认..",
+		"transferConfirmed": "您的P3D币转移申请已经被确认! 你成功转移了 {{tokens}} P3D 币.",
+		"transferExternal": "有人转移了 {{tokens}} P3D 币."
 	},
-	"footer": "This is an entertainment platform, not an investment platform, are you not entertained?",
+	"footer": "这是一个娱乐平台，不是一个投资平台，你不来试试吗？",
 	"pages": {
 		"purchase": {
-			"title": "Purchase tokens",
+			"title": "交易P3D币",
 			"item": {
 				"buy": {
-					"title": "Buy P3D tokens",
-					"spend": "Ethereum to spend",
-					"approx": "Approximately {{amount}} P3D tokens.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Purchase",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "购买P3D币",
+					"spend": "需要支付的ETH",
+					"approx": "大约 {{amount}} P3D 币.",
+					"invalid": "请输入一个有效的数字.",
+					"empty": "输入一个数字可以立即查看预估的价格.",
+					"button": "购买",
+					"hint": "1). 你支付的GAS(手续费)越多,你的交易将确认的越快 ."
 				},
 				"reinvest": {
 					"title": "Reinvest Gauntlet Rewards",
