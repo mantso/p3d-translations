@@ -45,146 +45,146 @@
 					"hint": "1). 你支付的GAS(手续费)越多,你的交易将确认的越快 ."
 				},
 				"reinvest": {
-					"title": "Reinvest Gauntlet Rewards",
-					"button": "Reinvest!"
+					"title": "将分红再投资",
+					"button": "复投!"
 				},
 				"recent": {
-					"title": "Recent buy orders",
-					"date": "Date.",
+					"title": "近期购买订单",
+					"date": "日期.",
 					"tx": "Tx.",
-					"address": "Address"
+					"address": "地址"
 				}
 			}
 		},
 		"sell": {
-			"title": "Sell tokens",
+			"title": "出售P3D币",
 			"item": {
 				"sell": {
-					"title": "Sell P3D tokens",
-					"spend": "Tokens to sell",
-					"approx": "Approximately {{amount}} ETH.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Sell!",
-					"all": "All",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction.",
-					"warning": "Are you sure you want to sell tokens? Selling is admitting to yourself, and everyone else that your hands are no longer strong enough to play. The 10% fee on your sale will definitely appreciated by other holders though.",
-					"confirm": "YES, I HAVE WEAK HANDS.",
-					"deny": "NO, I'VE FOUND NEW STRENGTH."
+					"title": "卖出P3D币",
+					"spend": "P3D币去出售",
+					"approx": "大约 {{amount}} ETH.",
+					"invalid": "输入一个有效的数字.",
+					"empty": "输入一个数字能立即看到预估的价格.",
+					"button": "出售!",
+					"all": "全部",
+					"hint": "1). 你支付的GAS(手续费)越多,你的交易将确认的越快.",
+					"warning": "你确定你要出售P3D币吗? 出售不是一个明智的选择. 你将支付10%的费用给其他P3D币拥有者.",
+					"confirm": "是的, 我要确定要出售了.",
+					"deny": "不, 我需要再考虑下."
 				},
 				"withdraw": {
-					"title": "Outstanding Gauntlet Rewards",
-					"button": "Withdraw",
-					"reinvest": "Reinvest",
-					"warning": "Would you like to withdraw your Gauntlet rewards? Don't worry there's no fee, the Eth is already as good as yours. But if you're enjoying yourself (and the way things are going) you might want to admit insanity and try our reinvest feature. More tokens means you get a larger share of all fees that are ever paid into the contract. It's kinda like doubling down, but you might get double, and you won't get nothing.",
-					"confirm": "YES, TELL THE ROBOT IT'S MY PAYDAY.",
-					"deny": "NO, I LIKE WHERE THIS IS GOING."
+					"title": "你的分红",
+					"button": "提现",
+					"reinvest": "复投",
+					"warning": "你要提现你的分红吗? 不要担心这并没有税率, 你会得到在这显示的所有ETH. 但是你想进行再投资 (争取获得更多的回报) 你可以尝试下复投的选项. 你的P3D币越多意味着你分红的比例越高. 你也许能获得双倍的利润，而且绝不会空手而归.",
+					"confirm": "是的, 告诉智能合约我今天就是要钱.",
+					"deny": "不, 我需要再考虑考虑."
 				},
 				"recent": {
-					"title": "Recent sell orders",
-					"date": "Date.",
+					"title": "最近卖出的订单",
+					"date": "日期.",
 					"tx": "Tx.",
-					"address": "Address"
+					"address": "地址"
 				}
 			}
 		},
 		"transfer": {
-			"title": "Transfer tokens",
+			"title": "转移P3D币",
 			"item": {
 				"transfer": {
-					"title": "Transfer P3D tokens",
-					"spend": "Tokens to send",
-					"recipient": "Wallet of the recipient",
-					"invalid": "Invalid wallet address...",
-					"empty": "Invalid amount of tokens...",
-					"button": "Transfer",
-					"hint": " 1). Remember, there's a flat 10% fee on all tokens transferred <br> 2). Your outstanding Gauntlet Rewards will be automatically withdrawn to your eth wallet when you transfer tokens. Don't freak out.<br> 3). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"title": "发送P3D币",
+					"spend": "币去发送",
+					"recipient": "接受的钱包地址",
+					"invalid": "无效的钱包地址...",
+					"empty": "无效的P3D币数量...",
+					"button": "发送",
+					"hint": " 1). 请注意, 转移P3D币会收 10% 的税 <br> 2).  你的分红会在转移P3D币的同时提现到你的钱包，请不要担心.<br> 3). 你支付的GAS(手续费)越多,你的交易将确认的越快."
 				},
 				"recent": {
-					"title": "Recent transfer orders",
-					"date": "Date.",
+					"title": "最近的转移订单",
+					"date": "日期.",
 					"tx": "Tx.",
-					"from": "From",
-					"to": "To"
+					"from": "从",
+					"to": "到"
 				}
 			}
 		},
 		"holdings": {
-			"title": "My Holdings",
+			"title": "持仓",
 			"item": {
 				"tokens": {
-					"title": "Tokens"
+					"title": "P3D币"
 				},
 				"rewards": {
-					"title": "Rewards",
-					"reinvest": "(if reinvested)"
+					"title": "奖励",
+					"reinvest": "(如果再投资)"
 				},
 				"portfolio": {
-					"title": "Portfolio growth",
-					"description": "The advanced charting module is currently in development."
+					"title": "投资组合增长",
+					"description": "高级绘图模块目前正在开发中。."
 				},
 				"actions": {
-					"buy": "Buy tokens",
-					"withdraw": "Withdraw",
-					"sell": "Sell tokens"
+					"buy": "购买P3D币",
+					"withdraw": "提现",
+					"sell": "出售P3D币"
 				},
 				"configuration": {
-					"title": "Configuration",
-					"description": "Personalization settings will soon come here, inculding the much requested night-mode. Do you have any suggested features? <a href='https://discord.gg/wfG97Kt'>Please stop by in our own chat platform.</a>"
+					"title": "设置",
+					"description": "个性化设置正在开发中, 包括最需要的夜间模式. 您有任何建议吗? <a href='https://discord.gg/wfG97Kt'>请登陆我们的discord频道.</a>"
 				},
 				"recent": {
-					"title": "My transaction history",
-					"date": "Date.",
+					"title": "我的交易历史",
+					"date": "日期.",
 					"tx": "Tx.",
-					"event": "Event"
+					"event": "操作"
 				}
 			}
 		},
 		"staking": {
-			"title": "Staking",
+			"title": "股份",
 			"item": {
 				"description": {
-					"title": "Masternodes...",
+					"title": "主节点...",
 					"columns": [
 						{
-							"title": "Expand the Network!",
-							"text": "If your wallet holds 5 tokens, the contract generates a link to your masternode for you!<br><br> Whenever someone visits the site via this unique link, they have your masternode stored in a cookie that tracks all purchases of P3D they make, now and in the future."
+							"title": "宣传这个网址!",
+							"text": "如果你的钱包有5个P3D币, 智能合约会生成一个你的主节点链接!<br><br> 任何人通过你的链接访问网址, 你的主节点信息会储存在他浏览器的cookie里，他的每次购买你都能受益."
 						},
 						{
-							"title": "What's in it for me?",
-							"text": "<b>Ethereum!</b> Whenever someone purchases with your masternode link, <strong>you instantly receive 33% of the buy-in-fees they would otherwise pay to the contract, in ETH</strong> - no questions asked, no hassle."
+							"title": "这对我来说意味着什么?",
+							"text": "<b>获得更多的ETH!</b> 任何人通过你的链接来到网站购买P3D币, <strong>你会立即收到应该给智能合约的10%税率中33%的ETH作为回报</strong> - 没有问题, 没有麻烦."
 						}
 					]
 				},
 				"masternode": {
-					"title": "My masternode link",
-					"link": "Your unique masternode link is...",
-					"pointers": "General pointers for expanding your own network:",
+					"title": "我的主节点链接",
+					"link": "你的独有的主节点链接...",
+					"pointers": "宣传指南:",
 					"list": [
-						"Try to approach members in communities you're familiar with",
-						"Talk about powh.io on forums in your own language for maximum potential.",
-						"Apply the <a href='https://powh.io/shill-kit.html'>shill-kit, it's designed to make people click your link!</a>",
-						"Be honest. Share the concept behind PoWH and how you feel about the project.",
-						"Don't lie or promise guaranteed returns.",
-						"Don't simply spam your masternode link. Talk about the project instead.",
-						"Failure to oblige to the above rules may result in suspension of your masternode link.",
-						"The masternode staking requirement may change over time, so make sure to reinvest your dividends.",
-						"Just in case you're feeling clever, using your own masternode link doesn't work"
+						"尝试接触与你亲近的人",
+						"在论坛上谈论这个网站 powh.io ,用你自己的语言宣传.",
+						"应用 <a href='https://powh.io/shill-kit.html'>shill-kit, 这为其他人点你的链接而设计!</a>",
+						"诚实.分享你投资P3D的感受.",
+						"永远不要撒谎或者承诺任何回报.",
+						"不要简单的滥发你的主节点链接.用谈论这个项目的方法取而代之.",
+						"不遵守这些规则可能导致你的主节点被暂停.",
+						"主节点的回报率随时可能改变, 所以请及时复投你的分红.",
+						"如果你觉得自己很聪明, 但是很遗憾，自己使用自己的主节点链接并没有奖励"
 					]
 				},
 				"tracker": {
-					"title": "tracking views...",
-					"text": "Total masternode visits <br>(Not working yet)"
+					"title": "记录视图...",
+					"text": "通过你链接的总人数 <br>(现在不工作)"
 				},
 				"earnings": {
-					"text": "Outstanding masternode earnings"
+					"text": "获得的回报"
 				},
 				"recent": {
-					"title": "Your Masternode Conversions",
-					"date": "Date.",
+					"title": "你的主节点交易",
+					"date": "日期.",
 					"tx": "Tx.",
-					"address": "Address",
-					"profit": "Profit"
+					"address": "地址",
+					"profit": "利润"
 				}
 			}
 		}
