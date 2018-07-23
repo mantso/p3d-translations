@@ -1,0 +1,339 @@
+{
+	"masthead": {
+		"slider": [{
+				"headings": [
+					"基于区块链的管理,",
+					"智能合约的经济",
+					"拥有三个维度"
+				],
+				"sub": "前所未有的最受欢迎的DAPP. (来自: Dappradar.com)",
+				"button": "测试你的耐心"
+			},
+			{
+				"headings": [
+					"你会受伤",
+					"每一次交易都会收税"
+				],
+				"sub": "以拥有量为基础的收益, 有点像 UBI, 但这不是开玩笑."
+			},
+			{
+				"headings": [
+					"从颤抖的手中获益",
+					"不是通过区块链"
+				],
+				"sub": "相信我们, 事情将会变的很简单."
+			},
+			{
+				"headings": [
+					"分享你的主节点",
+					"创造你自己的网络"
+				],
+				"sub": "相信我们, 事情将会变的很简单."
+			},
+			{
+				"headings": [
+					"一个 3D 的经济系统",
+					"享受多维收益"
+				],
+				"sub": "尽管会有很小的损失, 但我们正在努力解决."
+			}
+		]
+	},
+	"explanation": {
+		"header": "这是怎么工作的呢?",
+		"lead": "每次交易, 购买或出售, 会有 10% 的税被支付.",
+		"hover": "交易证明机制",
+		"bold": "税并不是支付给了交易所,<br> 这税率 <i>被平分给所有的P3D币持有者!</i>",
+		"more": "10% 的份额, 是为你们P3D币持有者而保留的,比如ETH奖励你可以随时提现它.",
+		"bottom": "基于ETH的完全分布式节点, 人类无法关闭它."
+	},
+	"details": [{
+			"title": "开源",
+			"content": [
+				"每一次ETH交易都是基于不可改变的以太坊智能合约.",
+				"不用担心, 你只是交易以太坊与这个智能合约 <b><a class=' href='https://etherscan.io/address/0xb3775fb83f7d12a36e0475abdd1fca35c091efbe'>一个算法机器人</a></b> 运行在V神创立的以太坊区块链上 <b><a class=' href='https://en.wikipedia.org/wiki/Vitalik_Buterin'>一个俄罗斯人亿万富翁</a></b>, 被中国的GPU矿工所维持 <b><a class=' href='https://digiconomist.net/ethereum-energy-consumption'>比大多数第三世界国家更大的电力</a></b>, 维持一个没有任何人类可以干预的交易，只要存在网络还存在。",
+				"欢迎来到虚拟货币.",
+				"你的P3D币是安全的，否则早就有人想搞个大新闻了."
+			]
+		},
+		{
+			"title": "智能交易",
+			"content": [
+				"为了顺利运行自主管理的奖励机制，我们创建了我们自己的分散式交换机，允许您自动交易和随时查询交易状况。."
+			],
+			"list": [
+				"查询P3D币的交易量, 和你预期的分红收入.",
+				"嘲笑其他所有投入ETH的白痴们",
+				"请停止嘲笑，因为他们投入了许多 ETH",
+				"<b>购买更多</b> <i>(获得巨额回报)</i>"
+			]
+		},
+		{
+			"title": "供给 = 价值",
+			"content": [
+				"<b>每买或卖出一个P3D币价格都在自动变化</b> 通过一个特定 ETH 数量 (大约 .0000001 eth).",
+				"当别人购买的时候，你的P3D币会增值，卖出的时候会贬值. 这个交易会这样进行，请考虑价格!",
+				"总会有不如意的时候，但你要知道光明总会来临."
+			]
+		},
+		{
+			"title": "挖矿 <i>(看蛇形图表)</i>",
+			"content": [
+				"我们喜欢把P3D币叫做 '交易证明机制'",
+				"简单地说，当有人选择购买、出售或交易代币时，将收取10%的交易费用。这笔费用是交易的证明，在流通中的所有P3D持有者上分配，作为对持有它们的人的奖励。买方新购买的代币在分配费用前加入流通。.",
+				"任何持币的人都能获得收入并且不需要付额外的费用，并且随时可以提现.",
+				"你看见那个可爱的蛇了吗? 他会从任何交易中获得奖励,无论币价的多少!"
+			]
+		},
+		{
+			"title": "股份",
+			"content": [
+				"除了获得分红, 你可以用5个币去创造 <b>一个主节点; .</b>",
+				"拥有主节点会给你一个特别的链接, 任何人通过你的链接购买,给智能合约的税中的 33% 的币会分配给你.",
+				"这是 <font color='009f00'>主动增益</font> 我们智能合约的组成部分，我们让你建立自己的主节点并且奖励你!",
+				"是的，我们的采矿和采矿系统整体上是隐蔽的,这会更有趣, <b>a获得 (ETH)的奖励 而不是以后可能会有价值的东西。.</b>"
+			]
+		},
+		{
+			"title": "随时可以提现",
+			"content": [
+				"智能合约 <i>(你的)</i> 把所有这些都放在购买P3D上,然后<b> 会把一切都完成给你</b> 无论何时你想提现，或者卖出，颤抖你的手都是可以的.",
+				"智能合约也对人类的困境漠不关心，不能停止、关闭或结束，直到全世界的网络挂掉。."
+			]
+		},
+		{
+			"title": "<b>说明</b>",
+			"list": [{
+					"header": "完全由聪明的智能合约管理",
+					"content": "没有任何人可以插手.永远!."
+				},
+				{
+					"header": "完全自动的价格",
+					"content": "价格由现有的P3D币总量而决定."
+				},
+				{
+					"header": "成交量收益",
+					"content": "10% 的交易税率会分配给所有持有者."
+				},
+				{
+					"header": "主动的宣传分红",
+					"content": "主节点系统能让你获得丰厚的收益!"
+				},
+				{
+					"header": "不是一个'概念上的' 币",
+					"content": "每个币都有他的价值，都由智能合约上的以太坊来支撑 <i>(请尝试找到其他做到这点的虚拟货币).</i>"
+				},
+				{
+					"header": "大错特错",
+					"content": "看看我们可爱的吉祥物蛇，这是你通往财富自由的未来."
+				}
+
+			]
+		}
+	],
+	"stats": {
+		"balance": "ETH 在智能合约",
+		"transactions": "交易",
+		"volume": "平均 24 小时 总量",
+		"memes": "MEMES/HR"
+	},
+	"cta": {
+		"top": "尝试我们的分布式交易",
+		"bottom": "现在开始!"
+	},
+	"points": [{
+			"title": "3D 的投资模式",
+			"content": "与其他低买高卖的虚拟货币不同, 我们把总量混合了起来. 长期持有也许是个不错的选择. <i>(否则这就是你损失50%的原因)</i>"
+		},
+		{
+			"title": "分布式，设计永远运行.",
+			"content": "这整个系统不被人类所掌控. 他是去中心化的, 由无数的ETH节点组成. 主节点由邀请返利系统, 让这个项目能有源源不断的玩家,和无脑的宣传."
+		},
+		{
+			"title": "仁慈的基于ETH总量的分红",
+			"content": "比特币崩溃了吗?虚拟货币的上蹿下跳让你精疲力尽? 我们的系统能让你从任何交易中获得收益. 你可以放轻松然后干其他事, 就像那些西方富裕国家的废人一样."
+		}
+	],
+	"socials": {
+		"title": "分享 胜利, 分享 失败"
+	},
+	"features": {
+		"title": "成功指南",
+		"sub": "<i>Smart-</i>Gaming <i>smart-</i>tips from a <i>smart-</i>Pyramid <i>smart-</i>meme <i>smart-</i>coin.",
+		"points": [{
+				"title": "购买",
+				"content": "这一步还需要说吗2333?"
+			},
+			{
+				"title": "休息",
+				"content": "是的, 你已经胜利了.<br><br>通过这特有的机制,你能无时无刻收到分红."
+			},
+			{
+				"title": "长期持有",
+				"content": "不要放弃,你只有在卖出的时候才会失败."
+			},
+			{
+				"title": "使用主节点邀请宣传",
+				"content": "主节点邀请返利是立刻的<br><br>在任何地方你都可以宣传你的主节点链接让其他人加入购买!"
+			},
+			{
+				"title": "认真的, 去传销",
+				"content": "我们的网站会记录谁是你带来的,以后他的任何交易你都能立刻得到分红<br><br>视频，教程，文章，网站，分析，欺骗，数据，统计，任何事情<br><br>你越聪明邀请的人越多，你获得的奖励也越多, 我们鼓励这样"
+			}
+		]
+	},
+	"inspiration": {
+		"title": "名人名言",
+		"sub": "因为像我们这样的坏想法是建立在虚拟货币社区的累积失败上的。",
+		"people": [{
+				"name": "Vitalik Buterin",
+				"content": "Actually wants to impliment Proof of Stake into ethereum; kinda like our token but with extra steps.",
+				"title": "Ethereum: Creator"
+			},
+			{
+				"name": "Vitalik's Shirt",
+				"content": "We're just a little worried okay.",
+				"title": "Clothing: Cotton"
+			},
+			{
+				"name": "John Mcaffee",
+				"content": "Wanted by the Brazillian authorities for implications in murder, controls the markets with a single tweet.",
+				"title": "Shitposter: Famous"
+			},
+			{
+				"name": "Mark Karpeles",
+				"content": "'Misplaced' A massive number of bitcoins from MtGox which were market sold for THE ENTIRE MARKET VALUE crashing bitcoin; then was arrested, got out, 'Found' some of the misplaced bitcoins and proceeded to use them to bang 25+ prostitutes before the police caught on and arrested him again. Now Mt.Gox has to sell its personal bitcoin stash to compensate the victims of this 'Misplacement' which, is crashing Bitcoin... again.",
+				"title": "CEO: Mt.Gox, Deathbringer to Bitcoin"
+			},
+			{
+				"name": "Fidget Spinners",
+				"content": "Not decentralized, cryptographic or designed so that you can't print more at will. Overpriced above 25 cents.",
+				"title": "Or do we mean: Ripple"
+			},
+			{
+				"name": "Carlos Matos",
+				"content": "Freeze Frame: First moment of obvious regret. Record Scratch: You might be wondering how i got into this situation...",
+				"title": "You should know by now"
+			},
+			{
+				"name": "Satoshi Nakamoto",
+				"content": "Hardest hands known to man, hasn't touched bitcoin wallet since 2010, Or His Bitcoin: Cash, Gold, God, Platinum, X, Dark, E, Silver, Z, Plus, Scrypt, E-Cash, Lite, Planet, Red, Fast, 21, Anti, Diamond, United, X, Super, White, Atom, First, or Rabbit fork wallets either. Except not Segwit because the scamming devs took his coins for themselves.",
+				"title": "Bitcoin: Inventor"
+			},
+			{
+				"name": "Colin LeMahieu",
+				"content": "Made a currency with three unique features, not only is it instant and feeless to transfer. But if you own it you can send it TWICE!",
+				"title": "Nano (Raiblocks): Inventor"
+			},
+			{
+				"name": "Jackson Palmer",
+				"content": "In a beautiful developer JUST, this Nu-male fool couldn't figure out how to premine the coin he'd just created, and only ever ended up with a paltry amount of dogecoins before he angrily abandoned the project because other miners BTFO his own rig within 7 minutes of contract creation;",
+				"title": "DogeCoin: Creator"
+			},
+			{
+				"name": "Sergey Nazarov",
+				"content": "Nobody's entirely sure how to use it or what it does. But a tip of my hat to the quality of jokes surrounding chainlink, people are buying it because it's funny and in the end that's what matters.",
+				"title": "Chainlink: Mememaster"
+			},
+			{
+				"name": "Jared Rice",
+				"content": "Swore up and down to investors that his team had purchased a FDIC Insured Bank that they were going to run decentralized on the blockchain. Collected 600m in an ICO before the SEC knocked down his door in riot gear. ",
+				"title": "AriseBank ICO: Founder"
+			},
+			{
+				"name": "Marquis Trill",
+				"content": "Quite possibly the largest pump and dump organizer for cryptocurrency period. He buys, Tweets to his 5m followers, it pumps, then a week later he sells and causes a panic; which lets him buy in at the bottom again. The fucking impressive part is that he's still doing it too!",
+				"title": "Twitter: Most Influential Crypto Shill"
+			},
+			{
+				"name": "XVG Whale",
+				"content": "The market manipulation surrounding XVG is so bad that when this spokesperson made a half-assed video of himself (Dressed as shown); A single wallet immediately dumped coins to cause a panic and the ensuing crash brought the price down 90%, at which point that same wallet bought up 14% of the total XVG Supply. The next day this same 'Spokesperson' announced a massive update to XVG (wraith) and its release date.",
+				"title": "Investor / Dev Sanctioned PR: XVG (Verge)"
+			},
+			{
+				"name": "Charlie Lee",
+				"content": "This madman got hired by coinbase, proceeded to shill the internal development teams until they agreed to add his own coin to the site; and then dumped his own personal stash at the top. LIVING, THE, DREAM.",
+				"title": "Litecoin: Founder"
+			},
+			{
+				"name": "Charles Ponzi",
+				"content": "A famous italian swindler so successful at paying out old investors with new investor's money that he managed to convince the world that he was the first one to do it, and swindle the earlier inventors of the scheme out of the title. That's real talent.",
+				"title": "We're more of an hourglass, the sand in the middle = volume."
+			},
+			{
+				"name": "Cryptocurrency Investment Dog",
+				"content": "Always there to remind you that he's smarter than you.",
+				"title": "PoWH3D: First to Buy In"
+			}
+
+		]
+	},
+	"shower": [{
+			"title": "不被人类所掌控",
+			"content": "和 Bitconnect 不同, Powh3D 被智能合约所掌控. 根本没有人参与管理. 永远!."
+		},
+		{
+			"title": "随时可以交易",
+			"content": "我们的系统会在任何交易的时候都收10%的税, 把他们转换成 ETH, 然后分红给所有持有者. 即使是场外交易. 其他交易所从来没有给你付过钱对吧?哈哈哈"
+		},
+		{
+			"title": "基于总量的奖励",
+			"content": "UBI的概念涉及对每一笔交易征税并支付给每个人。; 虚拟货币是绝佳的场所来借鉴这个灵感. 叫它3D似乎比那些嬉皮士所说的更酷."
+		}
+	],
+	"shill": {
+		"title": "宣传工具",
+		"sub": "只是一个体验, 有更多在 <a href='shill-kit.html'><b>宣传工具</b></a> 页面",
+		"categories": [
+			"全部",
+			"动图",
+			"图标",
+			"高质量"
+		]
+	},
+	"benefactors": {
+		"title": "让一切皆有可能"
+	},
+	"menu": [
+		"主页",
+		"社区",
+		"分布式交易所",
+		"Wiki维基百科",
+		"宣传工具"
+	],
+	"titles": {
+		"points": "真正的让你沉思",
+		"shower": "最后的思想风暴",
+		"shill" : "查看全部",
+		"home" : "PoWH3D: 一个三维的虚拟货币"
+	},
+	"languages":  {
+		"en": "English",
+		"de": "German"
+	},
+	"faq": {
+		"title": "回答",
+		"answers": [
+			{
+				"title": "<i class='ion ion-help-circled left'></i>问题?",
+				"content": "<p>我们的社区很乐于助人!尝试加入 <a href='https://discord.gg/Y6CHepn'> discord</a>去和社区其他人聊天或者机器人 (包括开发者).   </p><p>或者你只是想更加详细的了解整个机制: 尝试我们的 <a href='https://powh3d.hostedwiki.co/'> 维基百科</a></p>"
+			},
+			{
+				"title": "<i class='on ion-help-buoy left'></i>笑话?",
+				"content": "<p>你可能已经注意到我们对这种货币开玩笑: 我们在网站上有金字塔的图案, 刻意命名几乎每一个功能, 甚至使用 '欺骗' 在其他数字货币 / 面板中.</p><p>对任何幽默的人我们想说,这是很显而易见的玩笑对于这整个虚拟货币来说, ICO是悲伤的，他们被赋予的空虚的意义，承诺一切，然后你的钱，再也见不到了。. 一直流行的词汇 '主节点' '股份' '去中心化' '智能合约' 或者 'ECO系统'在不存在的产品上炒作.</p><p><b>我想说的是,讽刺我们自己的币只是间接的嘲讽其他坑人骗钱的ICO项目,干一票就走的开发者们</b></p><p>请继续关注我们的目标，推进ICO模式，使之变得真正无可信任的模式。</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>这是一个方案吗?",
+				"content": "<p>相当多的反馈 (来自: 攻击者们) 在我们的平台上声称产品是金字塔或庞氏骗局。.</p><p>这 'Proof of Weak Hands'的机制实际上并不匹配这些标签，但我们知道很难掌握这一点。我们认识到，在历史，以这种方式管理的价值是不可信的,但对于智能合约来说并不是不可能。这里根本没有阴谋——它是坦率的，诚实的，完全透明的。.</p><p>我们喜欢描述这一点的方式是指出，在我们使用金字塔图像的任何地方，金字塔都用天空中倒置的复制品来反映，我们已经把两个尖端之间的焦点转移了。</p><p>在一个标准的金字塔方案中，第一个投资者从游戏中获益最大，因为新的投资者将资金漏向顶端。在反向金字塔计划中，目标是试图通过试图回报最新的投资者来实现指数增长。</p><p><b>在我们的例子中，两者都不是准确的。我们只是推动每个人.</b></p><p>形状反而形成沙漏，双方都在不断地战斗。就像沙漏一样，在两个金字塔之间流动的沙子（ETH体积）是这个游戏的主要组成部分，既不奖励第一个投资者也不奖励最后一个。但仅仅是每个人通过许多价格波动，尽可能地握住权标. </p><p>如果你必须指定一个名称，至少把它称为“沙漏模型”.</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>只是币而已嘛?",
+				"content": "<p>如果你最近在一个电子钱包里做了一笔交易，你很可能会收到一个 '<b>JUST powh.io</b>' 币, 也许它甚至把你带到这里! </p><p>这个标志是我们在Erc20中使用了一个巧妙的漏洞，给每个拥有ETH钱包的人一个广告代币。它实际上是送给我们的一个社区成员的礼物，它运行一个挖掘程序，故意把令牌尽可能多地传到钱包里，因为我猜我们也是第一个开发出一个给其他人代币的密探的开发者。. </p><p>在3天内，我们的令牌成为世界上最大和最广泛拥有的Erc20令牌，160万+钱包目前持有一个明显的反应.</p><p>我们很遗憾地通知你，广告令牌毫无价值，不能交易，出售，甚至赎回价值。任何想从钱包里取出来的尝试都会让你得到更多。</p><p>保持它，这是我们的小礼物来自我们的社区，给你!</p>"
+			},
+			{
+				"title": "<i class='ion ion-help-buoy left'></i>白皮书?",
+				"content": "<p><b>总结:</b> 一种分散的经济算法，区块链管理的密码学，其中所有交易的税收被自动地授予货币所有者而不是管理机构；基于收益和交易量导致普遍的被动收入。.</p><p><b>PoWH3D</b> 是一个虚构的真实链的强制仿真 <a href='https://en.wikipedia.org/wiki/Pareto_efficiency'><i><b>是一个帕累托最优解</b></i></a>; 一种经济概念，不再有资源分配的方法来发展，不损害模型的参与者。在这种情况下，由于对其他交易者缺乏耐心，或者作为开始游戏的入场费，会造成损失。.</p><p>用人类的话来说这是一个互惠互利的协议，你进场或离场对其他持有者都是有好处的。这些费用被分配给令牌持有者作为股票回报的一种形式。由此产生的基于总量的收入增加到了三维，在如今的虚拟货币基础上加入了 价格/时间 计算.</p>"
+			}
+		]
+	}
+}
